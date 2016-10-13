@@ -3,523 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/application.properties" timestamp="1476031356755">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/build.gradle" timestamp="1475921592970">
-        <mark key="[" line="31" column="16" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/service/CustomerRepository.java" timestamp="1475987750812">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="7" />
-        <mark key="^" line="15" column="7" />
-        <mark key="." line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/AddCalclator.java" timestamp="1475677251000">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/domain/Customer.java" timestamp="1475988371722">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/service/ProductDaoImpl.java" timestamp="1475390101865">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="11" column="9" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Argument.java" timestamp="1475727656866">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/domain/Product.java" timestamp="1475390830874">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="21" column="3" />
-        <mark key="^" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/domain/Customer.java" timestamp="1475750734179">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="28" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1475994400304">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/api/CustomerRestController.java" timestamp="1475994360996">
-        <mark key="[" line="27" column="39" />
-        <mark key="]" line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-        <mark key="." line="27" column="46" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot/build.gradle" timestamp="1475676011744">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="30" column="15" />
-        <mark key="^" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/schema.sql" timestamp="1475982888477">
-        <mark key="[" line="0" column="115" />
-        <mark key="]" line="0" column="115" />
-        <mark key="^" line="0" column="115" />
-        <mark key="." line="0" column="115" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/application.properties" timestamp="1475985643856">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="^" line="1" column="41" />
-        <mark key="." line="1" column="43" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/CustomerRepository.java" timestamp="1475983302860">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="76" />
-        <mark key="^" line="8" column="76" />
-        <mark key="." line="8" column="76" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1476029680459">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/resources/data.sql" timestamp="1475988670211">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Frontend.java" timestamp="1475680357142">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="51" />
-        <mark key="." line="18" column="51" />
-        <mark key="^" line="18" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/sample.config.applicationContext.xml" timestamp="1475390544716">
-        <mark key="[" line="11" column="49" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="50" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/AppConfig.java" timestamp="1475740600773">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="496" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/customers/list.html" timestamp="1476030484622">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="55" />
-        <mark key="." line="49" column="55" />
-        <mark key="^" line="49" column="55" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/domain/Customer.java" timestamp="1475984199098">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
-        <mark key="[" line="31" column="69" />
-        <mark key="]" line="32" column="65" />
-        <mark key="." line="32" column="65" />
-        <mark key="^" line="32" column="65" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/repository/CustomerRepository.java" timestamp="1475749276649">
-        <mark key="[" line="31" column="47" />
-        <mark key="]" line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/resources/applicationContext.xml" timestamp="1475396564898">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="70" />
-        <mark key="." line="9" column="70" />
-        <mark key="^" line="9" column="70" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/web/CustomerController.java" timestamp="1476029769895">
-        <mark key="[" line="64" column="52" />
-        <mark key="]" line="64" column="61" />
-        <mark key="." line="64" column="61" />
-        <mark key="^" line="64" column="61" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/customers/edit.html" timestamp="1476020103410">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="55" />
-        <mark key="." line="23" column="55" />
-        <mark key="^" line="23" column="55" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/demo/src/main/java/com/example/DemoApplication.java" timestamp="1475286855700">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerRepository.java" timestamp="1475995725278">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/UserRepository.java" timestamp="1476028662082">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="67" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/HajibootLayeringApplication.java" timestamp="1475749296912">
-        <mark key="[" line="25" column="51" />
-        <mark key="]" line="25" column="52" />
-        <mark key="^" line="25" column="52" />
-        <mark key="." line="25" column="52" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ScannerArgumentResolver.java" timestamp="1475748010455">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/java/sample/di/business/service/ProductServiceImpl.java" timestamp="1475396427619">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/web/LoginController.java" timestamp="1476029832793">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="68" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="3" column="68" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot/src/main/java/com/example/HajibootApplication.java" timestamp="1475677009836">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="24" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/LoginUserDetailsService.java" timestamp="1476029143790">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="13" column="66" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/db/migration/V3__add_user.sql" timestamp="1476031118493">
-        <mark key="[" line="4" column="95" />
-        <mark key="]" line="4" column="95" />
-        <mark key="^" line="4" column="95" />
-        <mark key="." line="4" column="95" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Main.java" timestamp="1476229293935">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="58" />
-        <mark key="." line="17" column="58" />
-        <mark key="^" line="17" column="58" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/service/ProductDao.java" timestamp="1475389824685">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/migration/V2__import-initial-data.sql" timestamp="1476027683532">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="4" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/service/CustomerService.java" timestamp="1475987671792">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1475987704153">
-        <mark key="[" line="30" column="45" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="45" />
-        <mark key="^" line="29" column="61" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/SecurityConfig.java" timestamp="1476031573307">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/build.gradle" timestamp="1475983364130">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="45" />
-        <mark key="^" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/layout.html" timestamp="1476032440729">
-        <mark key="[" line="3" column="53" />
-        <mark key="]" line="3" column="53" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="53" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/db/migration/V2__import-initial-data.sql" timestamp="1476027877815">
-        <mark key="[" line="3" column="71" />
-        <mark key="]" line="0" column="66" />
-        <mark key="^" line="0" column="66" />
-        <mark key="." line="3" column="71" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/AddCalculator.java" timestamp="1475748000587">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/aop-annotation/src/main/java/sample/ProductSampleRun.java" timestamp="1475413659620">
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
-        <mark key="^" line="27" column="1" />
-        <mark key="." line="27" column="1" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/AssetUtil.java" timestamp="1476357558768">
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/schema.sql" timestamp="1475751240223">
-        <mark key="[" line="0" column="102" />
-        <mark key="]" line="0" column="102" />
-        <mark key="^" line="0" column="102" />
-        <mark key="." line="0" column="102" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/build.gradle" timestamp="1475727192012">
-        <mark key="[" line="29" column="59" />
-        <mark key="]" line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/data.sql" timestamp="1475995639635">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/data.sql" timestamp="1475986259484">
-        <mark key="[" line="3" column="61" />
-        <mark key="]" line="3" column="68" />
-        <mark key="^" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/web/CustomerForm.java" timestamp="1475998099970">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="26" />
-        <mark key="^" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Asset.java" timestamp="1476228394779">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="28" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerService.java" timestamp="1475994383630">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/di-javaconfig/src/main/resources/log4j.xml" timestamp="1475405224147">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Caluculator.java" timestamp="1475727395191">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="20" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1476194364822">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
-        <mark key="[" line="25" column="44" />
-        <mark key="]" line="25" column="45" />
-        <mark key="." line="25" column="45" />
-        <mark key="^" line="26" column="56" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/HajibootJdbcApplication.java" timestamp="1475814354382">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="26" />
-        <mark key="." line="32" column="26" />
-        <mark key="^" line="32" column="26" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1475727214281">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/application.properties" timestamp="1475927414582">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="61" />
-        <mark key="^" line="1" column="61" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/build.gradle" timestamp="1475989655451">
-        <mark key="[" line="30" column="50" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="50" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/mybatis/ExtXMLLanguageDriver.java" timestamp="1476156858481">
-        <mark key="[" line="36" column="51" />
-        <mark key="]" line="36" column="64" />
-        <mark key="." line="36" column="64" />
-        <mark key="^" line="27" column="55" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerRepository.java" timestamp="1475988584340">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/domain/User.java" timestamp="1476028477222">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="26" column="36" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="26" column="36" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/java/sample/ProductSampleRun.java" timestamp="1475396191548">
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="18" column="16" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/static/css/style.css" timestamp="1476015618960">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/service/ProductService.java" timestamp="1475389608810">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/resources/application.properties" timestamp="1475989532695">
-        <mark key="[" line="1" column="90" />
-        <mark key="]" line="3" column="111" />
-        <mark key="^" line="3" column="111" />
-        <mark key="." line="3" column="111" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/domain/Customer.java" timestamp="1476028597104">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="^" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/LoginUserDetails.java" timestamp="1476031229004">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/repository/CustomerRepository.java" timestamp="1475928354893">
-        <mark key="[" line="31" column="82" />
-        <mark key="]" line="32" column="39" />
-        <mark key="." line="32" column="39" />
-        <mark key="^" line="32" column="39" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/service/CustomerService.java" timestamp="1475927712883">
-        <mark key="[" line="31" column="30" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
-        <mark key="^" line="31" column="36" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/domain/Customer.java" timestamp="1475748561214">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1475729948161">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/ProductSampleRun.java" timestamp="1475395365647">
-        <mark key="[" line="25" column="67" />
-        <mark key="]" line="26" column="7" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="26" column="7" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/loginForm.html" timestamp="1476030415234">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="18" column="77" />
-        <mark key="." line="18" column="77" />
-        <mark key="^" line="18" column="77" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/migration/V1__create-schema.sql" timestamp="1476027588250">
-        <mark key="[" line="0" column="102" />
-        <mark key="]" line="0" column="102" />
-        <mark key="^" line="0" column="102" />
-        <mark key="." line="0" column="102" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/gs-rest-service/initial/src/main/java/hello/Application.java" timestamp="1475334884328">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="3" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerService.java" timestamp="1476029632658">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Spring4/aop-annotation/src/main/java/sample/aop/MyFirstAspect.java" timestamp="1475415406084">
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="66" column="56" />
-        <mark key="^" line="66" column="56" />
-        <mark key="." line="66" column="56" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/HajibootDiApplication.java" timestamp="1475748275011">
         <mark key="[" line="17" column="12" />
@@ -527,58 +15,164 @@
         <mark key="." line="17" column="12" />
         <mark key="^" line="15" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1476194706171">
+      <file name="/File Header.txt.ft" timestamp="1475730043112">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="3" />
+        <mark key="." line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/domain/Customer.java" timestamp="1475750734179">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/HajibootJdbcApplication.java" timestamp="1475814354382">
+        <mark key="[" line="32" column="12" />
+        <mark key="]" line="32" column="26" />
+        <mark key="." line="32" column="26" />
+        <mark key="^" line="32" column="26" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Caluculator.java" timestamp="1475727395191">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/AddCalculator.java" timestamp="1475748000587">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/support/mail/impl/javamail/MessageContextImpl.java" timestamp="1476237648755">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/mybatis/ExtXMLLanguageDriver.java" timestamp="1476156858481">
+        <mark key="[" line="36" column="51" />
+        <mark key="]" line="36" column="64" />
+        <mark key="." line="36" column="64" />
+        <mark key="^" line="27" column="55" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1475729945276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/schema.sql" timestamp="1475751240223">
+        <mark key="[" line="0" column="102" />
+        <mark key="]" line="0" column="102" />
+        <mark key="^" line="0" column="102" />
+        <mark key="." line="0" column="102" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475727214281">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ScannerArgumentResolver.java" timestamp="1475748010455">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="68" />
+        <mark key="^" line="3" column="68" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/build.gradle" timestamp="1475727192012">
+        <mark key="[" line="29" column="59" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/domain/Customer.java" timestamp="1475748561214">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/repository/CustomerRepository.java" timestamp="1475749276649">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Argument.java" timestamp="1475727656866">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1475729948161">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/support/mail/impl/javamail/MessageSenderImpl.java" timestamp="1476237398708">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
+      <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/HajibootLayeringApplication.java" timestamp="1475749296912">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="52" />
+        <mark key="^" line="25" column="52" />
+        <mark key="." line="25" column="52" />
+      </file>
     </filemarks>
-    <jumps>
-      <jump line="13" column="22" filename="$USER_HOME$/playgrounds/functional-java/src/com/company/Main.java" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>stream</text>
-      </register>
-      <register name="-" type="4">
-        <text>stream</text>
-      </register>
-      <register name="/" type="4">
-        <text>lastName</text>
-      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBBc3NldChBc3NldC5Bc3NldFR5cGUuQk9ORCwgMTAwMCksCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gQ3VzdG9tZXIoZmlyc3ROYW1lLCBsYXN0TmFtZSkgVkFMVUVTKCdOb2JpdGEnLCAnTm9iaScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXNzZXRzLnN0cmVhbSgpLnJlZHVkOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3FsU291cmNlIHdyYXAoU3FsU291cmNlIHNxbFNvdXJjZSkgewogICAgICAgIHJldHVybiBuZXcgU3FsU291cmNlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEJvdW5kU3FsIGdldEJvdW5kU3FsKE9iamVjdCBwYXJhbWV0ZXJPYmplY3QpIHsKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
       </register>
-      <register name="q" type="4">
-        <text />
+      <register name="&quot;" type="4">
+        <text>MessageContextImpl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IHZhbHVlOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3FsU291cmNl44KS44Op44OD44OX44GX44Gm5pqX6buZ44Gu44OR44Op44Oh44K/44KS5LuY5LiO44GZ5qmf6IO944KS5LuY5Yqg44GX44G+44GZ44CCCiAgICAgKgogICAgICogQHBhcmFtIHNxbFNvdXJjZQogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3cml0ZSB5b3VyIGNvZGUgaGVyZQovLyAgICAgICAgZmluYWwgTGlzdDxQZXJzb24+IG5hbWVzID0gQXJyYXlzLmFzTGlzdChuZXcgUGVyc29uKCJhIiwgMSksIG5ldyBQZXJzb24oImIiLCAxKSwgbmV3IFBlcnNvbigiYyIsIDIpLCBuZXcgUGVyc29uKCJkIiwgMyksIG5ldyBQZXJzb24oImUiLCA0KSk7Ci8vICAgICAgICBmaW5hbCBMaXN0PFBlcnNvbj4gdXBwZXJOYW1lcyA9IG5hbWVzLnN0cmVhbSgpCi8vICAgICAgICAgICAgICAgIC5zb3J0ZWQoKHBlcnNvbjEsIHBlcnNvbjIpIC0+IHBlcnNvbjIuYWdlIC0gcGVyc29uMS5hZ2UpCi8vICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwovLyAgICAgICAgdXBwZXJOYW1lcy5zdHJlYW0oKS5tYXAoUGVyc29uOjpnZXROYW1lKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwogICAgICAgIFN0cmVhbS5vZihuZXcgRmlsZSgiLi8iKS5saXN0RmlsZXMoKSkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKGZpbGUgLT4gZmlsZS5saXN0RmlsZXMoKSA9PSBudWxsID8gU3RyZWFtLm9mKGZpbGUpIDogU3RyZWFtLm9mKGZpbGUubGlzdEZpbGVzKCkpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkKICAgICAgICAgICAgICAgIC5mb3JFYWNoKGZpbGUgLT4gU3lzdGVtLm91dC5wcmludGxuKGZpbGUuZ2V0TmFtZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4ZWNDb250ZXh0IGVjdHggPSBFeGVjQ29udGV4dEhvbGRlci5nZXQoKTsKICAgICAgICAgICAgICAgIEJvdW5kU3FsIGJvdW5kU3FsID0gc3FsU291cmNlLmdldEJvdW5kU3FsKHBhcmFtZXRlck9iamVjdCk7CiAgICAgICAgICAgICAgICBib3VuZFNxbC5zZXRBZGRpdGlvbmFsUGFyYW1ldGVyKEFERElUSU9OQUxfUEFSQU1fUFJPQywgZWN0eC5nZXRQcm9jSWQoKSk7CiAgICAgICAgICAgICAgICBib3VuZFNxbC5zZXRBZGRpdGlvbmFsUGFyYW1ldGVyKEFERElUSU9OQUxfUEFSQU1fTk9XLCBlY3R4LmdldERhdGUoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gYm91bmRTcWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUGVyc29uIHsKCiAgICBTdHJpbmcgbmFtZTsKICAgIGludCBhZ2U7CgogICAgUGVyc29uKFN0cmluZyBuYW1lLCBpbnQgYWdlKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLmFnZSA9IGFnZTsKICAgIH0KCiAgICB2b2lkIHByaW50KCkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lKTsKICAgIH0KCiAgICBzdGF0aWMgdm9pZCBzdGF0aWNQcmludChQZXJzb24gbmFtZSkgewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuYW1lLm5hbWUpOwogICAgfQoKICAgIFN0cmluZyBnZXROYW1lKCkgewogICAgICAgIHJldHVybiBuYW1lOwogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRnVuY3Rpb248U3FsU291cmNlLCBTcWxTb3VyY2U+IHNxbFNvdXJjZSAtPiBwYXJhbWV0ZXJPYmplY3QgLT4gewogICAgICAgIAogICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRnVuY3Rpb248U3FsU291cmNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gQ3VzdG9tZXIoZmlyc3ROYW1lLCBsYXN0TmFtZSkgVkFMVUVTKCdUYWtlc2hpJywgJ0dvZGEnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFBlcnNvbiB1cHBlck5hbWUgOiB1cHBlck5hbWVzKSB7Cg==</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gQ3VzdG9tZXIoZmlyc3ROYW1lLCBsYXN0TmFtZSkgVkFMVUVTKCdOb2JpdGEnLCAnTm9iaScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">CQkJCS5hZGRWYWx1ZSgiYiIsIDIwMCk7Cg==</text>
       </register>
-      <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</text>
+      <register name="-" type="4">
+        <text>MessageContextImpl</text>
       </register>
     </registers>
     <search>
@@ -586,33 +180,14 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxkcml2ZXJcPg==</entry>
-        <entry>meta</entry>
-        <entry encoding="base64">XDxmaWVsZHNldFw+</entry>
-        <entry>lastName</entry>
-      </history-search>
-      <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
