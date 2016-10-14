@@ -393,10 +393,11 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/tdd-lecture/memo.md" timestamp="1476421723475">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repos/tdd-lecture/memo.md" timestamp="1476424197454">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="26" column="17" />
+        <mark key="." line="26" column="17" />
+        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/LoginUserDetails.java" timestamp="1476031229004">
         <mark key="[" line="17" column="0" />
@@ -578,13 +579,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MessageContextImpl</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>lastName</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gQ3VzdG9tZXIoZmlyc3ROYW1lLCBsYXN0TmFtZSkgVkFMVUVTKCdOb2JpdGEnLCAnTm9iaScpOwo=</text>
+        <text encoding="base64">c3VmZml444Gu44Go44GN44Gv44CB44OG44K544OI44OV44Kh44Kk44Or44Go5a++6LGh44OV44Kh44Kk44Or44GMMeS9kzHlr77lv5wK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -593,28 +594,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBBZnRlcgo=</text>
+        <text encoding="base64">5pyA5Yid44Gu44OG44K544OI44GM5LiA55Wq44Oq44K544Kv44GM44GC44KL44GL44KJ44CB44Gd44Gu6YOo5YiG44KSCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQWZ0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQmVmb3JlCg==</text>
+        <text encoding="base64">ICAgIEBBZnRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3FsU291cmNlIHdyYXAoU3FsU291cmNlIHNxbFNvdXJjZSkgewogICAgICAgIHJldHVybiBuZXcgU3FsU291cmNlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEJvdW5kU3FsIGdldEJvdW5kU3FsKE9iamVjdCBwYXJhbWV0ZXJPYmplY3QpIHsKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQWZ0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3FsU291cmNl44KS44Op44OD44OX44GX44Gm5pqX6buZ44Gu44OR44Op44Oh44K/44KS5LuY5LiO44GZ5qmf6IO944KS5LuY5Yqg44GX44G+44GZ44CCCiAgICAgKgogICAgICogQHBhcmFtIHNxbFNvdXJjZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQmVmb3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3FsU291cmNlIHdyYXAoU3FsU291cmNlIHNxbFNvdXJjZSkgewogICAgICAgIHJldHVybiBuZXcgU3FsU291cmNlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEJvdW5kU3FsIGdldEJvdW5kU3FsKE9iamVjdCBwYXJhbWV0ZXJPYmplY3QpIHsKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEV4ZWNDb250ZXh0IGVjdHggPSBFeGVjQ29udGV4dEhvbGRlci5nZXQoKTsKICAgICAgICAgICAgICAgIEJvdW5kU3FsIGJvdW5kU3FsID0gc3FsU291cmNlLmdldEJvdW5kU3FsKHBhcmFtZXRlck9iamVjdCk7CiAgICAgICAgICAgICAgICBib3VuZFNxbC5zZXRBZGRpdGlvbmFsUGFyYW1ldGVyKEFERElUSU9OQUxfUEFSQU1fUFJPQywgZWN0eC5nZXRQcm9jSWQoKSk7CiAgICAgICAgICAgICAgICBib3VuZFNxbC5zZXRBZGRpdGlvbmFsUGFyYW1ldGVyKEFERElUSU9OQUxfUEFSQU1fTk9XLCBlY3R4LmdldERhdGUoKSk7CiAgICAgICAgICAgICAgICByZXR1cm4gYm91bmRTcWw7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU3FsU291cmNl44KS44Op44OD44OX44GX44Gm5pqX6buZ44Gu44OR44Op44Oh44K/44KS5LuY5LiO44GZ5qmf6IO944KS5LuY5Yqg44GX44G+44GZ44CCCiAgICAgKgogICAgICogQHBhcmFtIHNxbFNvdXJjZQogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRnVuY3Rpb248U3FsU291cmNlLCBTcWxTb3VyY2U+IHNxbFNvdXJjZSAtPiBwYXJhbWV0ZXJPYmplY3QgLT4gewogICAgICAgIAogICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</text>
