@@ -109,6 +109,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="42" />
       </file>
+      <file name="$USER_HOME$/repos/tddbc/src/tddbc/SemanticVersioningException.java" timestamp="1476429787932">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="65" />
+        <mark key="^" line="5" column="65" />
+        <mark key="." line="5" column="65" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot/build.gradle" timestamp="1475676011744">
         <mark key="[" line="30" column="15" />
         <mark key="]" line="30" column="15" />
@@ -178,12 +184,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" timestamp="1476427864863">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="37" column="73" />
-        <mark key="]" line="37" column="73" />
-        <mark key="." line="37" column="73" />
-        <mark key="^" line="37" column="73" />
+      <file name="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" timestamp="1476431168435">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/build.gradle" timestamp="1475989655451">
         <mark key="[" line="30" column="50" />
@@ -326,11 +331,11 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/tddbc/src/tddbc/SemanticVersioning.java" timestamp="1476427938807">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="47" />
-        <mark key="^" line="11" column="47" />
-        <mark key="." line="11" column="47" />
+      <file name="$USER_HOME$/repos/tddbc/src/tddbc/SemanticVersioning.java" timestamp="1476431241217">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="55" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
         <mark key="[" line="7" column="26" />
@@ -532,11 +537,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/tddbc/TODO.md" timestamp="1476427400223">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="35" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="21" />
+      <file name="$USER_HOME$/repos/tddbc/TODO.md" timestamp="1476430604646">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/resources/applicationContext.xml" timestamp="1475396564898">
         <mark key="[" line="9" column="69" />
@@ -589,65 +595,68 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1476427078551">
+      <file name="/fragment.java" timestamp="1476429771618">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="24" column="6" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
+      <jump line="57" column="30" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/tddbc/TODO.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>major</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>major</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>Major</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBfMV/jgahfNF/jgahfMl/jga7mloflrZfliJfjgpLmuKHjgZfjgaZfMeODieODg+ODiDTjg4njg4Pjg4gyX+OBruaWh+Wtl+WIl+OCkui/lOOBmSAoKSB7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCIxLjQuMiIsIHNlbWFudGljVmVyc2lvbmluZy5nZXRWZXJzaW9uKCIxIiwgIjQiLCAiMiIpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3Mg44Kk44Oz44K544K/44Oz44K55L2c5oiQIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5nZXRNYWpvcigpICE9IHNlbXZlci5nZXRNYWpvcigpKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CiAgICAgICAgaWYgKHRoaXMuZ2V0TWlub3IoKSAhPSBzZW12ZXIuZ2V0TWlub3IoKSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGlmICh0aGlzLmdldFBhdGNoKCkgIT0gc2VtdmVyLmdldFBhdGNoKCkpIHsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNlbWFudGljVmVyc2lvbmluZyBzZW1hbnRpY1ZlcnNpb25pbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gWyBdIAo=</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIOWJjea6luWCmSgpIHsKICAgICAgICBzZW1hbnRpY1ZlcnNpb25pbmcgPSBuZXcgU2VtYW50aWNWZXJzaW9uaW5nKCk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIF8xX+OBqF80X+OBqF8yX+OBruaWh+Wtl+WIl+OCkua4oeOBl+OBpl8x44OJ44OD44OINOODieODg+ODiDJf44Gu5paH5a2X5YiX44KS6L+U44GZICgpIHsKICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygxLCA0LCAyKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIjEuNC4yIiwgc2VtYW50aWNWZXJzaW9uaW5nLmdldFZlcnNpb24oKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIF8yX+OBqF8xMF/jgahfMF/jga7mloflrZfliJfjgpLmuKHjgZfjgaZfMuODieODg+ODiDEw44OJ44OD44OIMF/jga7mloflrZfliJfjgpLov5TjgZkgKCkgewogICAgICAgIFNlbWFudGljVmVyc2lvbmluZyBzZW1hbnRpY1ZlcnNpb25pbmcgPSBuZXcgU2VtYW50aWNWZXJzaW9uaW5nKDIsIDEwLCAwKTsKICAgICAgICBhc3NlcnRFcXVhbHMoIjIuMTAuMCIsIHNlbWFudGljVmVyc2lvbmluZy5nZXRWZXJzaW9uKCkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBzZXRNYWpvcuOBl+OBn+aVsOWtl+OCkmdldE1ham9y44Gn5pWw5a2X44KS6L+U44GZICgpIHsKICAgICAgICBzZW1hbnRpY1ZlcnNpb25pbmcuc2V0TWFqb3IoMSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIHNlbWFudGljVmVyc2lvbmluZy5nZXRNYWpvcigpKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgc2V0TWlub3LjgZfjgZ/mlbDlrZfjgpJnZXRNaW5vcuOBp+aVsOWtl+OCkui/lOOBmSAoKSB7CiAgICAgICAgc2VtYW50aWNWZXJzaW9uaW5nLnNldE1pbm9yKDEpOwogICAgICAgIGFzc2VydEVxdWFscygxLCBzZW1hbnRpY1ZlcnNpb25pbmcuZ2V0TWlub3IoKSk7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHNldFBhdGNo44GX44Gf5pWw5a2X44KSZ2V0UGF0Y2jjgafmlbDlrZfjgpLov5TjgZkgKCkgewogICAgICAgIHNlbWFudGljVmVyc2lvbmluZy5zZXRQYXRjaCgxKTsKICAgICAgICBhc3NlcnRFcXVhbHMoMSwgc2VtYW50aWNWZXJzaW9uaW5nLmdldFBhdGNoKCkpOwogICAgfQoKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAgbWFqb3Ljgatf44Oe44Kk44OK44K5MeOCkua4oeOBmeOBqOOCqOODqeODvOOCkui/lOOBmSgpIHsKCiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc2VtYW50aWNWZXJzaW9uaW5nLnNldE1ham9yKC0xKTsKICAgICAgICB9IGNhdGNoIChTZW1hbnRpY1ZlcnNpb25pbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICBmYWlsKCLmg7PlrprjgZXjgozjgZ/jgqjjg6njg7zjgYzmipXjgZLjgonjgozjgb7jgZvjgpPjgafjgZfjgZ/jgIIiKTsKICAgIH0KCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgIG1pbm9y44GrX+ODnuOCpOODiuOCuTHjgpLmuKHjgZnjgajjgqjjg6njg7zjgpLov5TjgZkoKSB7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHNlbWFudGljVmVyc2lvbmluZy5zZXRNaW5vcigtMSk7CiAgICAgICAgfSBjYXRjaCAoU2VtYW50aWNWZXJzaW9uaW5nRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgZmFpbCgi5oOz5a6a44GV44KM44Gf44Ko44Op44O844GM5oqV44GS44KJ44KM44G+44Gb44KT44Gn44GX44Gf44CCIik7CiAgICB9CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkICBwYXRjaOOBq1/jg57jgqTjg4rjgrkx44KS5rih44GZ44Go44Ko44Op44O844KS6L+U44GZKCkgewoKICAgICAgICB0cnkgewogICAgICAgICAgICBzZW1hbnRpY1ZlcnNpb25pbmcuc2V0UGF0Y2goLTEpOwogICAgICAgIH0gY2F0Y2ggKFNlbWFudGljVmVyc2lvbmluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9CgogICAgICAgIGZhaWwoIuaDs+WumuOBleOCjOOBn+OCqOODqeODvOOBjOaKleOBkuOCieOCjOOBvuOBm+OCk+OBp+OBl+OBn+OAgiIpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBbIF0gMOacqua6gOOBruaVsOWtl+OCkua4oeOBmeOBqOOCqOODqeODvOOCkui/lOOBmQoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gWyBdIDDjgpLmuKHjgZfjgaYiMCLjgpLov5TjgZkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/_/g</text>
+        <text encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
-      <last-pattern>&quot;</last-pattern>
-      <last-replace>_</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-search>Major</last-search>
+      <last-pattern>Major</last-pattern>
+      <last-replace>Patch</last-replace>
+      <last-substitute>Major</last-substitute>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
@@ -658,10 +667,12 @@
         <entry encoding="base64">XDxmaWVsZHNldFw+</entry>
         <entry>lastName</entry>
         <entry>&quot;</entry>
+        <entry>Major</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
         <entry>s/&quot;/_/g</entry>
+        <entry encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -681,6 +692,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
