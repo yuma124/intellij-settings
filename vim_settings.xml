@@ -84,6 +84,7 @@
         <mark key="^" line="8" column="76" />
         <mark key="." line="8" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/tddbc/test.src/tddbc/MainTest.java" timestamp="1476426091794" />
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/repository/CustomerRepository.java" timestamp="1475928354893">
         <mark key="[" line="31" column="82" />
         <mark key="]" line="32" column="39" />
@@ -176,6 +177,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" timestamp="1476427864863">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="37" column="73" />
+        <mark key="]" line="37" column="73" />
+        <mark key="." line="37" column="73" />
+        <mark key="^" line="37" column="73" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/build.gradle" timestamp="1475989655451">
         <mark key="[" line="30" column="50" />
@@ -317,6 +325,12 @@
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/tddbc/src/tddbc/SemanticVersioning.java" timestamp="1476427938807">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
         <mark key="[" line="7" column="26" />
@@ -518,6 +532,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/repos/tddbc/TODO.md" timestamp="1476427400223">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="34" />
+        <mark key="." line="8" column="21" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/resources/applicationContext.xml" timestamp="1475396564898">
         <mark key="[" line="9" column="69" />
         <mark key="]" line="9" column="70" />
@@ -569,61 +589,67 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1476363579242">
+      <file name="/fragment.java" timestamp="1476427078551">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="24" column="6" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
+    </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>major</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>major</text>
       </register>
       <register name="/" type="4">
-        <text>lastName</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VmZml444Gu44Go44GN44Gv44CB44OG44K544OI44OV44Kh44Kk44Or44Go5a++6LGh44OV44Kh44Kk44Or44GMMeS9kzHlr77lv5wK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBfMV/jgahfNF/jgahfMl/jga7mloflrZfliJfjgpLmuKHjgZfjgaZfMeODieODg+ODiDTjg4njg4Pjg4gyX+OBruaWh+Wtl+WIl+OCkui/lOOBmSAoKSB7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCIxLjQuMiIsIHNlbWFudGljVmVyc2lvbmluZy5nZXRWZXJzaW9uKCIxIiwgIjQiLCAiMiIpKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">5pyA5Yid44Gu44OG44K544OI44GM5LiA55Wq44Oq44K544Kv44GM44GC44KL44GL44KJ44CB44Gd44Gu6YOo5YiG44KSCg==</text>
+        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZW1hbnRpY1ZlcnNpb25pbmcgc2VtYW50aWNWZXJzaW9uaW5nID0gbmV3IFNlbWFudGljVmVyc2lvbmluZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBZnRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQWZ0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBvcmcuanVuaXQuQmVmb3JlCg==</text>
+        <text encoding="base64">ICAgIC0gWyBdIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3FsU291cmNlIHdyYXAoU3FsU291cmNlIHNxbFNvdXJjZSkgewogICAgICAgIHJldHVybiBuZXcgU3FsU291cmNlKCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIEJvdW5kU3FsIGdldEJvdW5kU3FsKE9iamVjdCBwYXJhbWV0ZXJPYmplY3QpIHsKICAgICAgICAgICAgfQogICAgICAgIH07CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3FsU291cmNl44KS44Op44OD44OX44GX44Gm5pqX6buZ44Gu44OR44Op44Oh44K/44KS5LuY5LiO44GZ5qmf6IO944KS5LuY5Yqg44GX44G+44GZ44CCCiAgICAgKgogICAgICogQHBhcmFtIHNxbFNvdXJjZQogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">LSBbIF0gMOacqua6gOOBruaVsOWtl+OCkua4oeOBmeOBqOOCqOODqeODvOOCkui/lOOBmQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0gWyBdIDDjgpLmuKHjgZfjgaYiMCLjgpLov5TjgZkK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</text>
+        <text>s/&quot;/_/g</text>
       </register>
     </registers>
     <search>
+      <last-search>&quot;</last-search>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>_</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -631,9 +657,11 @@
         <entry>meta</entry>
         <entry encoding="base64">XDxmaWVsZHNldFw+</entry>
         <entry>lastName</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
+        <entry>s/&quot;/_/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
