@@ -291,6 +291,12 @@
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartForm.java" timestamp="1477030660977">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Calculation.java" timestamp="1476504066266">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="8" column="17" />
@@ -371,11 +377,11 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartController.java" timestamp="1477022419569">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartController.java" timestamp="1477030825937">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
         <mark key="[" line="7" column="26" />
@@ -665,10 +671,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>cart</text>
       </register>
       <register name="/" type="4">
         <text>Major</text>
@@ -677,7 +683,7 @@
         <text encoding="base64">YSAtPiBiIC0+IGEgKyBiOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -686,25 +692,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgCg==</text>
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyQ29tcG9zZXIuY29tcG9zZShmaWx0ZXJDb21wb3Nlci5jb21wb3NlKG1pbnVzMywgbXVsdGlwbHk2KSwgZmlsdGVyQ29tcG9zZXIuY29tcG9zZShkaXZpZGUyLCBhZGQ1KSkuYXBwbHkoOCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyQ29tcG9zZXIuY29tcG9zZShmaWx0ZXJDb21wb3Nlci5jb21wb3NlKG1pbnVzMywgbXVsdGlwbHk2KSwgZmlsdGVyQ29tcG9zZXIuY29tcG9zZShkaXZpZGUyLCBhZGQ1KSkuYXBwbHkoOCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</text>
