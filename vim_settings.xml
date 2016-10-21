@@ -162,6 +162,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/account/goods/AddToCartForm.java" timestamp="1477020421574">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1475729945276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -464,6 +470,12 @@
         <mark key="^" line="26" column="36" />
         <mark key="." line="26" column="36" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/account/goods/GoodsController.java" timestamp="1477020660610">
+        <mark key="[" line="61" column="31" />
+        <mark key="]" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/application.properties" timestamp="1475985643856">
         <mark key="[" line="1" column="43" />
         <mark key="]" line="1" column="43" />
@@ -634,8 +646,8 @@
       <jump line="24" column="0" filename="$USER_HOME$/repos/tddbc/TODO.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -647,34 +659,34 @@
         <text encoding="base64">YSAtPiBiIC0+IGEgKyBiOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyQ29tcG9zZXIuY29tcG9zZShmaWx0ZXJDb21wb3Nlci5jb21wb3NlKG1pbnVzMywgbXVsdGlwbHk2KSwgZmlsdGVyQ29tcG9zZXIuY29tcG9zZShkaXZpZGUyLCBhZGQ1KSkuYXBwbHkoOCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVyQ29tcG9zZXIuY29tcG9zZShmaWx0ZXJDb21wb3Nlci5jb21wb3NlKG1pbnVzMywgbXVsdGlwbHk2KSwgZmlsdGVyQ29tcG9zZXIuY29tcG9zZShkaXZpZGUyLCBhZGQ1KSkuYXBwbHkoOCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb3NlcjxGaWx0ZXI+IGZpbHRlckNvbXBvc2VyID0gKGEsIGIpIC0+IHsKICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wb3NlcjxGaWx0ZXI8SW50ZWdlcj4+IGZpbHRlckNvbXBvc2VyID0gKGEsIGIpIC0+IDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</text>
