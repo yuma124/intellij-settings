@@ -144,6 +144,12 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/pom.xml" timestamp="1477275423187">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="20" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/AppConfig.java" timestamp="1475740600773">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
@@ -156,11 +162,11 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/order/OrderController.java" timestamp="1477039859372">
-        <mark key="[" line="57" column="81" />
-        <mark key="]" line="57" column="81" />
-        <mark key="^" line="57" column="81" />
-        <mark key="." line="57" column="81" />
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/order/OrderController.java" timestamp="1477275089215">
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="25" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="30" column="25" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Filter.java" timestamp="1476503913600">
         <mark key="[" line="8" column="4" />
@@ -333,6 +339,13 @@
         <mark key="." line="36" column="64" />
         <mark key="^" line="27" column="55" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/infra/logging/HandlerExceptionResolverLoggingAspect.java" timestamp="1477275957919">
+        <mark key="'" line="28" column="45" />
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/domain/Product.java" timestamp="1475390830874">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="21" column="3" />
@@ -383,7 +396,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartController.java" timestamp="1477030825937">
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartController.java" timestamp="1477275027532">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="40" column="31" />
@@ -555,6 +568,12 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/resources/templates/error.html" timestamp="1477272421589">
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+      </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Main.java" timestamp="1476507546244">
         <mark key="'" line="13" column="22" />
         <mark key="[" line="27" column="23" />
@@ -680,13 +699,14 @@
       <jump line="57" column="30" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/tddbc/test.src/tddbc/SemanticVersioningTest.java" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/tddbc/TODO.md" />
+      <jump line="29" column="45" filename="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/infra/logging/HandlerExceptionResolverLoggingAspect.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QEFzcGVjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>Major</text>
@@ -695,34 +715,34 @@
         <text encoding="base64">YSAtPiBiIC0+IGEgKyBiOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEwMCkK</text>
+        <text encoding="base64">QEFzcGVjdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIoIm9yZGVyIikK</text>
+        <text encoding="base64">QEVuYWJsZUFzcGVjdEpBdXRvUHJveHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEwMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QENvbnRyb2xsZXIoIm9yZGVyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBNb2RlbEF0dHJpYnV0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgQEF1dG93aXJlZAogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</text>
