@@ -33,6 +33,12 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/configuration/MailConfiguration.java" timestamp="1477628362875">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="67" />
+        <mark key="." line="30" column="67" />
+        <mark key="^" line="30" column="67" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerRepository.java" timestamp="1475988584340">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="35" />
@@ -96,11 +102,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1477625400207">
-        <mark key="[" line="124" column="71" />
-        <mark key="]" line="124" column="82" />
-        <mark key="." line="124" column="82" />
-        <mark key="^" line="124" column="82" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1477627735500">
+        <mark key="[" line="156" column="69" />
+        <mark key="]" line="156" column="75" />
+        <mark key="." line="156" column="75" />
+        <mark key="^" line="156" column="75" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/CustomerRepository.java" timestamp="1475983302860">
         <mark key="[" line="8" column="36" />
@@ -197,11 +203,11 @@
         <mark key="^" line="10" column="27" />
         <mark key="." line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1477623915184">
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1477627435485">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="57" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/AppConfig.java" timestamp="1475740600773">
         <mark key="[" line="0" column="3" />
@@ -213,6 +219,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="45" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/support/mail/MailSenderTemplate.java" timestamp="1477628245092">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1477617665231">
         <mark key="[" line="31" column="19" />
@@ -400,13 +411,6 @@
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1477568227675">
-        <mark key="'" line="206" column="1" />
-        <mark key="[" line="214" column="31" />
-        <mark key="]" line="214" column="29" />
-        <mark key="." line="214" column="29" />
-        <mark key="^" line="214" column="29" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
@@ -601,12 +605,6 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="17" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/SendMailServiceTest.groovy" timestamp="1477567785254">
-        <mark key="'" line="95" column="23" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1476029680459">
         <mark key="[" line="42" column="25" />
         <mark key="]" line="42" column="28" />
@@ -688,7 +686,7 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/EventUpdateNotificationTemporary.java" timestamp="1477623164201">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/EventUpdateNotificationTemporary.java" timestamp="1477627430605">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="28" column="43" />
@@ -936,47 +934,47 @@
       <jump line="35" column="15" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUVuZ2luZS5hZGREaWFsZWN0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>bodyProps</text>
       </register>
       <register name="/" type="4">
         <text>#end</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog44Kk44OZ44Oz44OI44GM5pu05paw44GV44KM44Gf6Zqb44Gu44Oh44O844Or5pys5paH44KS5L2c5oiQ44GX44G+44GZCiAgICAgKiAKICAgICAqIEBwYXJhbSBhY2NvdW50CiAgICAgKiBAcGFyYW0gZXZlbnRVcGRhdGUKICAgICAqIEByZXR1cm4KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBuZXcgQ29udGV4dChMb2NhbGUuZ2V0RGVmYXVsdCgpLCBtb2RlbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUVuZ2luZS5hZGREaWFsZWN0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXBkYXRlZCAhPSAxTCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRlbXBsYXRlRW5naW5lLmFkZERpYWxlY3QobmV3IEphdmE4VGltZURpYWxlY3QoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoYm9keSArIGZvb3Rlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUVuZ2luZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0IGNvbnRleHQgPSBuZXcgQ29udGV4dChMb2NhbGUuZ2V0RGVmYXVsdCgpLCBtb2RlbCk7CiAgICAgICAgcmV0dXJuIHRlbXBsYXRlRW5naW5lLnByb2Nlc3ModGVtcGxhdGVMb2NhdGlvbiwgY29udGV4dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wbGF0ZUVuZ2luZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOuOCreODo+ODs+OCu+ODq+aZguOBruODoeODvOODq+acrOaWh+S9nOaIkAo=</text>
+        <text encoding="base64">ICAgICAgICBtYWlsU2VuZGVyVGVtcGxhdGUuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOuabtOaWsOaZguOBruODoeODvOODq+acrOaWh+S9nOaIkAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxNYWlsVGVtcG9yYXJ5PiBtYWlscywgRXZlbnRVcGRhdGVOb3RpZmljYXRpb25UZW1wb3JhcnkgZXZlbnRVcGRhdGUpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZm9vdGVyID0gbWFpbFNlbmRlclRlbXBsYXRlLmFwcGx5VGVtcGxhdGUoImZvb3Rlci50eHQiLCBudWxsKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXBkYXRlZCAhPSAxTCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyNlbmQvW1wvXS9n</text>
