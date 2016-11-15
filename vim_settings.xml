@@ -226,7 +226,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479217765761">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479217905900">
         <mark key="'" line="128" column="10" />
         <mark key="[" line="744" column="0" />
         <mark key="]" line="746" column="9" />
@@ -784,11 +784,10 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1478854125101">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1479218293765">
+        <mark key="]" line="40" column="33" />
+        <mark key="^" line="40" column="33" />
+        <mark key="." line="40" column="33" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1475994400304">
         <mark key="[" line="26" column="15" />
@@ -10834,11 +10833,10 @@
       <last-replace>eventManage\/complete</last-replace>
       <last-substitute>event\/complete</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;a&quot;)</entry>
         <entry>Type</entry>
         <entry encoding="base64">XDwvXD4=</entry>
         <entry>banned</entry>
