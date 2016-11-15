@@ -43,6 +43,11 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventServiceTest.groovy" timestamp="1479216446221">
+        <mark key="'" line="1332" column="34" />
+        <mark key="[" line="1332" column="0" />
+        <mark key="]" line="1332" column="38" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/input.js" timestamp="1479201644692">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -95,10 +100,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="42" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/MyTopController.java" timestamp="1478685409242">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="24" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" timestamp="1478604644996">
         <mark key="[" line="376" column="36" />
@@ -226,12 +227,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479209455460">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479216532065">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="64" column="45" />
-        <mark key="." line="64" column="45" />
-        <mark key="^" line="64" column="45" />
+        <mark key="[" line="744" column="0" />
+        <mark key="]" line="746" column="9" />
+        <mark key="^" line="101" column="36" />
+        <mark key="." line="744" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventSummaryInformation.xml" timestamp="1478669600379">
         <mark key="[" line="18" column="0" />
@@ -273,10 +274,6 @@
         <mark key="]" line="25" column="21" />
         <mark key="^" line="25" column="21" />
         <mark key="." line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/main/java/net/zexy/koimusubi/web/component/validation/NotWhitespace.java" timestamp="1478683819071">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="25" column="51" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Calculation.java" timestamp="1476504066266">
         <mark key="[" line="6" column="25" />
@@ -501,10 +498,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/main/java/net/zexy/koimusubi/web/component/validation/AnyInteger.java" timestamp="1478683775054">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="79" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/NgWordService.java" timestamp="1478689204706">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="32" />
@@ -645,10 +638,6 @@
         <mark key="]" line="200" column="34" />
         <mark key="." line="200" column="34" />
         <mark key="^" line="286" column="202" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/LoginController.java" timestamp="1478685442292">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/api/CustomerRestController.java" timestamp="1475994360996">
         <mark key="[" line="27" column="39" />
@@ -840,11 +829,12 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" timestamp="1479214428612">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="178" column="20" />
-        <mark key="." line="177" column="0" />
-        <mark key="^" line="22" column="20" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" timestamp="1479216268385">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="15" />
+        <mark key="^" line="82" column="15" />
+        <mark key="." line="82" column="15" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/java/com/example/service/CustomerService.java" timestamp="1475927712883">
         <mark key="[" line="31" column="30" />
@@ -863,10 +853,6 @@
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/EventRepository.java" timestamp="1479207185924">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartForm.java" timestamp="1477030660977">
         <mark key="[" line="16" column="24" />
@@ -1183,41 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="99" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventControllerTest.groovy" />
-      <jump line="567" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventControllerTest.groovy" />
-      <jump line="568" column="98" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventControllerTest.groovy" />
-      <jump line="214" column="90" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/input.html" />
-      <jump line="213" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/input.html" />
-      <jump line="208" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/input.html" />
-      <jump line="219" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/input.html" />
-      <jump line="114" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="132" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="191" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="185" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="160" column="58" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="28" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="173" column="135" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="232" column="96" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="187" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="184" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="224" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="208" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="196" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="197" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="236" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="237" column="126" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="238" column="129" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="241" column="118" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="242" column="119" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="245" column="119" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="246" column="56" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="136" column="94" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="167" column="128" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="276" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="280" column="38" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="251" column="82" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="192" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
-      <jump line="94" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="88" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="931" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
@@ -1283,34 +1234,69 @@
       <jump line="306" column="111" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="307" column="109" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="310" column="111" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
+      <jump line="34" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="47" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="48" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="52" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="53" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="56" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="57" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="61" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="64" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="65" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="68" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="69" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="73" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="74" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="86" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="92" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="97" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="127" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="128" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="155" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="156" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="183" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="184" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="200" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="201" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="204" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="205" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="208" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="209" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateRequest.java" />
+      <jump line="1332" column="34" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFua1dpdGhUcmltCiAgICBAU2l6ZShtYXggPSAxMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRGF0YSB7CiAgICAgICAgICAgICdQcmVmZWN0dXJlJyBwcmVmZWN0dXJlSWQ6IDEKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>qq</text>
+        <text>communityId</text>
       </register>
       <register name="/" type="4">
-        <text>qq</text>
+        <text>Prefe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFua1dpdGhUcmltCiAgICBAU2l6ZShtYXggPSAxMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRGF0YSB7CiAgICAgICAgICAgICdQcmVmZWN0dXJlJyBwcmVmZWN0dXJlSWQ6IDEKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
+        <text encoding="base64">ICAgIEBOZ1dvcmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
@@ -10837,20 +10823,20 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGlmcmFtZSBjbGFzcz0ianMtbWFwLXJlc3VsdCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTE0IiBmcmFtZWJvcmRlcj0iMCIgc3R5bGU9ImJvcmRlcjowIiBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vbWFwcy9lbWJlZC92MS9wbGFjZT9xPSVlNiU5ZCViMSVlNCViYSVhYyVlOSU4MyViZCVlNiU5ZCU4OSVlNCViOCVhNiVlNSU4YyViYSVlOSVhYiU5OCVlNSU4NiU4NiVlNSVhZiViYSVlNSU4YyU5NzIlMmQ0MCUyZDEzJmFtcDtrZXk9QUl6YVN5QlQ4SFJpNnozX0ExbkdRNjhjLXd6UWl3N2JocDhxNjFBJmFtcDt6b29tPTE2IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGxvd2Z1bGxzY3JlZW4+PC9pZnJhbWU+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0iYy1lcnJvciBpcy1hY3RpdmUgbC1ndXR0ZXIgdS1tYjE1IHUtZnotc3AxMSIgdGg6aWY9IiR7I2ZpZWxkcy5oYXNFcnJvcnMoJ3FxJyl9IiB0aDplcnJvcnM9Iip7cXF9Ij7lhaXlipvpoIXnm67jgavjgqjjg6njg7zjgYzjgYLjgorjgb7jgZk8L3A+Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RFbXB0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>qq</last-search>
+      <last-search>Prefe</last-search>
       <last-offset />
-      <last-pattern>qq</last-pattern>
+      <last-pattern>Prefe</last-pattern>
       <last-replace>eventManage\/complete</last-replace>
       <last-substitute>event\/complete</last-substitute>
       <last-dir>1</last-dir>
@@ -10891,6 +10877,8 @@
         <entry>when</entry>
         <entry>event</entry>
         <entry>qq</entry>
+        <entry>String</entry>
+        <entry>Prefe</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuL2V2ZW50LnNldC8=</entry>
