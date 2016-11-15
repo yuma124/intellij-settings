@@ -6,6 +6,10 @@
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="MySQL" injector-id="xml">
+      <display-name>delete</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("delete")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="xml">
       <display-name>if</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("if")).withNamespace(string().equalTo("http://mybatis.org/dtd/mybatis-3-mapper.dtd"))]]></place>
     </injection>
