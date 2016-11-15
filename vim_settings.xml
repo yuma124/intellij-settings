@@ -43,11 +43,10 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/input.js" timestamp="1479199466792">
-        <mark key="[" line="86" column="42" />
-        <mark key="]" line="86" column="42" />
-        <mark key="^" line="86" column="83" />
-        <mark key="." line="86" column="42" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/input.js" timestamp="1479201644692">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/NgWordRepository.xml" timestamp="1478689011804">
         <mark key="[" line="6" column="12" />
@@ -227,6 +226,13 @@
         <mark key="]" line="45" column="44" />
         <mark key="." line="45" column="44" />
         <mark key="^" line="45" column="44" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479206435355">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+        <mark key="^" line="90" column="44" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventSummaryInformation.xml" timestamp="1478669600379">
         <mark key="[" line="18" column="0" />
@@ -561,6 +567,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/security/LoginAccountDetails.java" timestamp="1479206541706">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
         <mark key="[" line="31" column="69" />
         <mark key="]" line="32" column="65" />
@@ -615,12 +626,12 @@
         <mark key="." line="32" column="39" />
         <mark key="^" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1479200116918">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1479201483571">
         <mark key="'" line="94" column="67" />
-        <mark key="[" line="153" column="88" />
-        <mark key="]" line="153" column="102" />
-        <mark key="." line="153" column="102" />
-        <mark key="^" line="153" column="102" />
+        <mark key="[" line="147" column="74" />
+        <mark key="]" line="147" column="74" />
+        <mark key="." line="147" column="74" />
+        <mark key="^" line="147" column="138" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/api/CustomerRestController.java" timestamp="1475994360996">
         <mark key="[" line="27" column="39" />
@@ -834,10 +845,11 @@
         <mark key="^" line="16" column="31" />
         <mark key="." line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1479200476470">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1479206710926">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="92" column="98" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/request/EventCreateForm.java" timestamp="1478680973301">
         <mark key="[" line="14" column="24" />
@@ -1142,9 +1154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
-      <jump line="178" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
-      <jump line="204" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
       <jump line="195" column="88" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
       <jump line="192" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
       <jump line="189" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventUpdateNotificationAccountTest.groovy" />
@@ -1242,46 +1251,49 @@
       <jump line="251" column="82" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="192" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="94" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
+      <jump line="88" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
+      <jump line="931" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLm9mKHJlcXVlc3QuZ2V0VGFnTmFtZTEoKSwgcmVxdWVzdC5nZXRUYWdOYW1lMigpLCByZXF1ZXN0LmdldFRhZ05hbWUzKCksIHJlcXVlc3QuZ2V0VGFnTmFtZTQoKSkuCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>, @AuthenticationPrincipal LoginAccountDetails loginAccountDetails</text>
       </register>
       <register name="/" type="4">
-        <text>hidden</text>
+        <text>event\/complete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlcXVlc3QuZ2V0VGFnTmFtZTQoKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICB0YWdDb3VudCA9IDQ7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wYXJhbSgiY29tbXVuaXR5SWQiLCAiMSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLm9mKHJlcXVlc3QuZ2V0VGFnTmFtZTEoKSwgcmVxdWVzdC5nZXRUYWdOYW1lMigpLCByZXF1ZXN0LmdldFRhZ05hbWUzKCksIHJlcXVlc3QuZ2V0VGFnTmFtZTQoKSkuCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5nZXRUYWdOYW1lMSgpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoKQo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIAo=</text>
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbG9naW5BY2NvdW50RGV0YWlscyA9IG5ldyBMb2dpbkFjY291bnREZXRhaWxzKG5ldyBMb2dpbkFjY291bnQoKSwgdHJ1ZSwgdHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKnt0YWdOYW1lMX0K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT3B0aW9uYWw8TG9naW5BY2NvdW50PigpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10797,21 +10809,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbE1hcHBlci5hZGRNYXBwaW5ncyhuZXcgUHJvcGVydHlNYXA8RXZlbnRGb3JDcmVhdGUsIEV2ZW50UmVwb3NpdG9yeS5FdmVudEZvckluc2VydD4oKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwcm90ZWN0ZWQgdm9pZCBjb25maWd1cmUoKSB7CiAgICAgICAgICAgICAgICBza2lwKCkuc2V0RXZlbnRJZChudWxsKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgT3B0aW9uYWw8TG9naW5BY2NvdW50PigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbE1hcHBlci4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWNjb3VudFN1cHBvcnQuZ2V0TG9naW5BY2NvdW50KCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2hvbGRQbGFjZU5hbWUvb3V0bGluZS9n</text>
+        <text>%s/event\/complete/eventManage\/complete/g</text>
       </register>
     </registers>
     <search>
-      <last-search>hidden</last-search>
+      <last-search>event\/complete</last-search>
       <last-offset />
-      <last-pattern>hidden</last-pattern>
-      <last-replace>outline</last-replace>
-      <last-substitute>holdPlaceName</last-substitute>
+      <last-pattern>event\/complete</last-pattern>
+      <last-replace>eventManage\/complete</last-replace>
+      <last-substitute>event\/complete</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -10845,6 +10857,7 @@
         <entry>holdPlaceName</entry>
         <entry>TEXT</entry>
         <entry>hidden</entry>
+        <entry>event\/complete</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wuL2V2ZW50LnNldC8=</entry>
@@ -10876,6 +10889,7 @@
         <entry encoding="base64">JzwsJz5zL0NvbW1vbi9NYWxlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2FkZHJlc3Mvb3RoZXIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2hvbGRQbGFjZU5hbWUvb3V0bGluZS9n</entry>
+        <entry>%s/event\/complete/eventManage\/complete/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
