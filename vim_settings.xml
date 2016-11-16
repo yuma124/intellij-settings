@@ -480,11 +480,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/jsug-shop/src/main/resources/messages.properties" timestamp="1479230429991">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/resources/messages.properties" timestamp="1479233023087">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
@@ -560,7 +560,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/account/AccountForm.java" timestamp="1479230585890">
+      <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/account/AccountForm.java" timestamp="1479231562380">
         <mark key="[" line="21" column="35" />
         <mark key="]" line="21" column="35" />
         <mark key="." line="21" column="35" />
@@ -654,10 +654,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Major</text>
