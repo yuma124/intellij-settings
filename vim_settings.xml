@@ -40,12 +40,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/input.js" timestamp="1479370632387">
-        <mark key="[" line="86" column="12" />
-        <mark key="]" line="86" column="85" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="85" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/NgWordRepository.xml" timestamp="1478689011804">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="18" />
@@ -133,12 +127,6 @@
         <mark key="]" line="60" column="118" />
         <mark key="^" line="60" column="117" />
         <mark key="." line="60" column="118" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/eventManage/input.js" timestamp="1479371019589">
-        <mark key="[" line="24" column="82" />
-        <mark key="]" line="24" column="81" />
-        <mark key="." line="24" column="81" />
-        <mark key="^" line="24" column="81" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
@@ -239,12 +227,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479349771475">
-        <mark key="'" line="519" column="118" />
-        <mark key="[" line="5" column="54" />
-        <mark key="]" line="5" column="76" />
-        <mark key="." line="5" column="76" />
-        <mark key="^" line="5" column="76" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479376763994">
+        <mark key="'" line="614" column="29" />
+        <mark key="[" line="616" column="52" />
+        <mark key="]" line="616" column="53" />
+        <mark key="^" line="607" column="41" />
+        <mark key="." line="616" column="53" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventSummaryInformation.xml" timestamp="1478669600379">
         <mark key="[" line="18" column="0" />
@@ -681,12 +669,6 @@
         <mark key="." line="18" column="77" />
         <mark key="^" line="18" column="77" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/PrefectureRepository.java" timestamp="1479122546561">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/support/mail/impl/javamail/MessageSenderImpl.java" timestamp="1476237398708">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="23" column="21" />
@@ -856,9 +838,6 @@
         <mark key="]" line="32" column="26" />
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/EventRepository.java" timestamp="1479368098304">
-        <mark key="'" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/cart/CartForm.java" timestamp="1477030660977">
         <mark key="[" line="16" column="24" />
@@ -1154,7 +1133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="141" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="295" column="130" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="299" column="123" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="303" column="129" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
@@ -1254,46 +1232,47 @@
       <jump line="508" column="57" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
       <jump line="569" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
       <jump line="1540" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventServiceTest.groovy" />
+      <jump line="614" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$($target.data('toggle')).val($($target.data('toggle')).val() == 'false');</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NraHR0cHNlcnZsZXRyZXF1ZXN0YnVpbGRlciByZXEyID0gbW9ja212Y3JlcXVlc3RidWlsZGVycwo=</text>
       </register>
       <register name="-" type="4">
-        <text>tagNames</text>
+        <text>mockmvcrequestbuilders</text>
       </register>
       <register name="/" type="4">
         <text>Male</text>
       </register>
-      <register name="0" type="4">
-        <text>$($target.data('toggle')).val($($target.data('toggle')).val() == 'false');</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NrSHR0cFNlcnZsZXRSZXF1ZXN0QnVpbGRlciByZXEgPSBNb2NrTXZjUmVxdWVzdEJ1aWxkZXJzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NraHR0cHNlcnZsZXRyZXF1ZXN0YnVpbGRlciByZXEyID0gbW9ja212Y3JlcXVlc3RidWlsZGVycwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcocmVxdWVzdC50b1N0cmluZygpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmVxMSA9IG1vY2tNdmNSZXF1ZXN0QnVpbGRlcnMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcocmVxdWVzdC50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcocmVxdWVzdC50b1N0cmluZygpKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tdW5pdHlTZXJ2aWNlLmZhaWxVbmxlc3NNb2RpZmlhYmxlRXZlbnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcocmVxdWVzdC50b1N0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWNvbW11bml0eVJvbGVTdXBwb3J0LmlzT3JnYW5pemVyKGV2ZW50Rm9ySW5zZXJ0LmdldENvbW11bml0eUlkKCkpKSB7CiAgICAgICAgICAgIC8vIFRPRE865L6L5aSW5oyH5a6aCiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10809,10 +10788,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb21tdW5pdHlTZXJ2aWNlLmZhaWxVbmxlc3NNb2RpZmlhYmxlRXZlbnQoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudEZvckNyZWF0ZS5zZXRUYWdOYW1lMih0YWdzLmdldCgxKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNvbW11bml0eVJvbGVTdXBwb3J0LmlzT3JnYW5pemVyKGV2ZW50Rm9ySW5zZXJ0LmdldENvbW11bml0eUlkKCkpKSB7CiAgICAgICAgICAgIC8vIFRPRE865L6L5aSW5oyH5a6aCiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL01hbGUvQ29tbW9uLw==</text>
