@@ -40,12 +40,12 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventServiceTest.groovy" timestamp="1479365576196">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventServiceTest.groovy" timestamp="1479365896251">
         <mark key="'" line="1427" column="32" />
-        <mark key="[" line="1503" column="41" />
-        <mark key="]" line="1503" column="41" />
-        <mark key="." line="1503" column="41" />
-        <mark key="^" line="1503" column="41" />
+        <mark key="[" line="1503" column="58" />
+        <mark key="]" line="1503" column="58" />
+        <mark key="." line="1503" column="58" />
+        <mark key="^" line="1503" column="58" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/input.js" timestamp="1479289406347">
         <mark key="[" line="86" column="0" />
@@ -1269,10 +1269,10 @@
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>L</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>上限</text>
