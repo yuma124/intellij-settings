@@ -112,13 +112,6 @@
       <file name="/&lt;Generic&gt; Fragment (EventServiceTest.groovy:1344).sql" timestamp="1478657569364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/EventUpdateNotificationTemporaryRepository.java" timestamp="1479306564038">
-        <mark key="'" line="62" column="12" />
-        <mark key="[" line="62" column="48" />
-        <mark key="]" line="62" column="48" />
-        <mark key="^" line="62" column="48" />
-        <mark key="." line="62" column="48" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/AppConfig.java" timestamp="1475740600773">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
@@ -242,12 +235,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479445362771">
-        <mark key="'" line="92" column="58" />
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="14" />
-        <mark key="." line="87" column="14" />
-        <mark key="^" line="87" column="14" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1479447692268">
+        <mark key="'" line="94" column="58" />
+        <mark key="[" line="88" column="58" />
+        <mark key="]" line="88" column="74" />
+        <mark key="." line="88" column="74" />
+        <mark key="^" line="88" column="74" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventSummaryInformation.xml" timestamp="1478669600379">
         <mark key="[" line="18" column="0" />
@@ -576,13 +569,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/submit.js" timestamp="1479295990634">
-        <mark key="'" line="22" column="43" />
-        <mark key="[" line="6" column="48" />
-        <mark key="]" line="6" column="49" />
-        <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="49" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
         <mark key="[" line="31" column="69" />
         <mark key="]" line="32" column="65" />
@@ -609,13 +595,6 @@
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventTagRepository.xml" timestamp="1479368721609">
         <mark key="[" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventUpdateNotificationTemporaryRepository.xml" timestamp="1479338104854">
-        <mark key="'" line="95" column="38" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="11" />
-        <mark key="." line="17" column="11" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
         <mark key="[" line="23" column="40" />
@@ -1264,10 +1243,10 @@
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>new LoginAccountDetails(new LoginAccount(), true, true)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGVmIA==</text>
+        <text>new LoginAccountDetails(new LoginAccount(), true, true)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0UG9zdFByb2Nlc3Nvclw+</text>
