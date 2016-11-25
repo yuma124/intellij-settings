@@ -280,9 +280,9 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1479967889904">
-        <mark key="[" line="66" column="9" />
-        <mark key="]" line="67" column="38" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480081783648">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="166" column="55" />
         <mark key="." line="67" column="38" />
         <mark key="^" line="67" column="38" />
       </file>
@@ -779,11 +779,11 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.xml" timestamp="1478674262416">
         <mark key="[" line="1" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventSummaryService.java" timestamp="1480081232848">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventSummaryService.java" timestamp="1480081444797">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1479965352659">
         <mark key="[" line="0" column="0" />
@@ -1130,11 +1130,11 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" timestamp="1480078495968">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="35" />
-        <mark key="^" line="72" column="34" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" timestamp="1480081967231">
+        <mark key="[" line="264" column="68" />
+        <mark key="]" line="264" column="70" />
+        <mark key="." line="264" column="70" />
+        <mark key="^" line="264" column="70" />
       </file>
       <file name="/Thymeleaf Expressions Fragment (input.html:1038).thymes" timestamp="1478866663014">
         <mark key="[" line="0" column="0" />
@@ -1363,41 +1363,41 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>@WithMockUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLGpvaW5OdW1iZXJGZW1hbGUgPSAje2V2ZW50U3VtbWFyeS5qb2luTnVtYmVyRmVtYWxlfQo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudFN1bW1hcnlJbmZvcm1hdGlvblRhYmxlLmdldFZhbHVlKDAsICJldmVudElkIikgPT0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBldmVudFN1bW1hcnlJbmZvcm1hdGlvblRhYmxlLmdldFZhbHVlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBldmVudHMuc2l6ZSgpID09IDEKICAgICAgICBldmVudHMuZ2V0KDApLmV2ZW50SWQgPT0gMUwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNsZjRqCg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5pbmZvKFN0cmluZy5mb3JtYXQoIuODkOODg+ODgeWun+ihjOS4reOBq+OCpOODmeODs+ODiOOBjOabtOaWsOOBleOCjOOBn+OBn+OCgeOAgeODoeODvOODq+mAgeS/oeOBjOasoeWbnuOBq+W7tuacn+OBleOCjOOBvuOBl+OBnzogZXZlbnRJZD0lZCIsIGV2ZW50VXBkYXRlLmdldEV2ZW50SWQoKSksIGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10913,10 +10913,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5kZWJ1ZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0BXaXRoTW9ja1VzZXIvLw==</text>
@@ -10929,12 +10929,10 @@
       <last-replace />
       <last-substitute>@WithMockUser</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
-        <entry>joinConditionSameFlag</entry>
         <entry>!joinConditionSameFlag</entry>
         <entry>EnumSet.of(JoinConditionGenderType.BOTH, JoinConditionGenderType.FEMALE).contains(getJoinConditionGenderType())</entry>
         <entry>EnumSet.of(JoinConditionGenderType.BOTH, JoinConditionGenderType.MALE).contains(getJoinConditionGenderType())</entry>
@@ -10957,7 +10955,6 @@
         <entry>@WithMockUser</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0VudW1TZXQub2YoSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuQk9USCwgSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuTUFMRSkuY29udGFpbnMoZ2V0Sm9pbkNvbmRpdGlvbkdlbmRlclR5cGUoKSkvbWFsZUF2YWlsYWJsZSgp</entry>
         <entry encoding="base64">JzwsJz5zL2dldEpvaW5Db25kaXRpb25HZW5kZXJUeXBlKCkgPT0gSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuU0FNRS9jb21tb25BdmFpbGFibGUoKQ==</entry>
         <entry encoding="base64">JzwsJz5zL0NvbW1vbi9NYWxl</entry>
         <entry encoding="base64">JzwsJz5zL01BTEUvRkVNQUxF</entry>
