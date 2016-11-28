@@ -272,6 +272,12 @@
         <mark key="." line="6" column="15" />
         <mark key="^" line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" timestamp="1480309172344">
+        <mark key="[" line="577" column="11" />
+        <mark key="]" line="577" column="12" />
+        <mark key="." line="577" column="12" />
+        <mark key="^" line="580" column="25" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventSummaryInformation.xml" timestamp="1478669600379">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -714,6 +720,12 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="16" column="50" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" timestamp="1480309150438">
+        <mark key="[" line="289" column="75" />
+        <mark key="]" line="289" column="78" />
+        <mark key="." line="289" column="78" />
+        <mark key="^" line="289" column="78" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/EventSummary.java" timestamp="1480078483507">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="15" />
@@ -831,12 +843,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480305708637">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480308268615">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="126" column="121" />
-        <mark key="]" line="123" column="125" />
+        <mark key="[" line="156" column="140" />
+        <mark key="]" line="156" column="141" />
         <mark key="^" line="123" column="125" />
-        <mark key="." line="126" column="124" />
+        <mark key="." line="156" column="141" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
         <mark key="[" line="1" column="0" />
@@ -1368,51 +1380,48 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWYgcmVzMyA9IG1vY2tNdmMucGVyZm9ybShyZXEzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Time</text>
       </register>
       <register name="/" type="4">
         <text>イベント</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiB0cnVlLCBhdmVyYWdlQWdlOiAxMi4wXQogICAgICAgIGZhbHNlICAgICAgICB8IHRydWUgICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE0LjBdCiAgICAgICAgdHJ1ZSAgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTUuMF0K</text>
+        <text encoding="base64">ICAgICAgICBkZWYgcmVzMyA9IG1vY2tNdmMucGVyZm9ybShyZXEzKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>VALID
-VALID
-VALID
-VALID</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>VALID
-VALID
-VALID
-VALID</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJlbmREYXRlIiAgICAgICAgIDogc3lzdGVtRGF0ZVN1cHBsaWVyLmxvY2FsRGF0ZVRpbWUucGx1c0RheXMoMCkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eS9NTS9kZCIpKSwK</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">ZmFsc2UgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">ZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
-      </register>
-      <register name="5" type="8">
-        <text>AccountStatus.VALID
-AccountStatus.VALID</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">fCBhZ2U1IHwgYWdlNiAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICA=</text>
-      </register>
-      <register name="7" type="8">
         <text>VALID
 VALID
 VALID
 VALID</text>
+      </register>
+      <register name="4" type="8">
+        <text>VALID
+VALID
+VALID
+VALID</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">ZmFsc2UgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
+      </register>
+      <register name="7" type="8">
+        <text>AccountStatus.VALID
+AccountStatus.VALID</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10928,13 +10937,13 @@ VALID</text>
         </keys>
       </register>
       <register name="8" type="8">
+        <text encoding="base64">fCBhZ2U1IHwgYWdlNiAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICA=</text>
+      </register>
+      <register name="9" type="8">
         <text>VALID
 VALID
 VALID
 VALID</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5kZXIxICAgICAgICAgICAgfCBnZW5kZXIyICAgICAgICAgICAgfCBhY2NvdW50U3RhdHVzMSAgICAgICAgICAgfCBhY2NvdW50U3RhdHVzMiAgICAgICAgICAgfHwgZXhwZWN0ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/イベント/コミュニティ/g</text>
