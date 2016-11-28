@@ -160,12 +160,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventSummaryServiceTest.groovy" timestamp="1480301860126">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventSummaryServiceTest.groovy" timestamp="1480304716831">
         <mark key="'" line="197" column="0" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
         <mark key="^" line="45" column="13" />
-        <mark key="." line="164" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/repos/jsug-shop/src/main/java/jsug/app/account/goods/AddToCartForm.java" timestamp="1477020421574">
         <mark key="[" line="20" column="12" />
@@ -284,11 +284,11 @@
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunitySummaryService.java" timestamp="1480144383247">
-        <mark key="[" line="27" column="72" />
-        <mark key="]" line="27" column="107" />
-        <mark key="^" line="27" column="107" />
-        <mark key="." line="27" column="107" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunitySummaryService.java" timestamp="1480304882641">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+        <mark key="." line="27" column="63" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.java" timestamp="1478674266598">
         <mark key="[" line="7" column="49" />
@@ -356,11 +356,11 @@
         <mark key="^" line="4" column="95" />
         <mark key="." line="4" column="95" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/CommunitySummaryRepository.java" timestamp="1480143581441">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/CommunitySummaryRepository.java" timestamp="1480304990132">
+        <mark key="[" line="12" column="53" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+        <mark key="^" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerService.java" timestamp="1475994383630">
         <mark key="[" line="13" column="45" />
@@ -662,11 +662,9 @@
         <mark key="^" line="23" column="30" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/EventSummaryRepository.xml" timestamp="1480300517964">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="44" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="28" column="87" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/EventSummaryRepository.xml" timestamp="1480305039764">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="94" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/AccountRepository.xml" timestamp="1477464036823">
         <mark key="[" line="35" column="29" />
@@ -791,22 +789,16 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.xml" timestamp="1478674262416">
         <mark key="[" line="1" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventSummaryService.java" timestamp="1480301780366">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1479965352659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="29" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="13" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/CommunitySummaryRepository.xml" timestamp="1480143446261">
-        <mark key="[" line="26" column="69" />
-        <mark key="]" line="26" column="69" />
-        <mark key="." line="26" column="69" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/CommunitySummaryRepository.xml" timestamp="1480305048652">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="94" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/tag.html" timestamp="1479287739658">
@@ -814,12 +806,6 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="1" column="81" />
         <mark key="^" line="1" column="81" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/EventSummaryRepository.java" timestamp="1480301708834">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/component/validation/NgWordTest.groovy" timestamp="1478755397858">
         <mark key="[" line="40" column="14" />
@@ -845,12 +831,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480144017828">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="139" column="67" />
-        <mark key="]" line="139" column="70" />
-        <mark key="." line="139" column="70" />
-        <mark key="^" line="139" column="70" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480305708637">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="126" column="121" />
+        <mark key="]" line="123" column="125" />
+        <mark key="^" line="123" column="125" />
+        <mark key="." line="126" column="124" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
         <mark key="[" line="1" column="0" />
@@ -1146,11 +1132,8 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="129" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" timestamp="1480301080811">
-        <mark key="[" line="242" column="115" />
-        <mark key="]" line="242" column="119" />
-        <mark key="^" line="242" column="119" />
-        <mark key="." line="242" column="119" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" timestamp="1480305066172">
+        <mark key="'" line="41" column="16" />
       </file>
       <file name="/Thymeleaf Expressions Fragment (input.html:1038).thymes" timestamp="1478866663014">
         <mark key="[" line="0" column="0" />
@@ -1280,7 +1263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="56" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="116" column="61" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="101" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="134" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
@@ -1380,25 +1362,29 @@
       <jump line="262" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunitySummaryServiceTest.groovy" />
       <jump line="77" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunitySummaryServiceTest.groovy" />
       <jump line="128" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunitySummaryServiceTest.groovy" />
+      <jump line="41" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86ZGlzcGxheUZsYWfjga7jg4fjg5Xjgqnjg6vjg4jlgKTjgpJmYWxzZeOBq+OBmeOCiwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>イベント</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgfCBmYWxzZSAgICAgICAgfCBmYWxzZSAgICAgICB8IGZhbHNlICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogZmFsc2UsIGF2ZXJhZ2VBZ2U6IDEwLjBdCiAgICAgICAgdHJ1ZSAgICAgICAgIHwgZmFsc2UgICAgICAgIHwgZmFsc2UgICAgICAgfCBmYWxzZSAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDEyLjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgZmFsc2UgICAgICAgfCBmYWxzZSAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE0LjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgfCBmYWxzZSAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IGZhbHNlLCBhdmVyYWdlQWdlOiAxMC4wXQogICAgICAgIGZhbHNlICAgICAgICB8IGZhbHNlICAgICAgICB8IGZhbHNlICAgICAgIHwgdHJ1ZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICB8IGZhbHNlICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTUuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCB0cnVlICAgICAgICB8IGZhbHNlICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogZmFsc2UsIGF2ZXJhZ2VBZ2U6IDEwLjBdCiAgICAgICAgdHJ1ZSAgICAgICAgIHwgZmFsc2UgICAgICAgIHwgZmFsc2UgICAgICAgfCB0cnVlICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDEyLjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgdHJ1ZSAgICAgICAgfCBmYWxzZSAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE0LjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgZmFsc2UgICAgICAgfCB0cnVlICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IGZhbHNlLCBhdmVyYWdlQWdlOiAxMC4wXQogICAgICAgIGZhbHNlICAgICAgICB8IGZhbHNlICAgICAgICB8IHRydWUgICAgICAgIHwgdHJ1ZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICB8IGZhbHNlICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTQuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICB8IHRydWUgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTIuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCB0cnVlICAgICAgICB8IHRydWUgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogZmFsc2UsIGF2ZXJhZ2VBZ2U6IDEwLjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgdHJ1ZSAgICAgICAgfCB0cnVlICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IGZhbHNlLCBhdmVyYWdlQWdlOiAxMC4wXQogICAgICAgIHRydWUgICAgICAgICB8IHRydWUgICAgICAgICB8IHRydWUgICAgICAgIHwgdHJ1ZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0K</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiB0cnVlLCBhdmVyYWdlQWdlOiAxMi4wXQogICAgICAgIGZhbHNlICAgICAgICB8IHRydWUgICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE0LjBdCiAgICAgICAgdHJ1ZSAgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTUuMF0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86ZGlzcGxheUZsYWfjga7jg4fjg5Xjgqnjg6vjg4jlgKTjgpJmYWxzZeOBq+OBmeOCiwo=</text>
+      <register name="1" type="8">
+        <text>VALID
+VALID
+VALID
+VALID</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1407,85 +1393,26 @@
         <text>VALID
 VALID
 VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
 VALID</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">YWdlNSB8IGFnZTYKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICAKMjAgICB8IDMwICA=</text>
+        <text encoding="base64">ZmFsc2UgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
       </register>
       <register name="4" type="8">
-        <text>[joinNumberMale: 3, joinNumberFemale: 1]
-[joinNumberMale: 3, joinNumberFemale: 1]
-[joinNumberMale: 4, joinNumberFemale: 2]
-[joinNumberMale: 2, joinNumberFemale: 2]
-[joinNumberMale: 2, joinNumberFemale: 2]
-[joinNumberMale: 3, joinNumberFemale: 3]
-[joinNumberMale: 1, joinNumberFemale: 3]
-[joinNumberMale: 1, joinNumberFemale: 3]
-[joinNumberMale: 2, joinNumberFemale: 4]
-[joinNumberMale: 4, joinNumberFemale: 2]
-[joinNumberMale: 4, joinNumberFemale: 2]
-[joinNumberMale: 6, joinNumberFemale: 4]
-[joinNumberMale: 3, joinNumberFemale: 3]
-[joinNumberMale: 3, joinNumberFemale: 3]
-[joinNumberMale: 5, joinNumberFemale: 5]
-[joinNumberMale: 2, joinNumberFemale: 4]
-[joinNumberMale: 2, joinNumberFemale: 4]
-[joinNumberMale: 4, joinNumberFemale: 6]</text>
+        <text encoding="base64">ZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICAKZmFsc2UgICAgICAgICAKdHJ1ZSAgICAgICAgICA=</text>
       </register>
       <register name="5" type="8">
-        <text>1    | 0    | 1    | 0
-0    | 1    | 0    | 1
-1    | 1    | 1    | 1
-1    | 0    | 1    | 0
-0    | 1    | 0    | 1
-1    | 1    | 1    | 1
-1    | 0    | 1    | 0
-0    | 1    | 0    | 1
-1    | 1    | 1    | 1
-2    | 0    | 2    | 0
-0    | 2    | 0    | 2
-2    | 2    | 2    | 2
-2    | 0    | 2    | 0
-0    | 2    | 0    | 2
-2    | 2    | 2    | 2
-2    | 0    | 2    | 0
-0    | 2    | 0    | 2
-2    | 2    | 2    | 2</text>
+        <text>AccountStatus.VALID
+AccountStatus.VALID</text>
       </register>
       <register name="6" type="8">
+        <text encoding="base64">fCBhZ2U1IHwgYWdlNiAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICAKfCAyMCAgIHwgMzAgICA=</text>
+      </register>
+      <register name="7" type="8">
         <text>VALID
 VALID
 VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
-VALID
 VALID</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -11000,11 +10927,14 @@ VALID</text>
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBHZW5kZXIuRkVNQUxFLmNvZGUgfCBHZW5kZXIuRkVNQUxFLmNvZGUgfCAyICAgIHwgMiAgICB8IDIgICAgfCAyICAgIHwgdHJ1ZSAgICAgICB8IHRydWUgICAgICAgICAgfHwgW2pvaW5OdW1iZXJNYWxlOiAyLCBqb2luTnVtYmVyRmVtYWxlOiAzXQo=</text>
+      <register name="8" type="8">
+        <text>VALID
+VALID
+VALID
+VALID</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKZmFsc2UKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSAKdHJ1ZSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBnZW5kZXIxICAgICAgICAgICAgfCBnZW5kZXIyICAgICAgICAgICAgfCBhY2NvdW50U3RhdHVzMSAgICAgICAgICAgfCBhY2NvdW50U3RhdHVzMiAgICAgICAgICAgfHwgZXhwZWN0ZWQK</text>
       </register>
       <register name=":" type="4">
         <text>%s/イベント/コミュニティ/g</text>
