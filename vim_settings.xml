@@ -50,11 +50,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1480483492358">
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1480491186760">
+        <mark key="[" line="174" column="25" />
+        <mark key="]" line="174" column="28" />
+        <mark key="." line="174" column="28" />
+        <mark key="^" line="174" column="28" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/NgWordRepository.java" timestamp="1479085751058">
         <mark key="[" line="11" column="17" />
@@ -292,12 +292,12 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480489679662">
-        <mark key="'" line="1492" column="0" />
-        <mark key="[" line="409" column="39" />
-        <mark key="]" line="410" column="0" />
-        <mark key="^" line="410" column="0" />
-        <mark key="." line="410" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480491448947">
+        <mark key="'" line="1735" column="0" />
+        <mark key="[" line="433" column="85" />
+        <mark key="]" line="433" column="86" />
+        <mark key="^" line="426" column="19" />
+        <mark key="." line="433" column="86" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
@@ -744,6 +744,12 @@
         <mark key="." line="78" column="165" />
         <mark key="^" line="78" column="165" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventCancelNotification.txt" timestamp="1480490582962">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/api/CustomerRestController.java" timestamp="1475994360996">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="46" />
@@ -801,9 +807,9 @@
         <mark key="." line="42" column="23" />
         <mark key="^" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1480489668997">
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="39" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1480490540619">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="15" column="28" />
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="39" />
       </file>
@@ -1403,40 +1409,40 @@
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogMywgbWFpbEFkZHJlc3M6ICczQGV4YW1wbGUuY29tJywgbmlja25hbWU6ICduaWNrbmFtZTMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>、</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>https:\/\/www.recruit-mp.co.jp\/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2V2ZW50LzEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogMywgbWFpbEFkZHJlc3M6ICczQGV4YW1wbGUuY29tJywgbmlja25hbWU6ICduaWNrbmFtZTMnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">6ZaL5YKs5pel77yaJHtub3cucGx1c1llYXJzKDEpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXkiKSl9MeaciDHml6UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IOOAkOOCpOODmeODs+ODiOWGheWuueOAkQo=</text>
+        <text encoding="base64">6ZaL5YKs5pel77yaJHtub3cucGx1c0RheXMoMSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eeW5tE3mnIhk5pelIikpfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">44OZ44ON44OV44Kj44OD44OI44O744K544OG44O844K344On44Oz44COQUNUSVZJVElFU+OAjwpodHRwczovL2JzLWFjdGl2aXRpZXMuanAvCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgImJvZHkiKSA9PSAiIiJuaWNrbmFtZTHjgZXjgpMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrjgI5BQ1RJVklUSUVT44CP44Gr6Zai44GZ44KL44GU5oSP6KaL44CB44GK5ZWP44GE5ZCI44KP44Gb44Gv44CB5LiL6KiY44Oa44O844K444KI44KK44GU6YCj57Wh44GP44Gg44GV44GE44CCCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9pbnF1aXJ5LwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgImJvZHkiKSA9PSAiIiLjgYLjgarjgZ/jga7jg5bjgqvjg4Tjga7jgqTjg5njg7Pjg4jjga7mg4XloLHjgYzmm7TmlrDjgZXjgozjgb7jgZfjgZ/jgIIK4oC744OW44Kr44OE44Gu44Kq44O844Ks44OK44Kk44K244O844Gu5pa544CF44Gr44CB44Oh44O844Or44KS44GK6YCB44KK44GX44Gm44GE44G+44GZ44CCCgpuaWNrbmFtZTHjgZXjgpMKCuOAjGV2ZW50TmFtZTHjgI3jga7mg4XloLHjgYzmm7TmlrDjgZXjgozjgb7jgZfjgZ/jgIIK44GU56K66KqN44GP44Gg44GV44GE44CCCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQog44CQ44Kk44OZ44Oz44OI5YaF5a6544CRCuOCpOODmeODs+ODiOWQje+8mmV2ZW50TmFtZTEK5Lya5aC077yaaG9sZFBsYWNlTmFtZTEK6ZaL5YKs5pel77yaJHtub3cucGx1c0RheXMoMSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eeW5tE3mnIhk5pelIikpfQrplovlgqzmmYLplpPvvJoxMuaZgjAw5YiGCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgrigLvkuIvoqJjjgYzmm7TmlrDjgZXjgozjgZ/poIXnm67jgavjgarjgorjgb7jgZkKIOODu+mWi+Wni+aXpQog44O76ZaL5aeL5pmC6ZaTCiDjg7vntYLkuobml6UKIOODu+OCreODo+ODs+OCu+ODq+aWmeeZuueUn+aXpQog44O76ZaL5YKs44Ko44Oq44KiCiDjg7vkvJrloLQKIOODu+S9j+aJgAog44O75YWx6YCa5paZ6YeRCiDjg7vnlLfmgKfmlpnph5EKIOODu+Wls+aAp+aWmemHkQoK44Kk44OZ44Oz44OI6Kmz57Sw44GL44KJ44OB44Kn44OD44Kv44GX44G+44GX44KH44GG4pmqCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9ldmVudC8xCgoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQrjgI5BQ1RJVklUSUVT44CP44Gr6Zai44GZ44KL44GU5oSP6KaL44CB44GK5ZWP44GE5ZCI44KP44Gb44Gv44CB5LiL6KiY44Oa44O844K444KI44KK44GU6YCj57Wh44GP44Gg44GV44GE44CCCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9pbnF1aXJ5LwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCis6LTorOi06KzotOis6LTorOi06KzotOis6LTorOi06KzotOisK44OZ44ON44OV44Kj44OD44OI44O744K544OG44O844K344On44Oz44COQUNUSVZJVElFU+OAjwpodHRwczovL2JzLWFjdGl2aXRpZXMuanAvCgrnt6jpm4bjg7vokZfkvZzjg7vnmbrooYwK5qCq5byP5Lya56S+44Oq44Kv44Or44O844OI44Oe44O844Kx44OG44Kj44Oz44Kw44OR44O844OI44OK44O844K6Cmh0dHA6Ly93d3cucmVjcnVpdC1tcC5jby5qcC8KKzotOis6LTorOi06KzotOis6LTorOi06KzotOisgUkVDUlVJVAoiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">44Kk44OZ44Oz44OI6Kmz57Sw44GL44KJ44OB44Kn44OD44Kv44GX44G+44GX44KH44GG4pmqCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgImJvZHkiKSA9PSAiIiJuaWNrbmFtZTHjgZXjgpMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">4oC75LiL6KiY44GM5pu05paw44GV44KM44Gf6aCF55uu44Gr44Gq44KK44G+44GZCg==</text>
+        <text encoding="base64">44GK55Sz44GX6L6844G/44GE44Gf44Gg44GN44G+44GX44Gf5Lul5LiL44Kk44OZ44Oz44OI44Gu5oOF5aCx44GM5aSJ5pu044GV44KM44G+44GX44Gf44Gu44Gn44CB44GU56K66KqN44GP44Gg44GV44GE44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10952,10 +10958,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IOOAkOOCpOODmeODs+ODiOWGheWuueOAkQo=</text>
+        <text encoding="base64">5Lul5LiLVVJM44KI44KK5aSJ5pu05YaF5a6544Gu44GU56K66KqN44KS44GK6aGY44GE44GX44G+44GZ44CCCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9ldmVudC8xCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/https:\/\/www.recruit-mp.co.jp\//http:\/\/www.recruit-mp.co.jp\//</text>
