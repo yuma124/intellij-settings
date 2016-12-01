@@ -83,7 +83,7 @@
         <mark key="^" line="29" column="9" />
         <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1480561427460">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1480575548312">
         <mark key="[" line="59" column="122" />
         <mark key="]" line="59" column="122" />
         <mark key="^" line="59" column="122" />
@@ -9834,13 +9834,10 @@
       <last-replace>OBJECT_NAME</last-replace>
       <last-substitute>&quot;eventCreateRequest&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>male</entry>
-        <entry>textbox</entry>
-        <entry>new StringTrimmerEditor());</entry>
         <entry>left</entry>
         <entry>right</entry>
         <entry>I</entry>
@@ -9863,7 +9860,6 @@
         <entry>&quot;eventCreateRequest&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/event/community/g</entry>
         <entry>%s/イベント/コミュニティ/g</entry>
         <entry>%s/eventService/eventManageService</entry>
         <entry>%s/eventService/eventManageService/g</entry>
