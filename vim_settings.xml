@@ -22,7 +22,7 @@
         <mark key="." line="78" column="154" />
         <mark key="^" line="78" column="154" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480590909674" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480591586430" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1480586614180">
         <mark key="[" line="224" column="64" />
         <mark key="]" line="224" column="74" />
@@ -31,6 +31,19 @@
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventManageService.java" timestamp="1480565292944">
         <mark key="'" line="332" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventSummaryRepositoryTest.groovy" timestamp="1480592013203">
+        <mark key="[" line="196" column="8" />
+        <mark key="]" line="175" column="8" />
+        <mark key="." line="175" column="8" />
+        <mark key="^" line="175" column="8" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480591953267">
+        <mark key="'" line="121" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="130" column="5" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="129" column="43" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1480557823269">
         <mark key="[" line="47" column="7" />
@@ -63,9 +76,6 @@
         <mark key="." line="46" column="22" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventReminder.txt" timestamp="1480510228123">
-        <mark key="^" line="0" column="38" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1480509401163">
         <mark key="[" line="104" column="68" />
         <mark key="]" line="104" column="68" />
@@ -74,13 +84,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1480557631334">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1480581998436">
-        <mark key="'" line="150" column="42" />
-        <mark key="[" line="59" column="122" />
-        <mark key="]" line="59" column="122" />
-        <mark key="^" line="59" column="122" />
-        <mark key="." line="59" column="122" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventCancelNotification.txt" timestamp="1480490582962">
         <mark key="[" line="27" column="39" />
@@ -115,12 +118,6 @@
         <mark key="[" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" timestamp="1480590891577">
-        <mark key="[" line="502" column="32" />
-        <mark key="]" line="502" column="64" />
-        <mark key="^" line="1219" column="67" />
-        <mark key="." line="502" column="32" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1480490540619">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="15" column="28" />
@@ -129,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="823" column="84" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="864" column="71" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="865" column="84" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="907" column="39" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
@@ -229,46 +225,51 @@
       <jump line="254" column="24" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="47" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
+      <jump line="121" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>{integer}</text>
+      <register name="&quot;" type="8">
+        <text>communities
+communities
+communities</text>
       </register>
       <register name="-" type="4">
-        <text>{integer}</text>
+        <text>averageAge</text>
       </register>
       <register name="/" type="4">
-        <text>会場</text>
+        <text>communitys</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXJyb3IuZXZlbnRNYW5hZ2UubnVtYmVyTWluLmRpZ2l0cz3jgqTjg5njg7Pjg4jlrp/mlr3mnIDlsI/kurrmlbDjga97aW50ZWdlcn3moYHku6XlhoXjga7mlbTmlbDjgaflhaXlipvjgZfjgabjgY/jgaDjgZXjgYTjgIIK</text>
+        <text encoding="base64">ICAgICAgICBkZWYgZXZlbnRzID0gZXZlbnRTdW1tYXJ5UmVwb3NpdG9yeS5zZWxlY3Qoc3lzdGVtRGF0ZVN1cHBsaWVyLmxvY2FsRGF0ZVRpbWUudG9Mb2NhbERhdGUoKSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBEaWdpdHMoaW50ZWdlciA9IDYsIGZyYWN0aW9uID0gMCwgbWVzc2FnZSA9ICJ7ZXJyb3IuZXZlbnRNYW5hZ2UubnVtYmVyTWluLmRpZ2l0c30iKQo=</text>
+      <register name="1" type="8">
+        <text>communities
+communities
+communities</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBEaWdpdHMoaW50ZWdlciA9IDYsIGZyYWN0aW9uID0gMCwgbWVzc2FnZSA9ICJ7ZXJyb3IuZXZlbnRNYW5hZ2UubnVtYmVyTWluLmRpZ2l0c30iKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgY29tbXVuaXRpZXMgPSBjb21tdW5pdHlTdW1tYXJ5UmVwb3NpdG9yeS5zZWxlY3QoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmluZGluZ1Jlc3VsdC5oYXNFcnJvcnMoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbW11bml0eScgY29tbXVuaXR5SWQ6IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXN0ZXJTZXJ2aWNlLmV2aWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWYgdG9kYXkgPSBzeXN0ZW1EYXRlU3VwcGxpZXIubG9jYWxEYXRlVGltZS50b0xvY2FsRGF0ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudC5zZXRNYWxlUmVndWxhclByaWNlKG1hbGVSZWd1bGFyUHJpY2UpCiAgICAgICAgZXZlbnQuc2V0TWFsZUJlbmVmaXRQcmljZShtYWxlQmVuZWZpdFByaWNlKQogICAgICAgIGV2ZW50LnNldEZlbWFsZVJlZ3VsYXJQcmljZShmZW1hbGVSZWd1bGFyUHJpY2UpCiAgICAgICAgZXZlbnQuc2V0RmVtYWxlQmVuZWZpdFByaWNlKGZlbWFsZUJlbmVmaXRQcmljZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY291bnRKb2luQ29tbXVuaXR5JyBhY2NvdW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLCBhY2NlcHRTdGF0dXM6IEFjY2VwdFN0YXR1cy5BQ0NFUFRFRC5jb2RlCiAgICAgICAgICAgICdBY2NvdW50Sm9pbkNvbW11bml0eScgYWNjb3VudElkOiAyLCBjb21tdW5pdHlJZDogMSwgYWNjZXB0U3RhdHVzOiBBY2NlcHRTdGF0dXMuQUNDRVBURUQuY29kZQogICAgICAgICAgICAnQWNjb3VudEpvaW5Db21tdW5pdHknIGFjY291bnRJZDogMywgY29tbXVuaXR5SWQ6IDEsIGFjY2VwdFN0YXR1czogQWNjZXB0U3RhdHVzLkFDQ0VQVEVELmNvZGUKICAgICAgICAgICAgJ0FjY291bnRKb2luQ29tbXVuaXR5JyBhY2NvdW50SWQ6IDQsIGNvbW11bml0eUlkOiAxLCBhY2NlcHRTdGF0dXM6IEFjY2VwdFN0YXR1cy5BQ0NFUFRFRC5jb2RlCiAgICAgICAgICAgICdBY2NvdW50Sm9pbkNvbW11bml0eScgYWNjb3VudElkOiA1LCBjb21tdW5pdHlJZDogMSwgYWNjZXB0U3RhdHVzOiBBY2NlcHRTdGF0dXMuQUNDRVBURUQuY29kZQogICAgICAgICAgICAnQWNjb3VudEpvaW5Db21tdW5pdHknIGFjY291bnRJZDogNiwgY29tbXVuaXR5SWQ6IDEsIGFjY2VwdFN0YXR1czogQWNjZXB0U3RhdHVzLkFDQ0VQVEVELmNvZGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudFRhYmxlLmdldFZhbHVlKDAsICJtYWxlUmVndWxhclByaWNlVXBkYXRlRmxhZyIpID09IG1hbGVSZWd1bGFyUHJpY2VVcGRhdGVGbGFnCiAgICAgICAgZXZlbnRUYWJsZS5nZXRWYWx1ZSgwLCAibWFsZUJlbmVmaXRQcmljZVVwZGF0ZUZsYWciKSA9PSBtYWxlQmVuZWZpdFByaWNlVXBkYXRlRmxhZwogICAgICAgIGV2ZW50VGFibGUuZ2V0VmFsdWUoMCwgImZlbWFsZVJlZ3VsYXJQcmljZVVwZGF0ZUZsYWciKSA9PSBmZW1hbGVSZWd1bGFyUHJpY2VVcGRhdGVGbGFnCiAgICAgICAgZXZlbnRUYWJsZS5nZXRWYWx1ZSgwLCAiZmVtYWxlQmVuZWZpdFByaWNlVXBkYXRlRmxhZyIpID09IGZlbWFsZUJlbmVmaXRQcmljZVVwZGF0ZUZsYWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogMSwgYWdlT3BlbkZsYWc6IHRydWUsIGJpcnRoZGF5OiB0b2RheS5taW51c1llYXJzKDEwKSwgYWNjb3VudFN0YXR1czogQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlCiAgICAgICAgICAgICdBY2NvdW50JyBhY2NvdW50SWQ6IDIsIGFnZU9wZW5GbGFnOiB0cnVlLCBiaXJ0aGRheTogdG9kYXkubWludXNZZWFycygxMCksIGFjY291bnRTdGF0dXM6IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZQogICAgICAgICAgICAnQWNjb3VudCcgYWNjb3VudElkOiAzLCBhZ2VPcGVuRmxhZzogdHJ1ZSwgYmlydGhkYXk6IHRvZGF5Lm1pbnVzWWVhcnMoMTApLCBhY2NvdW50U3RhdHVzOiBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUKICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogNCwgYWdlT3BlbkZsYWc6IHRydWUsIGJpcnRoZGF5OiB0b2RheS5taW51c1llYXJzKDEwKSwgYWNjb3VudFN0YXR1czogQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlCiAgICAgICAgICAgICdBY2NvdW50JyBhY2NvdW50SWQ6IDUsIGFnZU9wZW5GbGFnOiBhZ2VPcGVuRmxhZzUsIGJpcnRoZGF5OiB0b2RheS5taW51c1llYXJzKDIwKSwgYWNjb3VudFN0YXR1czogYWNjb3VudFN0YXR1czUKICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogNiwgYWdlT3BlbkZsYWc6IGFnZU9wZW5GbGFnNiwgYmlydGhkYXk6IHRvZGF5Lm1pbnVzWWVhcnMoMzApLCBhY2NvdW50U3RhdHVzOiBhY2NvdW50U3RhdHVzNgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAwICAgICAgICAgfCAxMiAgICAgICAgfCAwICAgICAgICAgICB8IDEgICAgICAgfCAiYSIgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgfCAiYSIgICAgICAgICAgIHwgImEiICAgICB8IDEgICAgICAgICAgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICB8fCAxICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgICAgICAgICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgICAgICAgfHwgZmFsc2UKICAgICAgICAwICAgICAgICAgfCAxMiAgICAgICAgfCAwICAgICAgICAgICB8IDEgICAgICAgfCAiYSIgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgfCAiYSIgICAgICAgICAgIHwgImEiICAgICB8IDEgICAgICAgICAgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICB8fCAxICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgICAgICAgICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgICAgICAgfHwgZmFsc2UKICAgICAgICAwICAgICAgICAgfCAxMiAgICAgICAgfCAwICAgICAgICAgICB8IDEgICAgICAgfCAiYSIgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgfCAiYSIgICAgICAgICAgIHwgImEiICAgICB8IDEgICAgICAgICAgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICB8fCAxICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgICAgICAgICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgICAgICAgfHwgZmFsc2UKICAgICAgICAwICAgICAgICAgfCAxMiAgICAgICAgfCAwICAgICAgICAgICB8IDEgICAgICAgfCAiYSIgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgfCAiYSIgICAgICAgICAgIHwgImEiICAgICB8IDEgICAgICAgICAgICAgICAgICB8IDEgICAgICAgICAgICAgICAgICB8fCAxICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgfHwgZmFsc2UgICAgICAgICAgICAgICAgICAgICAgICB8fCBmYWxzZSAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgIHx8IGZhbHNlICAgICAgICAgICAgICAgICAgICAgICAgfHwgZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICB3aGVyZToKICAgICAgICBhZ2VPcGVuRmxhZzUgfCBhZ2VPcGVuRmxhZzYgfCBhY2NvdW50U3RhdHVzNSAgICAgICAgICAgICAgICAgIHwgYWNjb3VudFN0YXR1czYgICAgICAgICAgICAgICAgICB8fCBleHBlY3RlZAogICAgICAgIGZhbHNlICAgICAgICB8IGZhbHNlICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHx8IFtkaXNwbGF5RmxhZzogZmFsc2UsIGF2ZXJhZ2VBZ2U6IDEwLjBdCiAgICAgICAgdHJ1ZSAgICAgICAgIHwgZmFsc2UgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSAgICAgICAgfHwgW2Rpc3BsYXlGbGFnOiB0cnVlLCBhdmVyYWdlQWdlOiAxMi4wXQogICAgICAgIGZhbHNlICAgICAgICB8IHRydWUgICAgICAgICB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTQuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE1LjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgZmFsc2UgICAgICAgIHwgQWNjb3VudFN0YXR1cy5VU0VSX0RFTEVURUQuY29kZSB8IEFjY291bnRTdGF0dXMuVkFMSUQuY29kZSAgICAgICAgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlVTRVJfREVMRVRFRC5jb2RlIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8fCBbZGlzcGxheUZsYWc6IGZhbHNlLCBhdmVyYWdlQWdlOiAxMC4wXQogICAgICAgIGZhbHNlICAgICAgICB8IHRydWUgICAgICAgICB8IEFjY291bnRTdGF0dXMuVVNFUl9ERUxFVEVELmNvZGUgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHx8IFtkaXNwbGF5RmxhZzogdHJ1ZSwgYXZlcmFnZUFnZTogMTQuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCBBY2NvdW50U3RhdHVzLlVTRVJfREVMRVRFRC5jb2RlIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDE0LjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgZmFsc2UgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8IEFjY291bnRTdGF0dXMuVVNFUl9ERUxFVEVELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCBmYWxzZSAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHwgQWNjb3VudFN0YXR1cy5VU0VSX0RFTEVURUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDEyLjBdCiAgICAgICAgZmFsc2UgICAgICAgIHwgdHJ1ZSAgICAgICAgIHwgQWNjb3VudFN0YXR1cy5WQUxJRC5jb2RlICAgICAgICB8IEFjY291bnRTdGF0dXMuVVNFUl9ERUxFVEVELmNvZGUgfHwgW2Rpc3BsYXlGbGFnOiBmYWxzZSwgYXZlcmFnZUFnZTogMTAuMF0KICAgICAgICB0cnVlICAgICAgICAgfCB0cnVlICAgICAgICAgfCBBY2NvdW50U3RhdHVzLlZBTElELmNvZGUgICAgICAgIHwgQWNjb3VudFN0YXR1cy5VU0VSX0RFTEVURUQuY29kZSB8fCBbZGlzcGxheUZsYWc6IHRydWUsIGF2ZXJhZ2VBZ2U6IDEyLjBdCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -9783,40 +9784,24 @@
           <key char="107" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="8">
-        <text>|| maleRegularPriceUpdateFlag || maleBenefitPriceUpdateFlag || femaleRegularPriceUpdateFlag || femaleBenefitPriceUpdateFlag
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| false                      || false                      || false                        || false
-|| true                       || false                      || false                        || false
-|| false                      || true                       || false                        || false
-|| false                      || false                      || true                         || false
-|| false                      || false                      || false                        || true
-|| true                       || true                       || true                         || true</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBEaWdpdHMoaW50ZWdlciA9IDYsIGZyYWN0aW9uID0gMCwgbWVzc2FnZSA9ICJ7ZXJyb3IuZXZlbnRNYW5hZ2UubnVtYmVyTWluLmRpZ2l0c30iKQo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IG1hbGVSZWd1bGFyUHJpY2UgfCBtYWxlQmVuZWZpdFByaWNlIHwgZmVtYWxlUmVndWxhclByaWNlIHwgZmVtYWxlQmVuZWZpdFByaWNlIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDIgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAyICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMiAgICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwKIDEgICAgICAgICAgICAgICAgfCAxICAgICAgICAgICAgICAgIHwgMSAgICAgICAgICAgICAgICAgIHwgMiAgICAgICAgICAgICAgICAgIHwKIDIgICAgICAgICAgICAgICAgfCAyICAgICAgICAgICAgICAgIHwgMiAgICAgICAgICAgICAgICAgIHwgMiAgICAgICAgICAgICAgICAgIHw=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBEaWdpdHMoaW50ZWdlciA9IDYsIGZyYWN0aW9uID0gMCwgbWVzc2FnZSA9ICJ7ZXJyb3IuZXZlbnRNYW5hZ2UubnVtYmVyTWluLmRpZ2l0c30iKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;eventCreateRequest&quot;/OBJECT_NAME/g</text>
+        <text>%s/communitys/communities/g</text>
       </register>
     </registers>
     <search>
-      <last-search>会場</last-search>
+      <last-search>communitys</last-search>
       <last-offset />
-      <last-pattern>会場</last-pattern>
-      <last-replace>OBJECT_NAME</last-replace>
-      <last-substitute>&quot;eventCreateRequest&quot;</last-substitute>
+      <last-pattern>communitys</last-pattern>
+      <last-replace>communities</last-replace>
+      <last-substitute>communitys</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -9840,6 +9825,7 @@
         <entry>exists</entry>
         <entry>&quot;eventCreateRequest&quot;</entry>
         <entry>会場</entry>
+        <entry>communitys</entry>
       </history-search>
       <history-cmd>
         <entry>%s/イベント/コミュニティ/g</entry>
@@ -9862,6 +9848,7 @@
         <entry encoding="base64">JzwsJz5zL3RydWUvZmFsc2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zLywgamRiY1R5cGU9XCguKlwpfS99Lw==</entry>
         <entry>%s/&quot;eventCreateRequest&quot;/OBJECT_NAME/g</entry>
+        <entry>%s/communitys/communities/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
