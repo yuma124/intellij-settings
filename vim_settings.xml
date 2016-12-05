@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1480942198975">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="13" />
+        <mark key="." line="52" column="13" />
+        <mark key="^" line="52" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-development.yml" timestamp="1480938082698">
         <mark key="[" line="52" column="66" />
         <mark key="]" line="52" column="70" />
@@ -43,12 +49,6 @@
         <mark key="]" line="196" column="45" />
         <mark key="." line="196" column="0" />
         <mark key="^" line="183" column="85" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1480940380698">
-        <mark key="[" line="117" column="79" />
-        <mark key="]" line="117" column="80" />
-        <mark key="." line="117" column="80" />
-        <mark key="^" line="117" column="80" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1480585252067">
         <mark key="[" line="6" column="24" />
@@ -138,12 +138,6 @@
         <mark key="]" line="48" column="39" />
         <mark key="." line="48" column="39" />
         <mark key="^" line="48" column="39" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/communityUpdateNotification.txt" timestamp="1480932710927">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="0" />
       </file>
       <file name="/RegExp Fragment (EventForm.java:4424).regexp" timestamp="1480671269934">
         <mark key="[" line="0" column="0" />
@@ -261,17 +255,17 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLgo=</text>
+      <register name="&quot;" type="4">
+        <text>DEFAULT</text>
       </register>
       <register name="-" type="4">
-        <text>latestEvents</text>
+        <text>DEFAULT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlZGl0Q29uZmlybVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(%s)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOODiOODquODoOOBruOCueOCv+OCpOODqwogICAgICovCiAgICBlbnVtIFN0eWxlIHsKICAgICAgICAvKiog5qiZ5rqW44Gu44OI44Oq44OgICovCiAgICAgICAgREVGQVVMVCwKICAgICAgICAvKiog5YWo6KeS5paH5a2X44KS5ZCr44KB44KLICovCiAgICAgICAgRlVMTFdJRFRIX1NQQUNFCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLgo=</text>
