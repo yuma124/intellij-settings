@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1481020225051" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1481026316154">
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="33" column="21" />
+        <mark key="^" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1480997051608">
         <mark key="[" line="48" column="19" />
         <mark key="]" line="48" column="19" />
@@ -19,23 +24,13 @@
         <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/CommunityRepository.xml" timestamp="1480319039348">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1481001421060">
-        <mark key="[" line="195" column="85" />
-        <mark key="]" line="195" column="86" />
-        <mark key="." line="195" column="86" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/eventManage/submit.js" timestamp="1481024910057">
         <mark key="[" line="3" column="76" />
         <mark key="]" line="3" column="73" />
         <mark key="." line="3" column="73" />
         <mark key="^" line="3" column="73" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1481025910129">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1481026997176">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -43,11 +38,6 @@
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventManageService.java" timestamp="1480565292944">
         <mark key="'" line="331" column="5" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/accounts.html" timestamp="1480990359560">
-        <mark key="[" line="615" column="138" />
-        <mark key="]" line="615" column="138" />
-        <mark key="." line="615" column="150" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/application-unit.yml" timestamp="1480989918904">
         <mark key="[" line="30" column="73" />
@@ -64,11 +54,6 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" timestamp="1481006557605">
         <mark key="'" line="744" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/validation/NgWordValidator.java" timestamp="1480579393750">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1480997031725">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="31" />
@@ -81,11 +66,11 @@
         <mark key="^" line="25" column="80" />
         <mark key="." line="25" column="80" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/formatter/TrimFormatter.java" timestamp="1481025543779">
-        <mark key="[" line="62" column="15" />
-        <mark key="]" line="62" column="43" />
-        <mark key="." line="62" column="43" />
-        <mark key="^" line="62" column="43" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/formatter/TrimFormatter.java" timestamp="1481026683163">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventReminder.txt" timestamp="1480932752173">
         <mark key="[" line="1" column="0" />
@@ -106,12 +91,12 @@
         <mark key="." line="6" column="53" />
         <mark key="^" line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" timestamp="1481025642535">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" timestamp="1481026837175">
         <mark key="'" line="251" column="5" />
-        <mark key="[" line="250" column="4" />
-        <mark key="]" line="64" column="5" />
-        <mark key="." line="250" column="5" />
-        <mark key="^" line="64" column="5" />
+        <mark key="[" line="250" column="59" />
+        <mark key="]" line="59" column="78" />
+        <mark key="." line="250" column="76" />
+        <mark key="^" line="59" column="78" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1481019433617" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventCancelNotification.txt" timestamp="1480490582962">
@@ -120,16 +105,17 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/test/groovy/net/zexy/cpf/core/component/format/formatter/TrimFormatterTest.groovy" timestamp="1481026709407">
+        <mark key="[" line="38" column="105" />
+        <mark key="]" line="38" column="108" />
+        <mark key="^" line="38" column="108" />
+        <mark key="." line="38" column="108" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" timestamp="1480997061477">
         <mark key="[" line="40" column="22" />
         <mark key="]" line="40" column="31" />
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventStopNotification.txt" timestamp="1480933074251">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/messages.properties" timestamp="1480926214405">
         <mark key="[" line="48" column="38" />
@@ -148,22 +134,17 @@
       <file name="/RegExp Fragment (EventForm.java:4424).regexp" timestamp="1480671269934">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/account/index.html" timestamp="1481012014317">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1480933070481">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="22" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="19" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/registry/StringConvertFormatterRegistrar.java" timestamp="1481020622166">
-        <mark key="[" line="71" column="79" />
-        <mark key="]" line="71" column="102" />
-        <mark key="^" line="71" column="102" />
-        <mark key="." line="71" column="102" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/registry/StringConvertFormatterRegistrar.java" timestamp="1481026413342">
+        <mark key="[" line="71" column="103" />
+        <mark key="]" line="71" column="128" />
+        <mark key="^" line="71" column="128" />
+        <mark key="." line="71" column="128" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/list.html" timestamp="1481010900258">
         <mark key="[" line="67" column="206" />
@@ -171,32 +152,12 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-development.yml" timestamp="1480997044680">
-        <mark key="[" line="48" column="19" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.4.RELEASE/61dc1018540942e92815db7c781f980943d186c8/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/StringTrimmerEditor.java" timestamp="1481025081175" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/event.html" timestamp="1480990425074">
-        <mark key="[" line="318" column="77" />
-        <mark key="]" line="318" column="77" />
-        <mark key="." line="318" column="89" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481004285924">
         <mark key="[" line="9" column="223" />
         <mark key="]" line="9" column="246" />
         <mark key="." line="9" column="218" />
         <mark key="^" line="9" column="284" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/hamburger.html" timestamp="1480990414464">
-        <mark key="[" line="35" column="94" />
-        <mark key="]" line="35" column="94" />
-        <mark key="." line="35" column="106" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1480996991886">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/event/list.js" timestamp="1481004801019">
         <mark key="[" line="41" column="0" />
@@ -212,11 +173,6 @@
         <mark key="]" line="196" column="45" />
         <mark key="." line="196" column="0" />
         <mark key="^" line="183" column="85" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputResetPassword.html" timestamp="1481012055150">
-        <mark key="[" line="25" column="64" />
-        <mark key="]" line="25" column="64" />
-        <mark key="." line="25" column="95" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480591953267">
         <mark key="'" line="121" column="0" />
@@ -253,21 +209,11 @@
         <mark key="." line="615" column="130" />
         <mark key="^" line="615" column="130" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1480996972858">
-        <mark key="[" line="56" column="19" />
-        <mark key="]" line="56" column="19" />
-        <mark key="." line="56" column="19" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1480996988356">
         <mark key="[" line="58" column="22" />
         <mark key="]" line="58" column="31" />
         <mark key="." line="58" column="31" />
         <mark key="^" line="58" column="31" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunitySummaryServiceTest.groovy" timestamp="1480393073816">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/configuration/properties/MailProperties.java" timestamp="1480509295116">
         <mark key="[" line="27" column="37" />
@@ -408,41 +354,42 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBJbml0QmluZGVyCiAgICBwdWJsaWMgdm9pZCBpbml0QmluZGVyKFdlYkRhdGFCaW5kZXIgYmluZGVyKSB7CiAgICAgICAgYmluZGVyLnJlZ2lzdGVyQ3VzdG9tRWRpdG9yKFN0cmluZy5jbGFzcywgbmV3IFN0cmluZ1RyaW1tZXJFZGl0b3IodHJ1ZSkpOwogICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>trimmer().apply(text);</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUcmltQ29udmVydFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUcmltQ29udmVydCh2YWx1ZSA9IEZVTExXSURUSF9TUEFDRSkK</text>
+        <text encoding="base64">ICAgICAgICBTdHlsZS5GVUxMV0lEVEhfU1BBQ0UgfCBEaXJlY3Rpb24uQk9USCAgfCBDb25kaXRpb24uQkxBTksgIHwgZmFsc2UgICAgICAgfCAiIOOAgCIgICAgICAgICAgICAgICAgfHwgIiIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJbml0QmluZGVyCiAgICBwdWJsaWMgdm9pZCBpbml0QmluZGVyKFdlYkRhdGFCaW5kZXIgYmluZGVyKSB7CiAgICAgICAgYmluZGVyLnJlZ2lzdGVyQ3VzdG9tRWRpdG9yKFN0cmluZy5jbGFzcywgbmV3IFN0cmluZ1RyaW1tZXJFZGl0b3IodHJ1ZSkpOwogICAgfQoK</text>
+      <register name="1" type="8">
+        <text>false
+false</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRydWU7Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">Q29uZGl0aW9uLkFMV0FZUwpDb25kaXRpb24uQUxXQVlTCkNvbmRpdGlvbi5BTFdBWVMKQ29uZGl0aW9uLkFMV0FZUwpDb25kaXRpb24uQUxXQVlTCkNvbmRpdGlvbi5BTFdBWVMKQ29uZGl0aW9uLkFMV0FZUwpDb25kaXRpb24uQUxXQVlTCkNvbmRpdGlvbi5BTFdBWVMKQ29uZGl0aW9uLkFMV0FZUwpDb25kaXRpb24uQUxXQVlTCkNvbmRpdGlvbi5BTFdBWVMKQ29uZGl0aW9uLkJMQU5LIApDb25kaXRpb24uQkxBTksgCkNvbmRpdGlvbi5CTEFOSyAKQ29uZGl0aW9uLkJMQU5LIApDb25kaXRpb24uQkxBTksg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0eWxlID0gc3R5bGU7CiAgICAgICAgdGhpcy5kaXJlY3Rpb24gPSBkaXJlY3Rpb247CiAgICAgICAgdGhpcy5jb25kaXRpb24gPSBjb25kaXRpb247CiAgICAgICAgdGhpcy5lbXB0eUFzTnVsbCA9IGVtcHR5QXNOdWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJJCgnI2V2ZW50U2F2ZUZvcm0nKS5zdWJtaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICBpZiAoY29uZGl0aW9uID09IENvbmRpdGlvbi5CTEFOSykgewogICAgICAgICAgICBpZiAoaXNFbXB0eSgpLnRlc3QodGV4dCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiB0ZXh0OwogICAgICAgIH0KICAgICAgICB0ZXh0ID0gdHJpbW1lcigpLmFwcGx5KHRleHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUcmltQ29udmVydCh2YWx1ZSA9IEZVTExXSURUSF9TUEFDRSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGV4dC5pc0VtcHR5KCkgPyBudWxsIDogdGV4dDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUcmltQ29udmVydCh2YWx1ZSA9IEZVTExXSURUSF9TUEFDRSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -9958,10 +9905,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmltQ29udmVydCh2YWx1ZSA9IEZVTExXSURUSF9TUEFDRSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IG1heGxlbmd0aD0iMjAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpmaWVsZD0iKntvbGRQYXNzd29yZH0iPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdGg6aWY9IiR7I2ZpZWxkcy5oYXNFcnJvcnMoJ29sZFBhc3N3b3JkJyl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGg6ZXJyb3JzPSIqe29sZFBhc3N3b3JkfSIgY2xhc3M9ImMtZXJyb3IgaXMtYWN0aXZlIHAtZXJyb3IiPuWkieabtOWJjeODkeOCueODr+ODvOODieOBjOS4gOiHtOOBl+OBvuOBm+OCkwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX3JvdyB1LW1sMTUgdS1tcjE1Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29sLS1pdGVtIj48c3BhbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iYy1mb3JtX19pdGVtIGMtZm9ybV9faXRlbS0tcmVxdWlyZWQiPuWkieabtOW+jOODkeOCueODr+ODvOODiTwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29sLS1pbnB1dCBqcy1pbnB1dC1jb250cm9sIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX2NvbnRyb2wgYy1mb3JtX19jb250cm9sLS1ib3JkZXJlZCBqcy1pbnB1dC1jb250cm9sLWJvZHkiPjxpbnB1dAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImMtaW5wdXQganMtaW5wdXQtY29udHJvbC1pbnB1dCB1LWxldHRlci1zcGFjZS1uYXJyb3ciIHR5cGU9InBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0icGFzc3dvcmQiIHZhbHVlPSIiIHBsYWNlaG9sZGVyPSLjg5Hjgrnjg6/jg7zjg4kiIG1heGxlbmd0aD0iMjAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpmaWVsZD0iKntwYXNzd29yZH0iPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdGg6aWY9IiR7I2ZpZWxkcy5oYXNFcnJvcnMoJ3Bhc3N3b3JkJyl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGg6ZXJyb3JzPSIqe3Bhc3N3b3JkfSIgY2xhc3M9ImMtZXJyb3IgaXMtYWN0aXZlIHAtZXJyb3IiPuKXi+KXi+aWh+Wtl+S7peS4iuOBp+WFpeWKm+OBl+OBpuOBj+OBoOOBleOBhAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX3JvdyB1LW1sMTUgdS1tcjE1Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29sLS1pdGVtIj48c3BhbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iYy1mb3JtX19pdGVtIGMtZm9ybV9faXRlbS0tcmVxdWlyZWQiPuWkieabtOW+jOODkeOCueODr+ODvOODiTxicj7vvIjnorroqo3nlKjvvIk8L3NwYW4+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX2NvbC0taW5wdXQganMtaW5wdXQtY29udHJvbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb250cm9sIGMtZm9ybV9fY29udHJvbC0tYm9yZGVyZWQganMtaW5wdXQtY29udHJvbC1ib2R5Ij48aW5wdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJjLWlucHV0IGMtaW5wdXQtLXBsYWNlaG9sZGVyTmFycm93IGpzLWlucHV0LWNvbnRyb2wtaW5wdXQgdS1sZXR0ZXItc3BhY2UtbmFycm93IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwZT0icGFzc3dvcmQiIG5hbWU9ImNvbmZpcm1QYXNzd29yZCIgdmFsdWU9IiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLnorroqo3jga7jgZ/jgoHlho3luqblhaXlipvjgZfjgabjgY/jgaDjgZXjgYQiIG1heGxlbmd0aD0iMjAiIHRoOmZpZWxkPSIqe2NvbmZpcm1QYXNzd29yZH0iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdGg6aWY9IiR7I2ZpZWxkcy5oYXNFcnJvcnMoJ2NvbmZpcm1QYXNzd29yZCcpfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntjb25maXJtUGFzc3dvcmR9IiBjbGFzcz0iYy1lcnJvciBpcy1hY3RpdmUgcC1lcnJvciI+56K66KqN55So44OR44K544Ov44O844OJ44KS5YWl5Yqb44GX44Gm44GP44Gg44GV44GECiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19yb3cgdS1tbDE1IHUtbXIxNSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29sLS1pdGVtIj48c3BhbiBjbGFzcz0iYy1mb3JtX19pdGVtIGMtZm9ybV9faXRlbS0tcmVxdWlyZWQiPuOBiuWQjeWJjSjmvKLlrZcpPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWlucHV0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fcm93IGMtZm9ybV9fcm93LS1uYW1lZmllbGQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImpzLWlucHV0LWNvbnRyb2wiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX2NvbnRyb2wgYy1mb3JtX19jb250cm9sLS1ib3JkZXJlZCBqcy1pbnB1dC1jb250cm9sLWJvZHkgdS1tcjUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJjLWlucHV0IGpzLWlucHV0LWNvbnRyb2wtaW5wdXQiIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibGFzdE5hbWUiIHRoOnZhbHVlPSIqe2xhc3ROYW1lfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i5aeTIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iMjUiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImpzLWlucHV0LWNvbnRyb2wiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX2NvbnRyb2wgYy1mb3JtX19jb250cm9sLS1ib3JkZXJlZCBqcy1pbnB1dC1jb250cm9sLWJvZHkgdS1tbDUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJjLWlucHV0IGpzLWlucHV0LWNvbnRyb2wtaW5wdXQiIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0iZmlyc3ROYW1lIiB0aDp2YWx1ZT0iKntmaXJzdE5hbWV9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLlkI0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4bGVuZ3RoPSIyNSI+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgdGg6aWY9IiR7I2ZpZWxkcy5oYXNFcnJvcnMoJ2xhc3ROYW1lJyl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDplcnJvcnM9Iip7bGFzdE5hbWV9IiBjbGFzcz0iYy1lcnJvciBpcy1hY3RpdmUgcC1lcnJvciI+44GK5ZCN5YmNKOa8ouWtlynjga7lhaXlipvjga/lv4XpoIjjgafjgZkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0aDppZj0iJHsjZmllbGRzLmhhc0Vycm9ycygnZmlyc3ROYW1lJyl9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDplcnJvcnM9Iip7Zmlyc3ROYW1lfSIgY2xhc3M9ImMtZXJyb3IgaXMtYWN0aXZlIHAtZXJyb3IiPuOBiuWQjeWJjSjmvKLlrZcp44Gu5YWl5Yqb44Gv5b+F6aCI44Gn44GZCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19yb3cgdS1tbDE1IHUtbXIxNSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29sLS1pdGVtIj48c3BhbiBjbGFzcz0iYy1mb3JtX19pdGVtIGMtZm9ybV9faXRlbS0tcmVxdWlyZWQiPuOBiuWQjeWJjSjjgqvjg4opPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWlucHV0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fcm93IGMtZm9ybV9fcm93LS1uYW1lZmllbGQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImpzLWlucHV0LWNvbnRyb2wiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX2NvbnRyb2wgYy1mb3JtX19jb250cm9sLS1ib3JkZXJlZCBqcy1pbnB1dC1jb250cm9sLWJvZHkgdS1tcjUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJjLWlucHV0IGpzLWlucHV0LWNvbnRyb2wtaW5wdXQiIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibGFzdE5hbWVLYW5hIiB0aDp2YWx1ZT0iKntsYXN0TmFtZUthbmF9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSLjgrvjgqQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4bGVuZ3RoPSIyNSI+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ianMtaW5wdXQtY29udHJvbCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29udHJvbCBjLWZvcm1fX2NvbnRyb2wtLWJvcmRlcmVkIGpzLWlucHV0LWNvbnRyb2wtYm9keSB1LW1sNSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImMtaW5wdXQganMtaW5wdXQtY29udHJvbC1pbnB1dCIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJmaXJzdE5hbWVLYW5hIiB0aDp2YWx1ZT0iKntmaXJzdE5hbWVLYW5hfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0i44Oh44KkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iMjUiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHRoOmlmPSIkeyNmaWVsZHMuaGFzRXJyb3JzKCdsYXN0TmFtZUthbmEnKX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoOmVycm9ycz0iKntsYXN0TmFtZUthbmF9IiBjbGFzcz0iYy1lcnJvciBpcy1hY3RpdmUgcC1lcnJvciI+44GK5ZCN5YmNKOOCq+ODiinjga7lhaXlipvjga/lv4XpoIjjgafjgZkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB0aDppZj0iJHsjZmllbGRzLmhhc0Vycm9ycygnZmlyc3ROYW1lS2FuYScpfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGg6ZXJyb3JzPSIqe2ZpcnN0TmFtZUthbmF9IiBjbGFzcz0iYy1lcnJvciBpcy1hY3RpdmUgcC1lcnJvciI+44GK5ZCN5YmNKOOCq+ODiinjga7lhaXlipvjga/lv4XpoIjjgafjgZkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX3JvdyB1LW1sMTUgdS1tcjE1Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWl0ZW0iPjxzcGFuIGNsYXNzPSJjLWZvcm1fX2l0ZW0gYy1mb3JtX19pdGVtLS1yZXF1aXJlZCI+44GK5L2P44G+44GE44Gu5Zyw5Z+fPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWlucHV0IGpzLWlucHV0LWNvbnRyb2wiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb250cm9sIGMtZm9ybV9fY29udHJvbC0tYm9yZGVyZWQgYy1mb3JtX19jb250cm9sLS1zZWxlY3QganMtaW5wdXQtY29udHJvbC1ib2R5Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLWZvcm1fX3NlbGVjdFNwaW4iPjwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzZWxlY3QgY2xhc3M9ImpzLWlucHV0LWNvbnRyb2wtaW5wdXQiIG5hbWU9InJlc2lkZW5jZVByZWZlY3R1cmVJZCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdGg6ZWFjaD0icHJlZmVjdHVyZSA6ICR7cHJlZmVjdHVyZXN9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoOnZhbHVlPSIke3ByZWZlY3R1cmUucHJlZmVjdHVyZUlkfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpzZWxlY3RlZD0iJHtwcmVmZWN0dXJlLnByZWZlY3R1cmVOYW1lfSA9PSAqe3ByZWZlY3R1cmVOYW1lfSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDpsYWJlbD0iJHtwcmVmZWN0dXJlLnByZWZlY3R1cmVOYW1lfSI+PC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fcm93IHUtbWwxNSB1LW1yMTUgdS1tYjIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWl0ZW0iPjxzcGFuIGNsYXNzPSJjLWZvcm1fX2l0ZW0gYy1mb3JtX19pdGVtLS1yZXF1aXJlZCI+5Yuk5YuZ5YWIPC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb2wtLWlucHV0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImpzLWlucHV0LWNvbnRyb2wiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtZm9ybV9fY29udHJvbCBjLWZvcm1fX2NvbnRyb2wtLWJvcmRlcmVkIGpzLWlucHV0LWNvbnRyb2wtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iYy1pbnB1dCBqcy1pbnB1dC1jb250cm9sLWlucHV0IiB0eXBlPSJ0ZXh0IiBuYW1lPSJ3b3JrcGxhY2UiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aDp2YWx1ZT0iKnt3b3JrcGxhY2V9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS1jb250cm9sPSIuanMtZGF0YS1jb250cm9sLXdvcmtsb2NhdGlvbiIg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBJbml0QmluZGVyCiAgICBwdWJsaWMgdm9pZCBpbml0QmluZGVyKFdlYkRhdGFCaW5kZXIgYmluZGVyKSB7CiAgICAgICAgYmluZGVyLnJlZ2lzdGVyQ3VzdG9tRWRpdG9yKFN0cmluZy5jbGFzcywgbmV3IFN0cmluZ1RyaW1tZXJFZGl0b3IodHJ1ZSkpOwogICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/condition/value = FULLWIDTH_SPACE, condition/</text>
