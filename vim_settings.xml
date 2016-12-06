@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1480942600914" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1480938068687">
-        <mark key="[" line="52" column="66" />
-        <mark key="]" line="52" column="69" />
-        <mark key="." line="52" column="68" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1480997051608">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
         <mark key="^" line="52" column="68" />
       </file>
       <file name="/a.dummy" timestamp="1480990257920">
@@ -24,8 +23,9 @@
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480933185669" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" timestamp="1480991707510" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1480997195250">
+        <mark key="'" line="1489" column="62" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1480586614180">
         <mark key="[" line="224" column="64" />
         <mark key="]" line="224" column="74" />
@@ -46,21 +46,16 @@
         <mark key="." line="30" column="73" />
         <mark key="^" line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1480991094816">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/controller/EventReminderController.java" timestamp="1480654983424" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/validation/NgWordValidator.java" timestamp="1480579393750">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1480938087129">
-        <mark key="[" line="22" column="62" />
-        <mark key="]" line="22" column="66" />
-        <mark key="." line="22" column="62" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1480997031725">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventReminder.txt" timestamp="1480932752173">
         <mark key="[" line="1" column="0" />
@@ -79,54 +74,31 @@
         <mark key="]" line="22" column="35" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/list.html" timestamp="1480990350548">
-        <mark key="'" line="48" column="95" />
-        <mark key="[" line="48" column="71" />
-        <mark key="]" line="48" column="71" />
-        <mark key="." line="48" column="83" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1480995354048">
-        <mark key="'" line="3" column="70" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventCancelNotification.txt" timestamp="1480490582962">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="39" />
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/EventReminderAccountRepositoryTest.groovy" timestamp="1480902306962" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1480990330380">
-        <mark key="'" line="620" column="92" />
-        <mark key="[" line="620" column="60" />
-        <mark key="]" line="620" column="60" />
-        <mark key="." line="620" column="72" />
-        <mark key="^" line="620" column="80" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" timestamp="1480938075209">
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="73" />
-        <mark key="." line="44" column="69" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" timestamp="1480997061477">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventStopNotification.txt" timestamp="1480933074251">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventManageServiceTest.groovy" timestamp="1480996476305">
-        <mark key="'" line="993" column="20" />
-        <mark key="[" line="989" column="30" />
-        <mark key="]" line="989" column="30" />
-        <mark key="." line="989" column="30" />
-        <mark key="^" line="1022" column="60" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/messages.properties" timestamp="1480926214405">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="39" />
         <mark key="." line="48" column="39" />
         <mark key="^" line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" timestamp="1480997238210">
+        <mark key="'" line="52" column="6" />
       </file>
       <file name="/RegExp Fragment (EventForm.java:4424).regexp" timestamp="1480671269934">
         <mark key="[" line="0" column="0" />
@@ -143,10 +115,10 @@
         <mark key="^" line="71" column="102" />
         <mark key="." line="71" column="102" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-development.yml" timestamp="1480938082698">
-        <mark key="[" line="52" column="66" />
-        <mark key="]" line="52" column="70" />
-        <mark key="." line="52" column="66" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-development.yml" timestamp="1480997044680">
+        <mark key="[" line="48" column="19" />
+        <mark key="]" line="48" column="19" />
+        <mark key="." line="48" column="19" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/event.html" timestamp="1480990425074">
         <mark key="[" line="318" column="77" />
@@ -159,19 +131,18 @@
         <mark key="." line="78" column="154" />
         <mark key="^" line="78" column="154" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/eventListItem.html" timestamp="1480990407550">
-        <mark key="'" line="38" column="34" />
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="43" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/hamburger.html" timestamp="1480990414464">
         <mark key="[" line="35" column="94" />
         <mark key="]" line="35" column="94" />
         <mark key="." line="35" column="106" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1480996991886">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/common.js" timestamp="1480993118949">
-        <mark key="'" line="1300" column="11" />
+        <mark key="'" line="1301" column="11" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventSummaryServiceTest.groovy" timestamp="1480935984928">
         <mark key="[" line="196" column="0" />
@@ -179,17 +150,9 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="183" column="85" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/CommunitySummaryRepositoryTest.groovy" timestamp="1480591953267">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="130" column="5" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="129" column="43" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1480586882503">
         <mark key="'" line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" timestamp="1480991700307" />
       <file name="/Dummy.txt" timestamp="1480992185626">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,7 +165,8 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/edit.html" timestamp="1480933504930">
         <mark key="'" line="80" column="104" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventReminderServiceTest.groovy" timestamp="1480927949214">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventReminderServiceTest.groovy" timestamp="1480997228199">
+        <mark key="'" line="32" column="6" />
         <mark key="[" line="323" column="0" />
         <mark key="]" line="323" column="0" />
         <mark key="^" line="322" column="36" />
@@ -213,6 +177,17 @@
         <mark key="]" line="615" column="130" />
         <mark key="." line="615" column="130" />
         <mark key="^" line="615" column="130" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1480996972858">
+        <mark key="[" line="56" column="19" />
+        <mark key="]" line="56" column="19" />
+        <mark key="." line="56" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1480996988356">
+        <mark key="[" line="58" column="22" />
+        <mark key="]" line="58" column="31" />
+        <mark key="." line="58" column="31" />
+        <mark key="^" line="58" column="31" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1480926231252">
         <mark key="[" line="103" column="38" />
@@ -231,28 +206,14 @@
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/application-test-common.yml" timestamp="1480996889383">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="453" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="484" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="517" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="518" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="522" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="586" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="587" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="655" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="656" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="691" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="724" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="725" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="715" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1425" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1504" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1600" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1700" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1756" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1813" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1858" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1502" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1597" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1696" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
@@ -333,19 +294,39 @@
       <jump line="7" column="35" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="3" column="70" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" />
       <jump line="994" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventManageServiceTest.groovy" />
+      <jump line="56" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="356" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="434" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="503" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="572" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="641" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="710" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="779" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="848" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="917" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="986" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1055" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1124" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1193" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1262" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1331" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1413" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1489" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="32" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventReminderServiceTest.groovy" />
+      <jump line="52" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>コミュニティプラットフォーム</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>コミュニティプラットフォーム</text>
       </register>
       <register name="/" type="4">
-        <text>:</text>
+        <text>コミュニティプラットフォーム</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydERhdGU6IG9yaWdpbmFsU3RhcnREYXRlLAogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZTogJzEyOjAwOjAwJywKICAgICAgICAgICAgICAgICAgICBlbmREYXRlOiBvcmlnaW5hbFN0YXJ0RGF0ZS5wbHVzRGF5cygxKSwKICAgICAgICAgICAgICAgICAgICBjYW5jZWxDaGFyZ2VUaW1pbmc6ICJhIiwKICAgICAgICAgICAgICAgICAgICBwcmVmZWN0dXJlSWQ6IDEsCiAgICAgICAgICAgICAgICAgICAgaG9sZFBsYWNlTmFtZTogImEiLAogICAgICAgICAgICAgICAgICAgIGFkZHJlc3M6ICJhIiwKICAgICAgICAgICAgICAgICAgICBjb21tb25SZWd1bGFyUHJpY2U6IDEsCiAgICAgICAgICAgICAgICAgICAgY29tbW9uQmVuZWZpdFByaWNlOiAxCg==</text>
@@ -9906,15 +9887,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzovVXBkYXRlRmxhZzov</text>
+        <text>%s/コミュニティプラットフォーム/ACTIVITIES/g</text>
       </register>
     </registers>
     <search>
-      <last-search>:</last-search>
+      <last-search>コミュニティプラットフォーム</last-search>
       <last-offset />
-      <last-pattern>:</last-pattern>
-      <last-replace>UpdateFlag:</last-replace>
-      <last-substitute>:</last-substitute>
+      <last-pattern>コミュニティプラットフォーム</last-pattern>
+      <last-replace>ACTIVITIES</last-replace>
+      <last-substitute>コミュニティプラットフォーム</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -9959,6 +9940,7 @@
         <entry encoding="base64">XDxsaW5rXD4=</entry>
         <entry encoding="base64">XDxtZXRhXD4=</entry>
         <entry>:</entry>
+        <entry>コミュニティプラットフォーム</entry>
       </history-search>
       <history-cmd>
         <entry>%s/eventService/eventManageService</entry>
@@ -9984,6 +9966,7 @@
         <entry>%s/開始/開催/g</entry>
         <entry>%s/【新着イベント】====================/【新着イベント】==============/</entry>
         <entry encoding="base64">JzwsJz5zLzovVXBkYXRlRmxhZzov</entry>
+        <entry>%s/コミュニティプラットフォーム/ACTIVITIES/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
