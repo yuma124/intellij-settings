@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'cpf'" />
     <option name="defaultScopeName" value="Project 'cpf'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'cpf'" />
     <recentFileMasks>
       <mask>*.properties</mask>
