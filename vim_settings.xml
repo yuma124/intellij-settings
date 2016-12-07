@@ -30,7 +30,7 @@
         <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/CommunityRepository.xml" timestamp="1480319039348">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/CommunityRepository.xml" timestamp="1481074351433">
         <mark key="[" line="154" column="0" />
         <mark key="]" line="154" column="0" />
         <mark key="." line="154" column="0" />
@@ -188,7 +188,6 @@
         <mark key="]" line="48" column="19" />
         <mark key="." line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.4.RELEASE/61dc1018540942e92815db7c781f980943d186c8/spring-beans-4.3.4.RELEASE-sources.jar!/org/springframework/beans/propertyeditors/StringTrimmerEditor.java" timestamp="1481025081175" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/restcontroller/request/ProfileUpdateRequest.java" timestamp="1481030133343">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="80" />
@@ -279,7 +278,7 @@
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1481030810344">
+      <file name="/a.regexp" timestamp="1481074010761">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1480996988356">
@@ -9993,14 +9992,10 @@
       <last-replace>value = FULLWIDTH_SPACE, condition</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>イベント詳細</entry>
-        <entry>中止</entry>
-        <entry>新着</entry>
-        <entry>【新着イベント】====================</entry>
         <entry encoding="base64">XDxlZGl0Q29uZmlybVw+</entry>
         <entry>urls</entry>
         <entry encoding="base64">XDxpY29uSW1hZ2VQYXRoXD4=</entry>
