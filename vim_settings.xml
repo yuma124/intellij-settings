@@ -298,7 +298,7 @@
         <mark key="]" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="/a.regexp" timestamp="1481095790987">
+      <file name="/a.regexp" timestamp="1481098898201">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1480996988356">
@@ -307,8 +307,11 @@
         <mark key="." line="58" column="31" />
         <mark key="^" line="58" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1481098547717">
-        <mark key="'" line="45" column="10" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1481099068959">
+        <mark key="'" line="107" column="40" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunitySummaryServiceTest.groovy" timestamp="1480393073816">
         <mark key="[" line="136" column="0" />
@@ -342,30 +345,20 @@
       <file name="/fragment.java" timestamp="1481018467636">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/InputMailAddressForm.java" timestamp="1481098516622">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="52" />
-        <mark key="." line="19" column="52" />
-        <mark key="^" line="19" column="52" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/InputMailAddressForm.java" timestamp="1481099053838">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/ForgetPasswordForm.java" timestamp="1481088422267">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/ForgetPasswordForm.java" timestamp="1481098985522">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="26" column="57" />
+        <mark key="^" line="26" column="57" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="76" column="30" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="124" column="27" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="125" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="126" column="26" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="141" column="42" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="712" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="5" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="744" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.0__cpf.sql" />
-      <jump line="60" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
-      <jump line="70" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="85" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="104" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="116" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
@@ -455,34 +448,45 @@
       <jump line="32" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
       <jump line="35" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
       <jump line="45" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="14" column="33" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="11" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="12" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="13" column="17" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="54" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="55" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="56" column="56" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="79" column="50" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="96" column="36" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="97" column="46" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
+      <jump line="105" column="40" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFua1dpdGhUcmltKG1lc3NhZ2UgPSAie3Bhc3N9In0pCg==</text>
+        <text encoding="base64">ZXJyb3IuYWNjb3VudC5tYWlsLmZvcm1hdD3lhaXlipvjgZXjgozjgZ/jg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYzmraPjgZfjgY/jgYLjgorjgb7jgZvjgpMK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZhbHVlPSIi</text>
+        <text>(message = &quot;{error.account.mail.format}&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>sizeError</text>
+        <text>メールアドレス</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImMtZXJyb3IgaXMtYWN0aXZlIGwtZ3V0dGVyIHUtbWIxNSB1LWZ6LXNwMTEiIHRoOmlmPSIkeyNmaWVsZHMuaGFzRXJyb3JzKCdzdGFydEhvdXInKX0iIHRoOmVycm9ycz0iKntzdGFydEhvdXJ9Ij7lhaXlipvpoIXnm67jgavjgqjjg6njg7zjgYzjgYLjgorjgb7jgZk8L3A+Cg==</text>
+        <text encoding="base64">bWFpbC5lbXB0eUVycm9yPeODoeODvOODq+OCouODieODrOOCueOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAggo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFua1dpdGhUcmltKG1lc3NhZ2UgPSAie3Bhc3N9In0pCg==</text>
+        <text encoding="base64">ZXJyb3IuYWNjb3VudC5tYWlsLmZvcm1hdD3lhaXlipvjgZXjgozjgZ/jg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYzmraPjgZfjgY/jgYLjgorjgb7jgZvjgpMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEyOSkK</text>
+        <text encoding="base64">ICAgIEBTaXplKG1heCA9IDEyOSwgbWVzc2FnZSA9ICJ7bWFpbC5tYXhMZW5ndGh9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">bWFpbC5lbXB0eUVycm9yPeODoeODvOODq+OCouODieODrOOCueOCkuWFpeWKm+OBl+OBpuOBj+OBoOOBleOBhOOAggo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
@@ -491,10 +495,10 @@
         <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEyOSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEyOSkK</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFua1dpdGhUcmltKG1lc3NhZ2UgPSAie3Bhc3N9In0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImMtZXJyb3IgaXMtYWN0aXZlIGwtZ3V0dGVyIHUtbWIxNSB1LWZ6LXNwMTEiIHRoOmlmPSIkeyNmaWVsZHMuaGFzRXJyb3JzKCdzdGFydEhvdXInKX0iIHRoOmVycm9ycz0iKntzdGFydEhvdXJ9Ij7lhaXlipvpoIXnm67jgavjgqjjg6njg7zjgYzjgYLjgorjgb7jgZk8L3A+Cg==</text>
+        <text encoding="base64">ICAgIEBTaXplKG1pbiA9IDEsIG1heCA9IDEyOSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -10010,19 +10014,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIHRoOmVhY2g9ImUgOiAkeyNmaWVsZHMuZGV0YWlsZWRFcnJvcnMoKX0iIHRoOnRleHQ9IiR7ZS5tZXNzYWdlfSIgLz4K</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb21tb25SZWd1bGFyUHJpY2UiICAgOiBudWxsCg==</text>
+        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/condition/value = FULLWIDTH_SPACE, condition/</text>
       </register>
     </registers>
     <search>
-      <last-search>sizeError</last-search>
+      <last-search>メールアドレス</last-search>
       <last-offset />
-      <last-pattern>sizeError</last-pattern>
+      <last-pattern>メールアドレス</last-pattern>
       <last-replace>value = FULLWIDTH_SPACE, condition</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
@@ -10054,6 +10058,7 @@
         <entry encoding="base64">XDxCTEFOS1w+</entry>
         <entry>&quot;&quot;</entry>
         <entry>sizeError</entry>
+        <entry>メールアドレス</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyBTdHJpbmdUcmltbWVyRWRpdG9yKCkpOw==</entry>
