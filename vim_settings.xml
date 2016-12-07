@@ -134,6 +134,13 @@
         <mark key="^" line="35" column="118" />
         <mark key="." line="35" column="118" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1481076321520">
+        <mark key="'" line="189" column="83" />
+        <mark key="[" line="121" column="52" />
+        <mark key="]" line="121" column="52" />
+        <mark key="." line="121" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/annotation/AccountName.java" timestamp="1481076815244" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" timestamp="1480997061477">
         <mark key="[" line="40" column="22" />
         <mark key="]" line="40" column="31" />
@@ -261,7 +268,7 @@
         <mark key="^" line="322" column="36" />
         <mark key="." line="98" column="86" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1481029377606">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1481076864177">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="39" column="15" />
         <mark key="." line="39" column="15" />
@@ -321,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1124" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
-      <jump line="1193" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1262" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1331" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="1413" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
@@ -421,19 +426,21 @@
       <jump line="241" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="246" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="251" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
+      <jump line="33" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="189" column="83" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;</text>
+        <text>ツ</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>ツ</text>
       </register>
       <register name="/" type="4">
-        <text>StringTrimmer</text>
+        <text>footer</text>
       </register>
       <register name="0" type="4">
         <text>&quot; \t 　トリムされない　 \t &quot;</text>
@@ -9986,13 +9993,13 @@
       </register>
     </registers>
     <search>
-      <last-search>StringTrimmer</last-search>
+      <last-search>footer</last-search>
       <last-offset />
-      <last-pattern>StringTrimmer</last-pattern>
+      <last-pattern>footer</last-pattern>
       <last-replace>value = FULLWIDTH_SPACE, condition</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -10016,6 +10023,7 @@
         <entry>紹介</entry>
         <entry encoding="base64">XDxUcmltQ29udmVydFw+</entry>
         <entry>StringTrimmer</entry>
+        <entry>footer</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyBTdHJpbmdUcmltbWVyRWRpdG9yKCkpOw==</entry>
