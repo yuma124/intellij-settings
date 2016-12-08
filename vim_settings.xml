@@ -295,10 +295,10 @@
         <mark key="^" line="72" column="34" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1481168240954">
-        <mark key="[" line="490" column="0" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
-        <mark key="^" line="489" column="28" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="0" />
+        <mark key="." line="500" column="0" />
+        <mark key="^" line="499" column="28" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/restcontroller/ProfileRestController.java" timestamp="1481163741405">
         <mark key="[" line="96" column="30" />
@@ -322,12 +322,6 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1481168874864">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="56" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="74" column="20" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/accounts.html" timestamp="1480990282937">
         <mark key="[" line="615" column="118" />
@@ -10079,11 +10073,10 @@
       <last-replace>value = FULLWIDTH_SPACE, condition</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hidden</entry>
         <entry>gender</entry>
         <entry>prefectureName</entry>
         <entry>js-preview-delete</entry>
