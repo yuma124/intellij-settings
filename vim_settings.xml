@@ -135,7 +135,8 @@
         <mark key="^" line="112" column="29" />
         <mark key="." line="112" column="29" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1481167043948">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1481193131288">
+        <mark key="'" line="95" column="28" />
         <mark key="[" line="197" column="49" />
         <mark key="]" line="197" column="49" />
         <mark key="." line="197" column="49" />
@@ -403,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="619" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
-      <jump line="641" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="647" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="654" column="49" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
       <jump line="661" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/controller/EventManageControllerTest.groovy" />
@@ -503,6 +502,8 @@
       <jump line="56" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="97" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
       <jump line="136" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/EventForm.java" />
+      <jump line="154" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" />
+      <jump line="95" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -515,7 +516,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>1960</text>
+        <text>nickname</text>
       </register>
       <register name="0" type="4">
         <text>file:///Users/Shared/cpf/</text>
@@ -10070,13 +10071,13 @@
       </register>
     </registers>
     <search>
-      <last-search>1960</last-search>
+      <last-search>nickname</last-search>
       <last-offset />
-      <last-pattern>1960</last-pattern>
+      <last-pattern>nickname</last-pattern>
       <last-replace>value = FULLWIDTH_SPACE, condition</last-replace>
       <last-substitute>condition</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -10100,6 +10101,7 @@
         <entry encoding="base64">XDxQYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDw3XD4=</entry>
         <entry>1960</entry>
+        <entry>nickname</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyBTdHJpbmdUcmltbWVyRWRpdG9yKCkpOw==</entry>
