@@ -148,7 +148,7 @@
         <mark key="^" line="35" column="118" />
         <mark key="." line="35" column="118" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinEventRepository.xml" timestamp="1481603631110" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinEventRepository.xml" timestamp="1481604415295" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/profile/edit.js" timestamp="1481115028270">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
@@ -234,7 +234,7 @@
         <mark key="." line="196" column="0" />
         <mark key="^" line="183" column="85" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/OrganizerAuthHandlerInterceptor.java" timestamp="1481555798499" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/OrganizerAuthHandlerInterceptor.java" timestamp="1481604462618" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/InputController.js" timestamp="1481599288781">
         <mark key="[" line="98" column="28" />
         <mark key="]" line="98" column="34" />
@@ -246,6 +246,12 @@
         <mark key="]" line="72" column="34" />
         <mark key="." line="72" column="34" />
         <mark key="^" line="72" column="34" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1481605401107">
+        <mark key="[" line="58" column="29" />
+        <mark key="]" line="58" column="45" />
+        <mark key="^" line="58" column="45" />
+        <mark key="." line="58" column="45" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1481168240954">
         <mark key="[" line="498" column="0" />
