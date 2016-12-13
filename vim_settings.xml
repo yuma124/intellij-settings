@@ -50,7 +50,7 @@
         <mark key="." line="130" column="43" />
         <mark key="^" line="130" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1481103372765">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1481602319922">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="260" column="4" />
         <mark key="." line="94" column="0" />
@@ -130,11 +130,11 @@
         <mark key="." line="203" column="49" />
         <mark key="^" line="205" column="117" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1481601466146">
-        <mark key="[" line="76" column="121" />
-        <mark key="]" line="76" column="121" />
-        <mark key="^" line="76" column="119" />
-        <mark key="." line="76" column="121" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1481602870491">
+        <mark key="[" line="141" column="108" />
+        <mark key="]" line="141" column="113" />
+        <mark key="." line="141" column="113" />
+        <mark key="^" line="141" column="113" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventCancelNotification.txt" timestamp="1480490582962">
         <mark key="[" line="27" column="39" />
@@ -203,9 +203,9 @@
         <mark key="^" line="67" column="58" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/profile/show.js" timestamp="1481523951628" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481004285924">
-        <mark key="[" line="9" column="223" />
-        <mark key="]" line="9" column="246" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481602859404">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="92" />
         <mark key="." line="9" column="218" />
         <mark key="^" line="9" column="284" />
       </file>
@@ -449,16 +449,16 @@
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>required</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>required</text>
       </register>
       <register name="/" type="4">
         <text>is-active</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLiRidXR0b24gPSAkKHRoaXMuJGVsZW0uZGF0YSgnYnV0dG9uJykpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRoOmNsYXNzYXBwZW5kPSIke3JlcXVpcmVkfT8gJ2MtZm9ybV9faXRlbS0tcmVxdWlyZWQnIg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
