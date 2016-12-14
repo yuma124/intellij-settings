@@ -111,11 +111,11 @@
         <mark key="." line="104" column="68" />
         <mark key="^" line="43" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityManageController.java" timestamp="1481121598781">
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="112" column="29" />
-        <mark key="^" line="112" column="29" />
-        <mark key="." line="112" column="29" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityManageController.java" timestamp="1481701161623">
+        <mark key="[" line="113" column="106" />
+        <mark key="]" line="114" column="45" />
+        <mark key="^" line="114" column="45" />
+        <mark key="." line="114" column="45" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1481526866429">
         <mark key="[" line="203" column="49" />
@@ -205,6 +205,12 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/CommunityServiceTest.groovy" timestamp="1481701493860">
+        <mark key="[" line="321" column="44" />
+        <mark key="]" line="321" column="46" />
+        <mark key="." line="321" column="46" />
+        <mark key="^" line="321" column="46" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481602859404">
         <mark key="[" line="18" column="38" />
         <mark key="]" line="18" column="92" />
@@ -229,6 +235,12 @@
         <mark key="]" line="34" column="25" />
         <mark key="." line="34" column="25" />
         <mark key="^" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" timestamp="1481701194354">
+        <mark key="[" line="188" column="37" />
+        <mark key="]" line="188" column="44" />
+        <mark key="." line="188" column="44" />
+        <mark key="^" line="188" column="44" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventSummaryServiceTest.groovy" timestamp="1480935984928">
         <mark key="[" line="196" column="0" />
@@ -269,7 +281,7 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" timestamp="1481611808082">
         <mark key="'" line="103" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481680721309">
+      <file name="/Dummy.txt" timestamp="1481701731050">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1480989909865">
@@ -302,10 +314,10 @@
         <mark key="^" line="58" column="31" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/accounts.html" timestamp="1481700168667">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
         <mark key="^" line="65" column="247" />
-        <mark key="." line="88" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1481698039463">
         <mark key="'" line="104" column="40" />
@@ -456,11 +468,11 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCB0aDpzcmM9IkB7L2Fzc2V0cy9qcy9ldmVudE1hbmFnZS9hY2NvdW50LmpzfSI+PC9zY3JpcHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>NONE</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>NONE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RCeUlkSm9pbkFjY291bnRzQ29uZGl0aW9uXD4=</text>
