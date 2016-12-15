@@ -115,11 +115,11 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="65" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1481781739148">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="21" column="65" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1481785405027">
+        <mark key="[" line="25" column="104" />
+        <mark key="]" line="25" column="104" />
+        <mark key="." line="25" column="104" />
+        <mark key="^" line="21" column="69" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/CommunityServiceTest.groovy" timestamp="1481703837462">
         <mark key="[" line="266" column="61" />
@@ -230,6 +230,13 @@
         <mark key="]" line="35" column="85" />
         <mark key="." line="35" column="85" />
         <mark key="^" line="35" column="85" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1481785446335">
+        <mark key="'" line="1763" column="1" />
+        <mark key="[" line="1761" column="2" />
+        <mark key="]" line="1761" column="3" />
+        <mark key="." line="1761" column="3" />
+        <mark key="^" line="1761" column="3" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventManageController.java" timestamp="1481602319922">
         <mark key="[" line="247" column="0" />
@@ -445,6 +452,13 @@
         <mark key="]" line="30" column="39" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/accounts.html" timestamp="1481770848683">
+        <mark key="'" line="33" column="42" />
+        <mark key="[" line="34" column="85" />
+        <mark key="]" line="34" column="90" />
+        <mark key="^" line="34" column="90" />
+        <mark key="." line="34" column="90" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/application-test-common.yml" timestamp="1480996889383">
         <mark key="[" line="27" column="22" />
         <mark key="]" line="27" column="31" />
@@ -470,8 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" />
-      <jump line="385" column="58" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="485" column="104" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="492" column="90" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="322" column="139" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
@@ -570,19 +582,21 @@
       <jump line="1034" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="72" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
       <jump line="378" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="325" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="1763" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>通</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>通</text>
       </register>
       <register name="/" type="4">
-        <text>キャンセル料発生日</text>
+        <text>・共通料金</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0idS1jLXdlYWsiIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3Rlcm1zLmh0bWx9Ij7liKnnlKjopo/ntIQ8L2E+44CA44CAPGEgY2xhc3M9InUtYy13ZWFrIiB0aDpocmVmPSJAey9jb250ZW50cy9wcml2YWN5Lmh0bWx9Ij7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2E+Cg==</text>
@@ -10131,15 +10145,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InUtdGFjIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IHRoOnV0ZXh0PSIke3ByaXZhY3lQb2xpY3l9IiB0aDpyZW1vdmU9InRhZyI+PC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/キャンセル料発生日/キャンセル料に関して/g</text>
+        <text>%s/・共通料金/・料金/g</text>
       </register>
     </registers>
     <search>
-      <last-search>キャンセル料発生日</last-search>
+      <last-search>・共通料金</last-search>
       <last-offset />
-      <last-pattern>キャンセル料発生日</last-pattern>
-      <last-replace>キャンセル料に関して</last-replace>
-      <last-substitute>キャンセル料発生日</last-substitute>
+      <last-pattern>・共通料金</last-pattern>
+      <last-replace>・料金</last-replace>
+      <last-substitute>・共通料金</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -10169,6 +10183,7 @@
         <entry>navbar</entry>
         <entry>料金</entry>
         <entry>キャンセル料発生日</entry>
+        <entry>・共通料金</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25ldyBTdHJpbmdUcmltbWVyRWRpdG9yKCkpOw==</entry>
@@ -10192,6 +10207,7 @@
         <entry>%s/コミュニティプラットフォーム/ACTIVITIES/g</entry>
         <entry>%s/condition/value = FULLWIDTH_SPACE, condition/</entry>
         <entry>%s/キャンセル料発生日/キャンセル料に関して/g</entry>
+        <entry>%s/・共通料金/・料金/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
