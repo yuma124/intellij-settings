@@ -9,6 +9,12 @@
         <mark key="^" line="69" column="17" />
         <mark key="." line="69" column="17" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/restcontroller/CommunityManageRestController.java" timestamp="1481802887630">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="49" />
+        <mark key="." line="43" column="49" />
+        <mark key="^" line="43" column="49" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventRepository.xml" timestamp="1481789531650">
         <mark key="[" line="1116" column="60" />
         <mark key="]" line="1116" column="61" />
@@ -26,7 +32,7 @@
         <mark key="^" line="16" column="57" />
         <mark key="." line="16" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1481800653158">
+      <file name="/a.dummy" timestamp="1481802809193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1480997051608">
@@ -113,6 +119,12 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="93" column="83" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/restcontroller/response/EventResponse.java" timestamp="1481802927836">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1480997031725">
         <mark key="[" line="17" column="22" />
         <mark key="]" line="17" column="31" />
@@ -187,11 +199,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/communityManage/communityManage.js" timestamp="1481698820326">
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="51" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/communityManage/communityManage.js" timestamp="1481803052419">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/test/groovy/net/zexy/cpf/core/component/format/formatter/TrimFormatterTest.groovy" timestamp="1481030809691">
         <mark key="[" line="35" column="118" />
@@ -265,9 +277,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventUpdateNotification.txt" timestamp="1481785405027">
-        <mark key="^" line="21" column="69" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/impl/StaticContentsRepositoryImpl.java" timestamp="1481784192820">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -292,11 +301,11 @@
         <mark key="." line="266" column="63" />
         <mark key="^" line="266" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481602859404">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="92" />
-        <mark key="." line="9" column="218" />
-        <mark key="^" line="9" column="284" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/fragment/input.html" timestamp="1481802522001">
+        <mark key="[" line="9" column="387" />
+        <mark key="]" line="9" column="430" />
+        <mark key="." line="9" column="389" />
+        <mark key="^" line="9" column="389" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/eventListItem.html" timestamp="1481790523242">
         <mark key="'" line="145" column="18" />
@@ -358,6 +367,12 @@
         <mark key="]" line="71" column="82" />
         <mark key="^" line="71" column="82" />
         <mark key="." line="71" column="82" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/index.html" timestamp="1481803020317">
+        <mark key="[" line="59" column="84" />
+        <mark key="]" line="59" column="84" />
+        <mark key="." line="59" column="84" />
+        <mark key="^" line="59" column="84" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/InputController.js" timestamp="1481599288781">
         <mark key="[" line="98" column="28" />
@@ -608,17 +623,17 @@
       <register name="a" type="4">
         <text>なので検索結果0件</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InUtdGFjIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0idS1jLXdlYWsiIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3Rlcm1zLmh0bWx9Ij7liKnnlKjopo/ntIQ8L2E+44CA44CAPGEgY2xhc3M9InUtYy13ZWFrIiB0aDpocmVmPSJAey9jb250ZW50cy9wcml2YWN5Lmh0bWx9Ij7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2E+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>M</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>M</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1hbGlnbjogbGVmdDsK</text>
+      <register name="0" type="4">
+        <text>#temporals.format(__${name}__, 'yyyy/MM/dd')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InUtdGFjIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0idS1jLXdlYWsiIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3Rlcm1zLmh0bWx9Ij7liKnnlKjopo/ntIQ8L2E+44CA44CAPGEgY2xhc3M9InUtYy13ZWFrIiB0aDpocmVmPSJAey9jb250ZW50cy9wcml2YWN5Lmh0bWx9Ij7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2E+CiAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
