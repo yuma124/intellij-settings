@@ -144,6 +144,7 @@
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.xml" timestamp="1481883600642" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/impl/DoubleSubmitTokenRedisRepository.java" timestamp="1481877254888" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/resetPasswordFinish.html" timestamp="1481800707630">
         <mark key="[" line="20" column="0" />
@@ -172,11 +173,6 @@
         <mark key="]" line="26" column="188" />
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/messageBoard.js" timestamp="1481863443819">
-        <mark key="'" line="160" column="6" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="176" column="5" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventSummaryServiceTest.groovy" timestamp="1481792680089">
         <mark key="[" line="153" column="122" />
@@ -293,10 +289,10 @@
         <mark key="." line="150" column="108" />
         <mark key="^" line="150" column="108" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1481877296530">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1481883368664">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="24" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/forgetPassword.html" timestamp="1481800666459">
@@ -329,6 +325,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/support/security/CommunityRoleSupport.java" timestamp="1481883347580" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/eventReminder.txt" timestamp="1481781729804">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="39" />
@@ -639,10 +636,10 @@
         <text>なので検索結果0件</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, &quot;-Xrunjdwp:server=y,transport=dt_socket,suspend=n,address=25601&quot;,</text>
+        <text encoding="base64">ICItWHJ1bmpkd3A6c2VydmVyPXksdHJhbnNwb3J0PWR0X3NvY2tldCxzdXNwZW5kPW4sYWRkcmVzcz0yNTYwMSIs</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;-Xrunjdwp:server=y,transport=dt_socket,suspend=n,address=25601&quot;,</text>
+        <text encoding="base64">ICItWHJ1bmpkd3A6c2VydmVyPXksdHJhbnNwb3J0PWR0X3NvY2tldCxzdXNwZW5kPW4sYWRkcmVzcz0yNTYwMSIs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpbl9fZGVzY1w+</text>
