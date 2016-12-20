@@ -49,7 +49,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1482230022674">
+      <file name="/a.dummy" timestamp="1482231528464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
@@ -271,12 +271,6 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" timestamp="1482228387973">
-        <mark key="[" line="70" column="20" />
-        <mark key="]" line="70" column="54" />
-        <mark key="^" line="70" column="54" />
-        <mark key="." line="70" column="54" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -292,6 +286,9 @@
         <mark key="]" line="94" column="53" />
         <mark key="." line="94" column="53" />
         <mark key="^" line="94" column="53" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_search.scss" timestamp="1482231072260">
+        <mark key="'" line="3" column="1" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Filter.java" timestamp="1476503913600">
         <mark key="[" line="8" column="4" />
@@ -477,7 +474,6 @@
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="38" />
         <mark key="." line="48" column="38" />
-        <mark key="^" line="53" column="168" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
@@ -975,6 +971,7 @@
       <jump line="135" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/SelectBox.js" />
       <jump line="22" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/SelectBox.js" />
       <jump line="72" column="35" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/SelectBox.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_search.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -984,7 +981,7 @@
         <text encoding="base64">IHRoOmNsYXNzYXBwZW5kPSIke2FjY291bnRJbmZvcm1hdGlvbi5nZW5kZXIuY29kZX09PSR7VChuZXQuemV4eS5jcGYuY29yZS5lbnVtcy5HZW5kZXIpLk1BTEUuY29kZX0gPyAnYy1wcm9maWxlXF9cX2JnLS1tZW4nIDogJ2MtcHJvZmlsZVxfXF9iZy0td29tZW4nIg==</text>
       </register>
       <register name="/" type="4">
-        <text>placeholder</text>
+        <text>clear</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHRoOnNyYz0iJHtpc01hbGV9ID8gJy9hc3NldHMvaW1nL2NvbW1vbi9ub2ltYWdlX21lbl9ibGFuay5zdmcnIDogJy9hc3NldHMvaW1nL2NvbW1vbi9ub2ltYWdlX3dvbWVuX2JsYW5rLnN2Zyci</text>
@@ -1024,9 +1021,9 @@
       </register>
     </registers>
     <search>
-      <last-search>placeholder</last-search>
+      <last-search>clear</last-search>
       <last-offset />
-      <last-pattern>placeholder</last-pattern>
+      <last-pattern>clear</last-pattern>
       <last-replace>51</last-replace>
       <last-substitute>${it}</last-substitute>
       <last-dir>1</last-dir>
@@ -1047,6 +1044,7 @@
         <entry encoding="base64">XDxtb3ZlU2Nyb2xsXD4=</entry>
         <entry>move</entry>
         <entry>placeholder</entry>
+        <entry>clear</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
