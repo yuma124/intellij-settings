@@ -43,7 +43,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1482197701255">
+      <file name="/a.dummy" timestamp="1482203440441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
@@ -75,6 +75,17 @@
         <mark key="^" line="0" column="66" />
         <mark key="." line="3" column="71" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1482199808042">
+        <mark key="[" line="133" column="29" />
+        <mark key="]" line="134" column="80" />
+        <mark key="^" line="134" column="80" />
+        <mark key="." line="134" column="80" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/login/index.scss" timestamp="1482203075419">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="40" />
@@ -87,11 +98,11 @@
         <mark key="." line="3" column="53" />
         <mark key="^" line="3" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1482199497901">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventUpdateNotificationService.java" timestamp="1482199769812">
         <mark key="[" line="118" column="26" />
-        <mark key="]" line="118" column="26" />
-        <mark key="^" line="118" column="27" />
-        <mark key="." line="118" column="26" />
+        <mark key="]" line="118" column="76" />
+        <mark key="^" line="118" column="76" />
+        <mark key="." line="118" column="76" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/CustomerRepository.java" timestamp="1475983302860">
         <mark key="[" line="8" column="36" />
@@ -174,6 +185,11 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_service.scss" timestamp="1482203064907">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/ProductSampleRun.java" timestamp="1475395365647">
         <mark key="[" line="25" column="67" />
         <mark key="]" line="26" column="7" />
@@ -215,19 +231,6 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/hamburger.html" timestamp="1482195934250">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="12" column="98" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" timestamp="1482197210911">
-        <mark key="'" line="15" column="74" />
-        <mark key="[" line="15" column="95" />
-        <mark key="]" line="15" column="94" />
-        <mark key="." line="15" column="94" />
-        <mark key="^" line="15" column="94" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1482197935040">
         <mark key="[" line="94" column="15" />
         <mark key="]" line="94" column="53" />
@@ -266,11 +269,11 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482133860973">
-        <mark key="[" line="9" column="84" />
-        <mark key="]" line="9" column="96" />
-        <mark key="." line="9" column="96" />
-        <mark key="^" line="9" column="96" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482203483229">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+        <mark key="^" line="11" column="51" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ScannerArgumentResolver.java" timestamp="1475748010455">
         <mark key="[" line="9" column="3" />
@@ -331,6 +334,12 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/EventReminderService.java" timestamp="1482199789525">
+        <mark key="[" line="106" column="29" />
+        <mark key="]" line="107" column="66" />
+        <mark key="^" line="107" column="66" />
+        <mark key="." line="107" column="66" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/LoginUserDetailsService.java" timestamp="1476029143790">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -367,6 +376,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" timestamp="1482203056332">
+        <mark key="[" line="6099" column="0" />
+        <mark key="]" line="6099" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/sample.config.applicationContext.xml" timestamp="1475390544716">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="50" />
@@ -391,9 +404,9 @@
         <mark key="." line="32" column="26" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1482199589576">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1482200000887">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="57" column="42" />
         <mark key="^" line="55" column="3" />
         <mark key="." line="58" column="0" />
       </file>
@@ -401,6 +414,9 @@
         <mark key="[" line="32" column="76" />
         <mark key="]" line="32" column="76" />
         <mark key="." line="32" column="96" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1482200338180">
+        <mark key="^" line="101" column="55" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
@@ -426,11 +442,11 @@
         <mark key="^" line="3" column="111" />
         <mark key="." line="3" column="111" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/mytopcommon.html" timestamp="1482133990677">
-        <mark key="[" line="19" column="80" />
-        <mark key="]" line="19" column="108" />
-        <mark key="." line="19" column="108" />
-        <mark key="^" line="19" column="108" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/mytopcommon.html" timestamp="1482203435814">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+        <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/customers/edit.html" timestamp="1476020103410">
         <mark key="[" line="23" column="54" />
@@ -498,6 +514,11 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1482200004827">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Frontend.java" timestamp="1475680357142">
         <mark key="[" line="18" column="47" />
         <mark key="]" line="18" column="51" />
@@ -555,11 +576,11 @@
         <mark key="^" line="0" column="115" />
         <mark key="." line="0" column="115" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1482137581108">
-        <mark key="[" line="14" column="108" />
-        <mark key="]" line="14" column="120" />
-        <mark key="." line="14" column="120" />
-        <mark key="^" line="14" column="120" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1482203475541">
+        <mark key="[" line="16" column="55" />
+        <mark key="]" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="16" column="70" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Curry1.java" timestamp="1476503720360">
         <mark key="[" line="6" column="17" />
@@ -594,11 +615,10 @@
       <file name="vim_settings.xml" timestamp="1476360328069">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/MailTemporary.java" timestamp="1482199159599">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="32" column="28" />
-        <mark key="^" line="32" column="28" />
-        <mark key="." line="32" column="28" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/MailTemporary.java" timestamp="1482202000313">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerService.java" timestamp="1476029632658">
         <mark key="[" line="17" column="37" />
@@ -648,13 +668,6 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
-      <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/templates/customers/list.html" timestamp="1476030484622">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="55" />
-        <mark key="." line="49" column="55" />
-        <mark key="^" line="49" column="55" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/web/CustomerController.java" timestamp="1476029769895">
         <mark key="[" line="64" column="52" />
         <mark key="]" line="64" column="61" />
@@ -683,13 +696,6 @@
         <mark key="[" line="13" column="85" />
         <mark key="]" line="13" column="85" />
         <mark key="." line="13" column="105" />
-      </file>
-      <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Main.java" timestamp="1476507546244">
-        <mark key="'" line="13" column="22" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/migration/V2__import-initial-data.sql" timestamp="1476027683532">
         <mark key="[" line="3" column="61" />
@@ -735,14 +741,12 @@
         <mark key="^" line="11" column="19" />
         <mark key="." line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/login.html" timestamp="1482137909851">
-        <mark key="'" line="15" column="80" />
-        <mark key="[" line="15" column="101" />
-        <mark key="]" line="15" column="113" />
-        <mark key="^" line="15" column="113" />
-        <mark key="." line="15" column="113" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventReminderServiceTest.groovy" timestamp="1482200169092">
+        <mark key="[" line="232" column="36" />
+        <mark key="]" line="232" column="36" />
+        <mark key="." line="232" column="36" />
+        <mark key="^" line="232" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/hamburger_sample.html" timestamp="1482138173739" />
       <file name="$USER_HOME$/IdeaProjects/spring-introduction/2.1.3/src/main/java/sample/di/business/service/ProductDaoImpl.java" timestamp="1475390101865">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="11" column="9" />
@@ -754,13 +758,6 @@
         <mark key="]" line="15" column="7" />
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
-      </file>
-      <file name="$USER_HOME$/repos/tddbc/TODO.md" timestamp="1476432972096">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="34" column="36" />
-        <mark key="^" line="35" column="33" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/resources/applicationContext.xml" timestamp="1475396564898">
         <mark key="[" line="9" column="69" />
@@ -824,60 +821,61 @@
       <jump line="24" column="0" filename="$USER_HOME$/repos/tddbc/TODO.md" />
       <jump line="15" column="80" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/login.html" />
       <jump line="15" column="74" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" />
+      <jump line="221" column="17" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/SendMailServiceTest.groovy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMTk3NmQyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>NotNull</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dvX2FjdGl2aXRpZXNfYmxhY2tcPg==</text>
+        <text>${it}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGV2ZW50VXBkYXRlTm90aWZpY2F0aW9uUHJpb3JpdHk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAjMTk3NmQyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">CmltcG9ydCBqYXZheC52YWxpZGF0aW9uLmNvbnN0cmFpbnRzLk5vdE51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZW1lbnQuZXhlY3V0ZSgiIiIKICAgICAgICAgICAgSU5TRVJUIElOVE8gTWFpbFRlbXBvcmFyeQogICAgICAgICAgICAobWFpbFRlbXBvcmFyeUlkLCBhY2NvdW50SWQsIGZyb21NYWlsQWRkcmVzcywgZnJvbU5hbWUsIHRvTWFpbEFkZHJlc3MsIHRpdGxlLCBib2R5LCBwcmlvcml0eSwgY3JlYXRlZEF0LCBjcmVhdGVkQnkpCiAgICAgICAgICAgIFZBTFVFUwogICAgICAgICAgICAoNTIsIDUxLCAiNTFAZXhhbXBsZS5jb20iLCAiNTFmcm9tbmFtZSIsICI1MXRvTWFpbEFkZHJlc3MiLCAiNTF0aXRsZSIsICI1MWJvZHkiLCAyLCAiJHtjcmVhdGVkQXR9IiwgInRlc3QiKQogICAgICAgICAgICAiIiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkobWFpbFNlbmRlclRlbXBsYXRlLCB0aW1lcygxMDApKS5hcHBseVRlbXBsYXRlKGFueVN0cmluZygpLCBhbnlNYXAoKSkgPT0gbnVsbAogICAgICAgIHZlcmlmeShtYWlsU2VuZGVyVGVtcGxhdGUsIHRpbWVzKDEwMCkpLnNlbmQoYW55KCkgYXMgTWVzc2FnZVByb2Nlc3NvciwgYW55KCkgYXMgTWVzc2FnZVByb2Nlc3NvcikgPT0gbnVsbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAg44K144Oz44OX44OrCiAgICBodHRwOi8vbG9jYWxob3N0OjI1NjAwL3NhbXBsZS9oYW1idXJnZXIKICAgIGhhbWJ1cmdlcl9zYW1wbGUuaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kTWFpbFNlcnZpY2UuZXhlY3V0ZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDE1cHg7Cg==</text>
+        <text encoding="base64">ICAgIGRlZiAn6YCB5L+h5pyA5aSn5Lu25pWw44KS6LaF6YGOMuWbnui1t+WLleOBmeOCi+OBk+OBqOOBp+WFqOOBpumAgeS/oeOBleOCjOOCi+OBk+OBqCcoKSB7CiAgICAgICAgZ2l2ZW46CiAgICAgICAgZGVmIHN0YXRlbWVudCA9IHRlc3Rlci5jb25uZWN0aW9uLmdldENvbm5lY3Rpb24oKS5jcmVhdGVTdGF0ZW1lbnQoKQogICAgICAgIGRlZiBjcmVhdGVkQXQgPSBzeXN0ZW1EYXRlU3VwcGxpZXIuZ2V0RGF0ZSgpLnRvVGltZXN0YW1wKCkKICAgICAgICAxLnVwdG8oMTAxLCB7CiAgICAgICAgICAgIHN0YXRlbWVudC5leGVjdXRlKCIiIgogICAgICAgICAgICBJTlNFUlQgSU5UTyBNYWlsVGVtcG9yYXJ5CiAgICAgICAgICAgIChhY2NvdW50SWQsIGZyb21NYWlsQWRkcmVzcywgZnJvbU5hbWUsIHRvTWFpbEFkZHJlc3MsIHRpdGxlLCBib2R5LCBjcmVhdGVkQXQsIGNyZWF0ZWRCeSkKICAgICAgICAgICAgVkFMVUVTCiAgICAgICAgICAgICgke2l0fSwgIiR7aXR9QGV4YW1wbGUuY29tIiwgIiR7aXR9ZnJvbW5hbWUiLCAiJHtpdH10b01haWxBZGRyZXNzIiwgIiR7aXR9dGl0bGUiLCAiJHtpdH1ib2R5IiwgIiR7Y3JlYXRlZEF0fSIsICJ0ZXN0IikKICAgICAgICAgICAgIiIiKQogICAgICAgIH0pCiAgICAgICAgdGVzdGVyLmNvbm5lY3Rpb24uZ2V0Q29ubmVjdGlvbigpLmNvbW1pdCgpCiAgICAgICAgZG9SZXR1cm4oIiIpLndoZW4obWFpbFNlbmRlclRlbXBsYXRlKS5hcHBseVRlbXBsYXRlKGFueVN0cmluZygpLCBhbnlNYXAoKSkKICAgICAgICBkb05vdGhpbmcoKS53aGVuKG1haWxTZW5kZXJUZW1wbGF0ZSkuc2VuZChhbnkoKSBhcyBNZXNzYWdlUHJvY2Vzc29yLCBhbnkoKSBhcyBNZXNzYWdlUHJvY2Vzc29yKQogICAgICAgIHdoZW46CiAgICAgICAgc2VuZE1haWxTZXJ2aWNlLmV4ZWN1dGUoKQogICAgICAgIHNlbmRNYWlsU2VydmljZS5leGVjdXRlKCkKICAgICAgICBJVGFibGUgYWN0dWFsID0gdGVzdGVyLmNvbm5lY3Rpb24uY3JlYXRlUXVlcnlUYWJsZSgnTWFpbFRlbXBvcmFyeScsICdTRUxFQ1QgKiBGUk9NIE1haWxUZW1wb3JhcnknKQogICAgICAgIHRoZW46CiAgICAgICAgdmVyaWZ5KG1haWxTZW5kZXJUZW1wbGF0ZSwgdGltZXMoMTAxKSkuYXBwbHlUZW1wbGF0ZShhbnlTdHJpbmcoKSwgYW55TWFwKCkpID09IG51bGwKICAgICAgICB2ZXJpZnkobWFpbFNlbmRlclRlbXBsYXRlLCB0aW1lcygxMDEpKS5zZW5kKGFueSgpIGFzIE1lc3NhZ2VQcm9jZXNzb3IsIGFueSgpIGFzIE1lc3NhZ2VQcm9jZXNzb3IpID09IG51bGwKICAgICAgICBhY3R1YWwuZ2V0Um93Q291bnQoKSA9PSAwCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgInByaW9yaXR5IikgPT0gMzAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwhLS0vKiBUT0RPOiDopoHjg6rjg7Pjgq/kv67mraMgKi8tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAicHJpb3JpdHkiKSA9PSAzMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsKG1lc3NhZ2UgPSAie2Vycm9yLk5vdE51bGx9IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAicHJpb3JpdHkiKSA9PSAzMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAicHJpb3JpdHkiKSA9PSAzMAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</text>
+        <text encoding="base64">JzwsJz5zLyR7aXR9LzUxL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dvX2FjdGl2aXRpZXNfYmxhY2tcPg==</last-search>
+      <last-search>${it}</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dvX2FjdGl2aXRpZXNfYmxhY2tcPg==</last-pattern>
-      <last-replace>Patch</last-replace>
-      <last-substitute>Major</last-substitute>
+      <last-pattern>${it}</last-pattern>
+      <last-replace>51</last-replace>
+      <last-substitute>${it}</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -890,11 +888,13 @@
         <entry>&quot;</entry>
         <entry>Major</entry>
         <entry encoding="base64">XDxsb2dvX2FjdGl2aXRpZXNfYmxhY2tcPg==</entry>
+        <entry>${it}</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
         <entry>s/&quot;/_/g</entry>
         <entry encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyR7aXR9LzUxL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -920,6 +920,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
