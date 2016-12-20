@@ -43,7 +43,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1482206199053">
+      <file name="/a.dummy" timestamp="1482215314695">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
@@ -292,11 +292,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/list.html" timestamp="1482204846207">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/list.html" timestamp="1482214530489" />
       <file name="/HTML File.txt.ft" timestamp="1475729945276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -306,7 +302,7 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482203483229">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482214064438">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="11" column="51" />
         <mark key="." line="11" column="51" />
@@ -823,6 +819,7 @@
         <mark key="." line="232" column="36" />
         <mark key="^" line="232" column="36" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/hamburger_sample.html" timestamp="1482138173739" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/community.html" timestamp="1482204876230">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -919,47 +916,47 @@
       <jump line="53" column="81" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/hamburger.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EventSummaryService</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC90aDpibG9jaz4K</text>
       </register>
       <register name="-" type="4">
-        <text>EventSummaryService</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>drawerMenuLink</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCB0aDpzcmM9IkB7L2Fzc2V0cy9qcy9oYW1idXJnZXIuanN9Ij48L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHRoOmlmPSIke2V2ZW50TGlzdC5nZXRUb3RhbEVsZW1lbnRzKCkgIT0gMH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLS8qIFRPRE86IOimgeODquODs+OCr+S/ruatoyAqLy0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC90aDpibG9jaz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoOmJsb2NrIHRoOmlmPSIke2V2ZW50TGlzdC5nZXRUb3RhbEVsZW1lbnRzKCkgIT0gMH0iPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRoOmJsb2NrIHRoOmlmPSIke2V2ZW50TGlzdC5nZXRUb3RhbEVsZW1lbnRzKCkgPT0gMH0iPgogICAgICAgICAgICA8L3RoOmJsb2NrPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGl0ZS1zcGFjZTogbm93cmFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9Im1hcmdpbi1ib3R0b206MjBweCIgPgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLS8qIFRPRE86IOimgeODquODs+OCr+S/ruatoyAqLy0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJjLWRyYXdlcl9fbWVudUl0ZW0iPjxhIGNsYXNzPSJjLWRyYXdlcl9fbWVudUxpbmsgZHJhd2VyTWVudUxpbmsiICB0aDpocmVmPSJAe3wvfH0iPlRPUDwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdGg6aHJlZj0iQHsvYXNzZXRzL2Nzcy9oYW1idXJnZXIuY3NzfSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdGg6aHJlZj0iQHsvYXNzZXRzL2Nzcy9oYW1idXJnZXIuY3NzfSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGl0ZS1zcGFjZTogbm93cmFwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdGg6aHJlZj0iQHsvYXNzZXRzL2Nzcy9oYW1idXJnZXIuY3NzfSI+Cg==</text>
+        <text encoding="base64">CiAgICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyR7aXR9LzUxL2c=</text>
