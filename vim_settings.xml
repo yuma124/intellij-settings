@@ -396,7 +396,7 @@
         <mark key="^" line="31" column="45" />
         <mark key="." line="31" column="45" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1482197950855">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1482373414119">
         <mark key="[" line="94" column="15" />
         <mark key="]" line="94" column="53" />
         <mark key="." line="94" column="53" />
@@ -1144,16 +1144,10 @@
       <last-replace>部活名</last-replace>
       <last-substitute>コミュニティ名</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Major</entry>
-        <entry encoding="base64">XDxsb2dvX2FjdGl2aXRpZXNfYmxhY2tcPg==</entry>
-        <entry>${it}</entry>
-        <entry>drawerMenuLink</entry>
-        <entry encoding="base64">XDxpc0xlZnRcPg==</entry>
-        <entry encoding="base64">XDxtb3ZlU2Nyb2xsXD4=</entry>
         <entry>move</entry>
         <entry>placeholder</entry>
         <entry>clear</entry>
