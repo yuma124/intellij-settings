@@ -53,7 +53,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" timestamp="1482738008087">
-        <mark key="'" line="369" column="17" />
+        <mark key="'" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
         <mark key="[" line="31" column="69" />
@@ -104,7 +104,6 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/controller/EventReminderController.java" timestamp="1482717672903" />
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="40" />
@@ -129,6 +128,7 @@
         <mark key="^" line="118" column="76" />
         <mark key="." line="118" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/controller/EventSummaryController.java" timestamp="1482754025500" />
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/CustomerRepository.java" timestamp="1475983302860">
         <mark key="[" line="8" column="36" />
         <mark key="]" line="8" column="76" />
@@ -676,12 +676,6 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1482740029593">
-        <mark key="'" line="115" column="75" />
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="73" />
-        <mark key="^" line="123" column="236" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/schema.sql" timestamp="1475982888477">
         <mark key="[" line="0" column="115" />
         <mark key="]" line="0" column="115" />
@@ -1156,13 +1150,10 @@
       <last-replace>部活名</last-replace>
       <last-substitute>コミュニティ名</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>searchCounter</entry>
-        <entry>eventList</entry>
-        <entry>search</entry>
         <entry>col</entry>
         <entry>js-popup</entry>
         <entry>c-message__bubble--none</entry>
