@@ -104,6 +104,7 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/controller/EventReminderController.java" timestamp="1482717672903" />
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
         <mark key="[" line="23" column="40" />
         <mark key="]" line="23" column="40" />
@@ -1146,13 +1147,10 @@
       <last-replace>部活名</last-replace>
       <last-substitute>コミュニティ名</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>move</entry>
-        <entry>placeholder</entry>
-        <entry>clear</entry>
         <entry>searchCounter</entry>
         <entry>eventList</entry>
         <entry>search</entry>
