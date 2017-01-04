@@ -49,8 +49,10 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1483499831126">
+      <file name="/a.dummy" timestamp="1483506775403">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" timestamp="1482738008087">
         <mark key="'" line="47" column="17" />
@@ -102,6 +104,9 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/megapix-image.js" timestamp="1483507805552">
+        <mark key="'" line="178" column="11" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/service/CustomerService.java" timestamp="1475749008314">
         <mark key="[" line="23" column="40" />
@@ -291,8 +296,11 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" timestamp="1483499592768">
-        <mark key="'" line="56" column="18" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" timestamp="1483512597377">
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
@@ -334,9 +342,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1475729945276">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/schema.sql" timestamp="1475751240223">
         <mark key="[" line="0" column="102" />
         <mark key="]" line="0" column="102" />
@@ -370,11 +375,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/edit.html" timestamp="1482229862337">
-        <mark key="[" line="59" column="42" />
-        <mark key="]" line="59" column="42" />
-        <mark key="." line="59" column="42" />
-        <mark key="^" line="62" column="194" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/edit.html" timestamp="1483512403491">
+        <mark key="'" line="256" column="48" />
+        <mark key="[" line="58" column="41" />
+        <mark key="]" line="58" column="41" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/demo/src/main/java/com/example/DemoApplication.java" timestamp="1475286855700">
         <mark key="[" line="11" column="1" />
@@ -485,6 +491,9 @@
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/communityManage/communityManage.js" timestamp="1482235052553">
         <mark key="'" line="60" column="16" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" timestamp="1483512300475">
+        <mark key="'" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/java/sample/ProductSampleRun.java" timestamp="1475396191548">
         <mark key="[" line="23" column="39" />
@@ -600,6 +609,9 @@
         <mark key="^" line="51" column="29" />
         <mark key="." line="51" column="28" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/PersonalVerificationConfirmForm.js" timestamp="1483506792598">
+        <mark key="'" line="82" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/forgetPassword.html" timestamp="1482196177662">
         <mark key="[" line="14" column="95" />
         <mark key="]" line="14" column="107" />
@@ -611,6 +623,9 @@
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="7" />
         <mark key="." line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" timestamp="1483507785578">
+        <mark key="'" line="259" column="6" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/service/CustomerService.java" timestamp="1475994383630">
         <mark key="[" line="13" column="45" />
@@ -634,9 +649,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="55" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1475730036725">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/Calculator.java" timestamp="1475727413221">
         <mark key="[" line="7" column="26" />
@@ -746,9 +758,6 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="vim_settings.xml" timestamp="1476360328069">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/MailTemporary.java" timestamp="1482202000313">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -836,10 +845,21 @@
         <mark key="]" line="21" column="83" />
         <mark key="." line="21" column="83" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/jquery.ui.touch-punch.min.js" timestamp="1483506313554">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/index.html" timestamp="1482204836543">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/main/java/net/zexy/koimusubi/web/controller/MypageRestController.java" timestamp="1483509472302">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="182" column="20" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/migration/V2__import-initial-data.sql" timestamp="1476027683532">
         <mark key="[" line="3" column="61" />
@@ -873,9 +893,6 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1475727214281">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/junit-test/src/test/java/com/company/MainTest.java" timestamp="1476363600342">
         <mark key="[" line="10" column="11" />
@@ -936,9 +953,6 @@
         <mark key="." line="30" column="45" />
         <mark key="^" line="29" column="61" />
       </file>
-      <file name="/Class.txt.ft" timestamp="1475729948161">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/accounts.html" timestamp="1482235034371">
         <mark key="[" line="60" column="102" />
         <mark key="]" line="60" column="108" />
@@ -975,54 +989,8 @@
         <mark key="^" line="25" column="52" />
         <mark key="." line="25" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1482211029515">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="6626" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6649" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6652" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6670" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6671" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6672" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6692" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6704" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6705" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6706" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6766" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6767" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6770" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="8" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="9" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="23" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="40" column="20" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6351" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="2047" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6348" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="20" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="59" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="65" column="65" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="66" column="34" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="67" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="68" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="70" column="50" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="71" column="46" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="75" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="76" column="80" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="78" column="46" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="79" column="84" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="86" column="14" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="89" column="49" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="90" column="15" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="101" column="50" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="102" column="57" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="105" column="50" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="109" column="53" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="124" column="65" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
-      <jump line="125" column="46" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
       <jump line="126" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
       <jump line="128" column="46" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
       <jump line="129" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" />
@@ -1080,74 +1048,101 @@
       <jump line="18" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" />
       <jump line="43" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" />
       <jump line="56" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="61" column="40" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="200" column="34" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="201" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="206" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="207" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="223" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="224" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="244" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="245" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="272" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="273" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="290" column="77" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="303" column="37" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="318" column="82" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="356" column="51" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="355" column="36" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="354" column="9" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="52" column="9" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="296" column="2" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="56" column="15" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="57" column="59" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="40" column="4" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
+      <jump line="8" column="2" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/PersonalVerificationConfirmForm.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/PersonalVerificationConfirmForm.js" />
+      <jump line="81" column="9" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/PersonalVerificationConfirmForm.js" />
+      <jump line="82" column="36" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/PersonalVerificationConfirmForm.js" />
+      <jump line="256" column="48" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/edit.html" />
+      <jump line="17" column="65" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="18" column="13" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="19" column="11" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="71" column="62" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="186" column="80" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="188" column="16" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="259" column="6" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/megapix-image.js" />
+      <jump line="61" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/megapix-image.js" />
+      <jump line="169" column="62" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/megapix-image.js" />
+      <jump line="178" column="11" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/megapix-image.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>function()</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>function()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RcPg==</text>
+        <text encoding="base64">XDxVUkxcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIG1lZGlhLXBjIHsKICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">aW1hZ2Uud2lkdGggLyBpbWFnZS5oZWlnaHQgPiB0aGlzLnJhdGlv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJdGhpcy4kcmVzLmFkZENsYXNzKGAke3RoaXMuSVNfVVBMT0FERUR9ICR7c2l6ZX1gKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIOesueWOnyDmgqDppqwgPFZWMDAxMjQ4QHIucmVjcnVpdC5jby5qcD4KICAgICAgICDnrLnljp8g5oKg6aasIDx5X3Nhc2FoYXJhQHIucmVjcnVpdC5jby5qcD4K</text>
+        <text encoding="base64">CQkJCXRoaXMuJHJlcwoJCQkJCS5odG1sKGA8aW1nIHNyYz0iJHtpbWFnZS5zcmN9IiBhbHQ9IuODl+ODreODleOCo+ODvOODq+eUu+WDjyIgd2lkdGg9IjEwMCUiPmApCgkJCQkJLmhpZGUoKQoJCQkJCS5mYWRlSW4odGhpcy5GQURFX1NQRUVEKTsKCQkJCXRoaXMuJGRlbC5hZGRDbGFzcyh0aGlzLklTX0FDVElWRSk7CgkJCQl0aGlzLiRzZWxlY3QucmVtb3ZlQ2xhc3ModGhpcy5JU19BQ1RJVkUpOwoJCQkJdGhpcy4kcmVzLmFkZENsYXNzKGAke3RoaXMuSVNfVVBMT0FERUR9ICR7c2l6ZX1gKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBTkQgQUpDLmRlbGV0ZUZsYWc7Cg==</text>
+        <text encoding="base64">CQl0aGlzLiRpbWcgPSB0aGlzLiRwcmV2aWV3LmZpbmQoJy5qcy1wcmV2aWV3LWltZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50OyAK</text>
+        <text encoding="base64">CQkJCWNvbnN0IG1wSW1nID0gbmV3IE1lZ2FQaXhJbWFnZShmaWxlKTsKCQkJCW1wSW1nLnJlbmRlcih0aGlzLiRpbWcsIHsgb3JpZW50YXRpb246IG9yaWVudGF0aW9uIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dGg6YmxvY2sgdGg6cmVwbGFjZT0iZnJhZ21lbnQvZm9vdGVyIi8+Cg==</text>
+        <text encoding="base64">CQkJCQkuaHRtbCgpCgkJCQkJLmhpZGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDx0aDpibG9jayB0aDpyZXBsYWNlPSJmcmFnbWVudC9mb290ZXIiLz4K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBjaGFuZ2UoYm9vbGVhbiBhLCBib29sZWFuIGIpIHsKICAgICAgICBpZiAoYiAmJiBhKSB7CiAgICAgICAgICAgIHJldHVybiBhOwogICAgICAgIH0KICAgICAgICBpZiAoYikgewogICAgICAgICAgICByZXR1cm4gIWE7CiAgICAgICAgfQogICAgICAgIHJldHVybiBhOwogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx0aDpibG9jayB0aDpyZXBsYWNlPSJmcmFnbWVudC9mb290ZXIiLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA9ICFhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fOmDqOa0u3xjb21tdW5pdHl8IHwK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBib29sZWFuIGEgPSB0cnVlOwogICAgICAgIGJvb2xlYW4gYiA9IDEgKyAxID09IDI7CiAgICAgICAgCiAgICAgICAgaWYgKGIpIHsKICAgICAgICAgICAgYSA9ICFhOwogICAgICAgIH0KCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>;
-    width: 0;
-    z-index: 1;
-}
-.c-message__bubble::after {
-    border-color: transparent #fff;
-    border-style: solid;
-    border-width: 9px 21px 9px 0;
-    content: &quot;&quot;;
-    display: block;
-    left: -11px;
-    position: absolute;
-    right: 100%;
-    top: 7px;
-    z-index: 2;
-}
-.</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJY29uc3Qgc2l6ZSA9IChpbWFnZS53aWR0aCAvIGltYWdlLmhlaWdodCA+IHRoaXMucmF0aW8pID8gdGhpcy5JU19XSURUSCA6IHRoaXMuSVNfSEVJR0hUOwoJCQl0aGlzLiRyZXMKCQkJCS5oaWRlKCkKCQkJCS5mYWRlSW4odGhpcy5GQURFX1NQRUVEKTsKCQkJdGhpcy4kZGVsLmFkZENsYXNzKHRoaXMuSVNfQUNUSVZFKTsKCQkJdGhpcy4kc2VsZWN0LnJlbW92ZUNsYXNzKHRoaXMuSVNfQUNUSVZFKTsKCQkJdGhpcy4kcmVzLmFkZENsYXNzKGAke3RoaXMuSVNfVVBMT0FERUR9ICR7c2l6ZX1gKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/コミュニティ名/部活名/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RcPg==</last-search>
+      <last-search encoding="base64">XDxVUkxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxVUkxcPg==</last-pattern>
       <last-replace>部活名</last-replace>
       <last-substitute>コミュニティ名</last-substitute>
       <last-dir>1</last-dir>
@@ -1178,6 +1173,13 @@
         <entry encoding="base64">XDxidG5cPg==</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDxjYW52YXNcPg==</entry>
+        <entry encoding="base64">XDxsb2FkRmlsZVw+</entry>
+        <entry encoding="base64">XDxjb21wb25lbnREaWRNb3VudFw+</entry>
+        <entry encoding="base64">XDxlbmFibGVDYW52YXNcPg==</entry>
+        <entry encoding="base64">XDxTdHJva2FibGVDYW52YXNcPg==</entry>
+        <entry>js-preview-result</entry>
+        <entry encoding="base64">XDxVUkxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
