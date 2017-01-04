@@ -49,7 +49,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1482311851556">
+      <file name="/a.dummy" timestamp="1483494897848">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" timestamp="1482738008087">
@@ -1158,12 +1158,10 @@
       <last-replace>部活名</last-replace>
       <last-substitute>コミュニティ名</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>col</entry>
-        <entry>js-popup</entry>
         <entry>c-message__bubble--none</entry>
         <entry>max</entry>
         <entry encoding="base64">XDxCUkVBS19QT0lOVFw+</entry>
