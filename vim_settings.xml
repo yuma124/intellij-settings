@@ -122,11 +122,12 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" timestamp="1483514304930">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" timestamp="1483516386632">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
-        <mark key="^" line="90" column="61" />
+        <mark key="^" line="58" column="15" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
@@ -297,11 +298,11 @@
         <mark key="^" line="4" column="95" />
         <mark key="." line="4" column="95" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1483515176184">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/build.gradle" timestamp="1483515328265">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1482311910074">
         <mark key="[" line="51" column="28" />
@@ -468,7 +469,8 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" timestamp="1483514803207">
+      <file name="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" timestamp="1483515841721">
+        <mark key="'" line="54" column="23" />
         <mark key="[" line="185" column="0" />
         <mark key="]" line="208" column="4" />
       </file>
@@ -795,11 +797,11 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/ImageService.java" timestamp="1483514811619">
-        <mark key="[" line="512" column="5" />
-        <mark key="]" line="513" column="3" />
-        <mark key="." line="513" column="3" />
-        <mark key="^" line="513" column="3" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/ImageService.java" timestamp="1483516290584">
+        <mark key="[" line="538" column="22" />
+        <mark key="]" line="538" column="30" />
+        <mark key="." line="538" column="30" />
+        <mark key="^" line="538" column="30" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Composer.java" timestamp="1476504363850">
         <mark key="[" line="9" column="0" />
@@ -1016,20 +1018,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="78" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="293" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="294" column="27" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="8" column="45" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="15" column="56" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="17" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="88" column="77" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="89" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="113" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="140" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="100" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="101" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="102" column="15" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
-      <jump line="369" column="17" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" />
       <jump line="46" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
       <jump line="234" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
       <jump line="235" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
@@ -1116,60 +1104,74 @@
       <jump line="249" column="11" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
       <jump line="247" column="24" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
       <jump line="212" column="48" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/packages/megapix-image.js" />
+      <jump line="149" column="36" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="191" column="25" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="198" column="60" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="199" column="73" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="200" column="47" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="201" column="23" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="203" column="35" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="206" column="61" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="58" column="23" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="130" column="37" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="133" column="27" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="186" column="20" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="54" column="23" filename="$USER_HOME$/repos/recruit-mp/play-enmusubi/app/utils/image/ImageUtils.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/_component/ImgPreview.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>, int type</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text>\t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCiAgICAgICAgbWF2ZW5DZW50cmFsKCkKICAgICAgICBtYXZlbiB7IHVybCAnaHR0cDovL3JlcG8uc3ByaW5nLmlvL3BsdWdpbnMtcmVsZWFzZScgfQogICAgICAgIG1hdmVuIHsgdXJsICJodHRwczovL3BsdWdpbnMuZ3JhZGxlLm9yZy9tMi8iIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIG1wSW1nID0gbmV3IE1lZ2FQaXhJbWFnZShmaWxlKTsKCQkJdmFyIGNhbnZhcyA9IG5ldyBIVE1MQ2FudmFzRWxlbWVudCgpOwoJCQltcEltZy5yZW5kZXIoY2FudmFzLCB7IG9yaWVudGF0aW9uOiB0aGlzLnByb3BzLm9yaWVudGF0aW9uIH0sICgpID0+IHsKCQkJCSR0YXJnZXRbMF0uZmlsZXNbMF0gPSB0b0Jsb2IoY2FudmFzKTsK</text>
+        <text encoding="base64">CQkJdGhpcy4kcmVzCgkJCQkuaHRtbChgPGltZyBzcmM9IiR7aW1hZ2Uuc3JjfSIgYWx0PSLjg5fjg63jg5XjgqPjg7zjg6vnlLvlg48iIHdpZHRoPSIxMDAlIj5gKQoJCQkJLmhpZGUoKQoJCQkJLmZhZGVJbih0aGlzLkZBREVfU1BFRUQpOwoJCQl0aGlzLiRkZWwuYWRkQ2xhc3ModGhpcy5JU19BQ1RJVkUpOwoJCQl0aGlzLiRzZWxlY3QucmVtb3ZlQ2xhc3ModGhpcy5JU19BQ1RJVkUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aGlzLmluaXRDYW52YXMoKTsK</text>
+        <text encoding="base64">CXRvQmxvYihjYW52YXMpIHsKCQkvLyBqcGVn44KS55Sf5oiQCgkJY29uc3QgZGF0YSA9IEpQRUdFbmNvZGVyLmVuY29kZSgKCQkJY2FudmFzLmdldENvbnRleHQoJzJkJykuZ2V0SW1hZ2VEYXRhKDAsIDAsIGNhbnZhcy53aWR0aCwgY2FudmFzLmhlaWdodCkpOwoKCQljb25zdCBiaW4gPSBhdG9iKGRhdGEucmVwbGFjZSgvXi4qLC8sICcnKSk7CgkJY29uc3QgYnVmZiA9IG5ldyBVaW50OEFycmF5KGJpbi5sZW5ndGgpOwoJCWZvciAodmFyIGkgPSAwOyBpIDwgYmluLmxlbmd0aDsgaSsrKSB7CgkJCWJ1ZmZbaV0gPSBiaW4uY2hhckNvZGVBdChpKTsKCQl9CgkJdHJ5IHsKCQkJY29uc3QgYmxvYiA9IG5ldyBCbG9iKFtidWZmLmJ1ZmZlcl0sIHsKCQkJCXR5cGU6ICdpbWFnZS9qcGVnJwoJCQl9KTsKCQkJcmV0dXJuIGJsb2I7CgkJfSBjYXRjaCAoZSkgewoJCQl0aGlzLnByb3BzLmZpbGVCYXNlNjQgPSBkYXRhLnJlcGxhY2UoL14uKiwvLCAnJyk7CgkJCS8vIG5ldyBCbG9i44KS44K144Od44O844OI44GX44Gm44GE44Gq44GE5aC05ZCI44CBQmxvYkJ1aWxkZXIg44KS5Yip55So44GZ44KL44CCCgkJCXdpbmRvdy5CbG9iQnVpbGRlciA9IHdpbmRvdy5CbG9iQnVpbGRlciB8fAoJCQkJd2luZG93LldlYktpdEJsb2JCdWlsZGVyIHx8CgkJCQl3aW5kb3cuTW96QmxvYkJ1aWxkZXIgfHwKCQkJCXdpbmRvdy5NU0Jsb2JCdWlsZGVyOwoJCQkvLyBNRU1PIDogQW5kcm9pZOaomea6luODluODqeOCpuOCtuOBp+OBr+OBhOOBmuOCjOOBq+OBl+OCjeWLleOBi+OBquOBhAoJCQlpZiAoZS5uYW1lID09PSAnVHlwZUVycm9yJyAmJiB3aW5kb3cuQmxvYkJ1aWxkZXIpIHsKCQkJCWNvbnN0IGJiID0gbmV3IHdpbmRvdy5CbG9iQnVpbGRlcigpOwoJCQkJYmIuYXBwZW5kKGJ1ZmYpOwoJCQkJcmV0dXJuIGJiLmdldEJsb2IoKTsKCQkJfSBlbHNlIGlmIChlLm5hbWUgPT09ICdJbnZhbGlkU3RhdGVFcnJvcicpIHsKCQkJCXJldHVybiBuZXcgQmxvYihbYnVmZi5idWZmZXJdLCB7CgkJCQkJdHlwZTogJ2ltYWdlL2pwZWcnCgkJCQl9KTsKCQkJfQoJCX0KCQlyZXR1cm4gbnVsbDsKCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJJHRhcmdldFswXS5maWxlc1swXSA9IHRvQmxvYigpOwo=</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gaW5wdXRTdHJlYW0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIGNhbnZhc+OBruWhl+OCiuOBpOOBtuOBl+ioreWumuOCkuWIneacn+WMlgoJCQkJdGhpcy5pbml0Q2FudmFzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDnlLvlg4/jg5XjgqHjgqTjg6vjga5FeGlm44KI44KKT3JpZW50YXRpb27jgpLov5TljbTjgZfjgb7jgZkKICAgICAgICAgKgogICAgICAgICAqIEBwYXJhbSBpbnB1dFN0cmVhbQogICAgICAgICAqLwogICAgICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE9yaWVudGF0aW9uKElucHV0U3RyZWFtIGlucHV0U3RyZWFtKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBNZXRhZGF0YSBtZXRhZGF0YSA9IEltYWdlTWV0YWRhdGFSZWFkZXIucmVhZE1ldGFkYXRhKGlucHV0U3RyZWFtKTsKICAgICAgICAgICAgICAgIERpcmVjdG9yeSBkaXJlY3RvcnkgPSBtZXRhZGF0YS5nZXRGaXJzdERpcmVjdG9yeU9mVHlwZShFeGlmSUZEMERpcmVjdG9yeS5jbGFzcyk7CiAgICAgICAgICAgICAgICBpZiAoZGlyZWN0b3J5ID09IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmIChkaXJlY3RvcnkuY29udGFpbnNUYWcoRXhpZklGRDBEaXJlY3RvcnkuVEFHX09SSUVOVEFUSU9OKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBkaXJlY3RvcnkuZ2V0SW50KEV4aWZJRkQwRGlyZWN0b3J5LlRBR19PUklFTlRBVElPTik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gfCBJbWFnZVByb2Nlc3NpbmdFeGNlcHRpb24gfCBNZXRhZGF0YUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyIGNhbnZhcyA9IG5ldyBIVE1MQ2FudmFzRWxlbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog55S75YOP44OV44Kh44Kk44Or44GuRXhpZuOCiOOCik9yaWVudGF0aW9u44KS6L+U5Y2044GX44G+44GZCiAgICAgKgogICAgICogQHBhcmFtIGlucHV0U3RyZWFtCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgaW50IGdldE9yaWVudGF0aW9uKElucHV0U3RyZWFtIGlucHV0U3RyZWFtKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgTWV0YWRhdGEgbWV0YWRhdGEgPSBJbWFnZU1ldGFkYXRhUmVhZGVyLnJlYWRNZXRhZGF0YShpbnB1dFN0cmVhbSk7CiAgICAgICAgICAgIERpcmVjdG9yeSBkaXJlY3RvcnkgPSBtZXRhZGF0YS5nZXRGaXJzdERpcmVjdG9yeU9mVHlwZShFeGlmSUZEMERpcmVjdG9yeS5jbGFzcyk7CiAgICAgICAgICAgIGlmIChkaXJlY3RvcnkgPT0gbnVsbCkgewogICAgICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKGRpcmVjdG9yeS5jb250YWluc1RhZyhFeGlmSUZEMERpcmVjdG9yeS5UQUdfT1JJRU5UQVRJT04pKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZGlyZWN0b3J5LmdldEludChFeGlmSUZEMERpcmVjdG9yeS5UQUdfT1JJRU5UQVRJT04pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIHwgSW1hZ2VQcm9jZXNzaW5nRXhjZXB0aW9uIHwgTWV0YWRhdGFFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTWVnYVBpeEltYWdlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZCgiRmFpbGVkIEdldHRpbmcgT3JpZW50YXRpb24uIiwgZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdGhpcy4kcmVzLmFkZENsYXNzKGAke3RoaXMuSVNfVVBMT0FERUR9ICR7c2l6ZX1gKTsK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgQWR2YW5jZVNlcnZlckV4Y2VwdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCXRoaXMuJHJlcwoJCQkJCS5odG1sKGA8aW1nIHNyYz0iJHtpbWFnZS5zcmN9IiBhbHQ9IuODl+ODreODleOCo+ODvOODq+eUu+WDjyIgd2lkdGg9IjEwMCUiPmApCgkJCQkJLmhpZGUoKQoJCQkJCS5mYWRlSW4odGhpcy5GQURFX1NQRUVEKTsKCQkJCXRoaXMuJGRlbC5hZGRDbGFzcyh0aGlzLklTX0FDVElWRSk7CgkJCQl0aGlzLiRzZWxlY3QucmVtb3ZlQ2xhc3ModGhpcy5JU19BQ1RJVkUpOwoJCQkJdGhpcy4kcmVzLmFkZENsYXNzKGAke3RoaXMuSVNfVVBMT0FERUR9ICR7c2l6ZX1gKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oIk5vdCBmb3VuZCBPcmllbnRhdGlvbiB0YWcuIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/コミュニティ名/部活名/g</text>
+        <text encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</text>
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search>\t</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
-      <last-replace>部活名</last-replace>
-      <last-substitute>コミュニティ名</last-substitute>
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">ICAgIA==</last-replace>
+      <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -1207,6 +1209,9 @@
         <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry encoding="base64">XDxjb250ZXh0MmRcPg==</entry>
         <entry>render</entry>
+        <entry>orientation</entry>
+        <entry>resizeWith</entry>
+        <entry>\t</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
@@ -1214,6 +1219,7 @@
         <entry encoding="base64">JzwsJz5zL01ham9yL1BhdGNoL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyR7aXR9LzUxL2c=</entry>
         <entry>%s/コミュニティ名/部活名/g</entry>
+        <entry encoding="base64">JzwsJz5zL1x0LyAgICAvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
