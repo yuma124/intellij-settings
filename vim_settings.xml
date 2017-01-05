@@ -482,11 +482,11 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1483602159777">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="25" column="37" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1483603005245">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="19" />
+        <mark key="^" line="26" column="19" />
+        <mark key="." line="26" column="19" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
@@ -1060,10 +1060,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loginAccount</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>loginAccount</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
