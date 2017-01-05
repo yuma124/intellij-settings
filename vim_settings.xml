@@ -290,6 +290,13 @@
         <mark key="." line="15" column="107" />
         <mark key="^" line="15" column="107" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" timestamp="1483585535926">
+        <mark key="'" line="95" column="59" />
+        <mark key="[" line="100" column="133" />
+        <mark key="]" line="100" column="133" />
+        <mark key="^" line="100" column="131" />
+        <mark key="." line="100" column="133" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1475729945276">
         <mark key="[" line="0" column="0" />
       </file>
@@ -949,16 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="206" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="207" column="35" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="223" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="224" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="244" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="245" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="272" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="273" column="39" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
-      <jump line="290" column="77" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
       <jump line="303" column="37" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
       <jump line="318" column="82" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
       <jump line="356" column="51" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-web/src/app/components/PersonalVerificationConfirmForm/StrokableCanvas.js" />
@@ -1049,19 +1046,29 @@
       <jump line="6" column="28464" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
       <jump line="39" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" />
       <jump line="14" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" />
+      <jump line="100" column="133" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="118" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="80" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="75" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="62" column="59" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="58" column="59" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="46" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="131" column="81" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="40" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
+      <jump line="95" column="59" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxNYXBwZXIubWFwKHVzZXJQcm9maWxlLCBmYWNlYm9va0FjY291bnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>cache</text>
+        <text encoding="base64">XDxhY2NvdW50U3RhdHVzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsaWduLWl0ZW1zOiBmbGV4LWVuZDsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ID09IFQobmV0LnpleHkuY3BmLmNvcmUuZW51bXMuQWNjb3VudFN0YXR1cykuVkFMSUQ=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWxNYXBwZXIubWFwKHVzZXJQcm9maWxlLCBmYWNlYm9va0FjY291bnQpOwo=</text>
@@ -1098,13 +1105,13 @@
       </register>
     </registers>
     <search>
-      <last-search>cache</last-search>
+      <last-search encoding="base64">XDxhY2NvdW50U3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>cache</last-pattern>
+      <last-pattern encoding="base64">XDxhY2NvdW50U3RhdHVzXD4=</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1128,6 +1135,8 @@
         <entry>footer</entry>
         <entry>c-footer</entry>
         <entry>cache</entry>
+        <entry>displayType</entry>
+        <entry encoding="base64">XDxhY2NvdW50U3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
