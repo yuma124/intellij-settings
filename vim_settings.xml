@@ -62,6 +62,18 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerIntercepter.java" timestamp="1483601052057">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/support/security/SecurityContextSupport.java" timestamp="1483602283813">
+        <mark key="[" line="43" column="106" />
+        <mark key="]" line="43" column="106" />
+        <mark key="." line="43" column="106" />
+        <mark key="^" line="43" column="105" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/db/migration/V2__import-initial-data.sql" timestamp="1476027877815">
         <mark key="[" line="3" column="71" />
         <mark key="]" line="0" column="66" />
@@ -243,6 +255,11 @@
         <mark key="." line="63" column="16" />
         <mark key="^" line="58" column="15" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/security/LoginAccountDetailsService.java" timestamp="1483601580966">
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="148" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ArgumentResolver.java" timestamp="1475727706821">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="4" />
@@ -288,12 +305,12 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebMvcConfiguration.java" timestamp="1483600734516">
-        <mark key="'" line="104" column="53" />
-        <mark key="[" line="105" column="59" />
-        <mark key="]" line="105" column="59" />
-        <mark key="." line="105" column="59" />
-        <mark key="^" line="105" column="59" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebMvcConfiguration.java" timestamp="1483602205868">
+        <mark key="'" line="110" column="53" />
+        <mark key="[" line="100" column="32" />
+        <mark key="]" line="100" column="67" />
+        <mark key="." line="100" column="67" />
+        <mark key="^" line="100" column="67" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482214064438">
         <mark key="[" line="11" column="36" />
@@ -465,6 +482,12 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1483602159777">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/HajibootJpaApplication.java" timestamp="1475987772749">
         <mark key="[" line="25" column="44" />
         <mark key="]" line="25" column="45" />
@@ -625,6 +648,7 @@
         <mark key="^" line="30" column="14" />
         <mark key="." line="30" column="14" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/AccountAuthHandlerInterceptor.java" timestamp="1483601061734" />
       <file name="$USER_HOME$/IdeaProjects/Spring4/aop-annotation/src/main/java/sample/aop/MyFirstAspect.java" timestamp="1475415406084">
         <mark key="[" line="66" column="40" />
         <mark key="]" line="66" column="56" />
@@ -636,6 +660,10 @@
         <mark key="]" line="0" column="102" />
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/AccountRepository.java" timestamp="1483601484636">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="157" column="6" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/schema.sql" timestamp="1475982888477">
         <mark key="[" line="0" column="115" />
@@ -1031,47 +1059,47 @@
       <jump line="104" column="53" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebMvcConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkuYXV0aGVudGljYXRlZCgpCiAgICAgICAgICAgICAgICAvLyDjgrvjg4Pjgrfjg6fjg7Pjg63jgrDjgqTjg7Poqo3oqLzpoJjln58KICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygK</text>
+      <register name="&quot;" type="4">
+        <text>loginAccount</text>
       </register>
       <register name="-" type="4">
-        <text>MAIN</text>
+        <text>loginAccount</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>.addPathPatterns(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRVc2VyRGV0YWlscygpLmlmUHJlc2VudChkZXRhaWxzIC0+IHsKICAgICAgICAgICAgT3B0aW9uYWwub2ZOdWxsYWJsZShkZXRhaWxzLmdldEFjY291bnQoKSkuaWZQcmVzZW50KGxvZ2luQWNjb3VudCAtPiB7CiAgICAgICAgICAgICAgICBVc2VyRGV0YWlscyBjdXJyZW50ID0gbG9naW5BY2NvdW50RGV0YWlsc1NlcnZpY2UubG9hZFVzZXJCeUFjY291bnRJZChsb2dpbkFjY291bnQuZ2V0QWNjb3VudElkKCkpOwogICAgICAgICAgICAgICAgU2VjdXJpdHlDb250ZXh0SG9sZGVyLmdldENvbnRleHQoKS5zZXRBdXRoZW50aWNhdGlvbihuZXcgVXNlcm5hbWVQYXNzd29yZEF1dGhlbnRpY2F0aW9uVG9rZW4oY3VycmVudCwgbnVsbCwgY3VycmVudC5nZXRBdXRob3JpdGllcygpKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkuYXV0aGVudGljYXRlZCgpCiAgICAgICAgICAgICAgICAvLyDjgrvjg4Pjgrfjg6fjg7Pjg63jgrDjgqTjg7Poqo3oqLzpoJjln58KICAgICAgICAgICAgICAgIC5hbnRNYXRjaGVycygK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxNYXBwZXIubWFwKHVzZXJQcm9maWxlLCBmYWNlYm9va0FjY291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wdGlvbmFsLm9mTnVsbGFibGUoZGV0YWlscy5nZXRBY2NvdW50KCkpLmZsYXRNYXAobG9naW5BY2NvdW50IC0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogZmxleC1lbmQ7Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogYmFzZWxpbmU7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbi1pdGVtczogYmFzZWxpbmU7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRVc2VyRGV0YWlscygpLmZsYXRNYXAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlY3VyaXR5Q29udGV4dEhvbGRlci5nZXRDb250ZXh0KCkuc2V0QXV0aGVudGljYXRpb24obmV3IFVzZXJuYW1lUGFzc3dvcmRBdXRoZW50aWNhdGlvblRva2VuKGN1cnJlbnQsIG51bGwsIGN1cnJlbnQuZ2V0QXV0aG9yaXRpZXMoKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiBub25lOwo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRVc2VyRGV0YWlscygpLmdldCgpLmdldEFjY291bnQoKS5nZXRBY2NvdW50SWQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvKQ==</text>
