@@ -433,6 +433,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="3" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/accounts.html" timestamp="1483587352454">
+        <mark key="[" line="8" column="98" />
+        <mark key="]" line="8" column="98" />
+        <mark key="^" line="8" column="98" />
+        <mark key="." line="8" column="98" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" timestamp="1483526728925">
         <mark key="'" line="0" column="28464" />
         <mark key="[" line="0" column="0" />
@@ -1059,16 +1065,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MAIN</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MAIN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50U3RhdHVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ID09IFQobmV0LnpleHkuY3BmLmNvcmUuZW51bXMuQWNjb3VudFN0YXR1cykuVkFMSUQ=</text>
+        <text>T(net.zexy.cpf.core.enums.CommunityRole).MAIN</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbW9kZWxNYXBwZXIubWFwKHVzZXJQcm9maWxlLCBmYWNlYm9va0FjY291bnQpOwo=</text>
