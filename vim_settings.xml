@@ -155,6 +155,12 @@
         <mark key="." line="21" column="35" />
         <mark key="^" line="21" column="35" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-admin/src/main/java/net/zexy/koimusubi/admin/configuration/security/AdminPasswordEncoder.java" timestamp="1484036534580">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/java/com/example/api/CustomerRestController.java" timestamp="1475994360996">
         <mark key="[" line="27" column="39" />
         <mark key="]" line="27" column="46" />
@@ -1150,7 +1156,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2FsdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgU3RyaW5nQnVpbGRlciBzYjsKICAgICAgICBTdHJpbmcgYWxnb3JpdGhtID0gIkhtYWNTSEE1MTIiOwogICAgICAgIFNlY3JldEtleVNwZWMgc2sgPSBuZXcgU2VjcmV0S2V5U3BlYygoKFN0cmluZykgc2FsdCkuZ2V0Qnl0ZXMoKSwgYWxnb3JpdGhtKTsKICAgICAgICBNYWMgbWFjID0gTWFjLmdldEluc3RhbmNlKGFsZ29yaXRobSk7CiAgICAgICAgbWFjLmluaXQoc2spOwoKICAgICAgICBieXRlW10gbWFjQnl0ZXMgPSBtYWMuZG9GaW5hbChyYXdQYXNzLmdldEJ5dGVzKCkpOwoKICAgICAgICBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKDIgKiBtYWNCeXRlcy5sZW5ndGgpOwogICAgICAgIGZvciAoYnl0ZSBiIDogbWFjQnl0ZXMpIHsKICAgICAgICAgICAgc2IuYXBwZW5kKFN0cmluZy5mb3JtYXQoIiUwMngiLCBiICYgMHhmZikpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>loggedInFacebook</text>
@@ -1162,34 +1168,34 @@
         <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJsb2dnZWRJbkZhY2Vib29rIiB0aDp2YWx1ZT0iKntsb2dnZWRJbkZhY2Vib29rfSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgoK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc2FsdCA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KCiAgICAgICAgU3RyaW5nQnVpbGRlciBzYjsKICAgICAgICBTdHJpbmcgYWxnb3JpdGhtID0gIkhtYWNTSEE1MTIiOwogICAgICAgIFNlY3JldEtleVNwZWMgc2sgPSBuZXcgU2VjcmV0S2V5U3BlYygoKFN0cmluZykgc2FsdCkuZ2V0Qnl0ZXMoKSwgYWxnb3JpdGhtKTsKICAgICAgICBNYWMgbWFjID0gTWFjLmdldEluc3RhbmNlKGFsZ29yaXRobSk7CiAgICAgICAgbWFjLmluaXQoc2spOwoKICAgICAgICBieXRlW10gbWFjQnl0ZXMgPSBtYWMuZG9GaW5hbChyYXdQYXNzLmdldEJ5dGVzKCkpOwoKICAgICAgICBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKDIgKiBtYWNCeXRlcy5sZW5ndGgpOwogICAgICAgIGZvciAoYnl0ZSBiIDogbWFjQnl0ZXMpIHsKICAgICAgICAgICAgc2IuYXBwZW5kKFN0cmluZy5mb3JtYXQoIiUwMngiLCBiICYgMHhmZikpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblN0YXR1cy5zZXRDb21wbGV0ZSgpOwo=</text>
+        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Vzc2lvblN0YXR1cy5zZXRDb21wbGV0ZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT25lVGltZUtleSBvbmVUaW1lS2V5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImludml0ZSIsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgT25lVGltZUtleSBvbmVUaW1lS2V5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHRoOmJsb2NrIHRoOnRleHQ9IiR7I3N0cmluZ3MuaXNFbXB0eShvbmVUaW1lS2V5KX0gPyAn44GT44Gu6YOo5rS744Gr5YWl6YOo44GZ44KLJyA6ICfkvJrlk6HnmbvpjLLjgZfjgabpg6jmtLvjgavlhaXpg6jjgZnjgosnIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoImludml0ZSIsIHRydWUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPHRoOmJsb2NrIHRoOmlmPSIke2ludml0ZSAhPSBudWxsfSIgdGg6dGV4dD0iIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgPHRoOmJsb2NrIHRoOnRleHQ9IiR7I3N0cmluZ3MuaXNFbXB0eShvbmVUaW1lS2V5KX0gPyAn44GT44Gu6YOo5rS744Gr5YWl6YOo44GZ44KLJyA6ICfkvJrlk6HnmbvpjLLjgZfjgabpg6jmtLvjgavlhaXpg6jjgZnjgosnIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJpc0xvZ2dlZEluRmFjZWJvb2siLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgPHRoOmJsb2NrIHRoOmlmPSIke2ludml0ZSAhPSBudWxsfSIgdGg6dGV4dD0iIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50UmVnaXN0cmF0aW9uRm9ybS5zZXRMb2dnZWRJbkZhY2Vib29rKGZhY2Vib29rQWNjb3VudC5pc0VuYWJsZWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJpc0xvZ2dlZEluRmFjZWJvb2siLCB0cnVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLywvKQ==</text>
