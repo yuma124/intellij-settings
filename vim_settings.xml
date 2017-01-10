@@ -39,7 +39,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1484014692129">
+      <file name="/a.dummy" timestamp="1484017238630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -694,6 +694,9 @@
         <mark key="^" line="0" column="102" />
         <mark key="." line="0" column="102" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484017296408">
+        <mark key="'" line="117" column="66" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/AccountRepository.java" timestamp="1483601484636">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="157" column="6" />
@@ -1016,14 +1019,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="63" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
-      <jump line="253" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
-      <jump line="257" column="91" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
-      <jump line="0" column="2994" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="6" column="28464" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" />
-      <jump line="39" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" />
-      <jump line="14" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" />
-      <jump line="100" column="133" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
       <jump line="118" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
       <jump line="80" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
       <jump line="75" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/account.html" />
@@ -1116,6 +1111,14 @@
       <jump line="90" column="37" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/MyTopController.java" />
       <jump line="165" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/MyTopController.java" />
       <jump line="237" column="37" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/MyTopController.java" />
+      <jump line="214" column="59" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="124" column="131" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="184" column="151" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="193" column="95" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="275" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="5" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="6" column="40" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
+      <jump line="117" column="66" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1125,7 +1128,7 @@
         <text>now</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBlbmRFdmVudEluZm9ybWF0aW9uXD4=</text>
+        <text>isInvite</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHRoOmlmPSIke2NhbGVuZGFyRWxlbWVudC5nZXRNeVRvcEpvaW5Db21tdW5pdHlMaXN0KCkuc2l6ZSgpID4gMH0i</text>
@@ -1165,9 +1168,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBlbmRFdmVudEluZm9ybWF0aW9uXD4=</last-search>
+      <last-search>isInvite</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBlbmRFdmVudEluZm9ybWF0aW9uXD4=</last-pattern>
+      <last-pattern>isInvite</last-pattern>
       <last-replace>)</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -1208,6 +1211,10 @@
         <entry>referenceDay</entry>
         <entry>referenceDa</entry>
         <entry encoding="base64">XDxhcHBlbmRFdmVudEluZm9ybWF0aW9uXD4=</entry>
+        <entry>会員登録して</entry>
+        <entry>invite</entry>
+        <entry>${invite}</entry>
+        <entry>isInvite</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
