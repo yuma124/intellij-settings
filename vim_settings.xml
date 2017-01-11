@@ -546,12 +546,7 @@
         <mark key="." line="21" column="63" />
         <mark key="^" line="21" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/ImageService.java" timestamp="1484046268840">
-        <mark key="[" line="406" column="47" />
-        <mark key="]" line="406" column="65" />
-        <mark key="." line="406" column="65" />
-        <mark key="^" line="406" column="65" />
-      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/ImageService.java" timestamp="1484098050049" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/listener/LoginSuccessListener.java" timestamp="1484043794211">
         <mark key="[" line="49" column="0" />
         <mark key="^" line="2" column="58" />
@@ -1116,10 +1111,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aGVpZ2h0IA==</text>
+        <text>C</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGVpZ2h0IA==</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>UPDATE</text>
