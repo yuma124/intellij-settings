@@ -474,11 +474,11 @@
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1484135001732">
-        <mark key="[" line="141" column="44" />
-        <mark key="]" line="141" column="44" />
-        <mark key="." line="141" column="44" />
-        <mark key="^" line="141" column="44" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1484137061399">
+        <mark key="[" line="142" column="43" />
+        <mark key="]" line="142" column="42" />
+        <mark key="." line="142" column="42" />
+        <mark key="^" line="142" column="42" />
       </file>
       <file name="/dummy.sql" timestamp="1484131287977">
         <mark key="[" line="0" column="0" />
@@ -757,11 +757,11 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484027469513">
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="290" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484137162156">
+        <mark key="[" line="293" column="30" />
+        <mark key="]" line="293" column="29" />
+        <mark key="." line="293" column="29" />
+        <mark key="^" line="293" column="29" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
         <mark key="[" line="1" column="0" />
@@ -1277,47 +1277,47 @@
       <jump line="18" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFsdWUgPSAic2NvcGVkVGFyZ2V0LmZhY2Vib29rQWNjb3VudCIsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>authenticationCodeSendService.existsAccount(invitedInformation.getMailAddress())</text>
+        <text encoding="base64">dmFsdWUgPSAic2NvcGVkVGFyZ2V0LmZhY2Vib29rQWNjb3VudCIsIA==</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5YWl5Yqb44GV44KM44Gf44Oh44O844Or44Ki44OJ44Os44K544GM5paw6KaP55m76Yyy5Y+v6IO944GL56K66KqN44GZ44KLCiAgICAgKi8KICAgIHB1YmxpYyBib29sZWFuIGV4aXN0c0FjY291bnQoU3RyaW5nIG1haWxBZGRyZXNzKSB7CiAgICAgICAgLy8g5YWl5Yqb44Ki44OJ44Os44K544GM5pei44Gr55m76Yyy44GV44KM44Gm44GE44KL44GL44KS56K66KqN44GZ44KLCiAgICAgICAgcmV0dXJuIGFjY291bnRSZXBvc2l0b3J5LnNlbGVjdEV4aXN0c0FjY291bnQobWFpbEFkZHJlc3MpOwogICAgfQo=</text>
+        <text encoding="base64">QFNlc3Npb25BdHRyaWJ1dGVzKCJzY29wZWRUYXJnZXQuZmFjZWJvb2tBY2NvdW50IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGNyZWF0ZUFjY291bnRWaWFJbnZpdGF0aW9uKFNlc3Npb25TdGF0dXMgc2Vzc2lvblN0YXR1cykgewogICAgICAgIHNlc3Npb25TdGF0dXMuc2V0Q29tcGxldGUoKTsKICAgICAgICBBY2NvdW50UmVnaXN0cmF0aW9uU2VydmljZS5JbnZpdGVkSW5mb3JtYXRpb24gaW52aXRlZEluZm9ybWF0aW9uID0gYWNjb3VudFJlZ2lzdHJhdGlvblNlcnZpY2Uuc2VsZWN0SW52aXRlZEluZm9ybWF0aW9uKG9uZVRpbWVLZXkuZ2V0T25lVGltZUtleSgpKTsKICAgICAgICBpZiAoaW52aXRlZEluZm9ybWF0aW9uLmlzVmFsaWQoKSAmJiAhYXV0aGVudGljYXRpb25Db2RlU2VuZFNlcnZpY2UuZXhpc3RzQWNjb3VudChpbnZpdGVkSW5mb3JtYXRpb24uZ2V0TWFpbEFkZHJlc3MoKSkpIHsKICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovY29tbXVuaXR5LyI7CiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52aXRlZEluZm9ybWF0aW9uLmdldE1haWxBZGRyZXNzKCkK</text>
+        <text encoding="base64">QFNlc3Npb25BdHRyaWJ1dGVzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIFN0cmluZyBjcmVhdGVBY2NvdW50VmlhSW52aXRhdGlvbihTZXNzaW9uU3RhdHVzIHNlc3Npb25TdGF0dXMpIHsKICAgICAgICBzZXNzaW9uU3RhdHVzLnNldENvbXBsZXRlKCk7CiAgICAgICAgQWNjb3VudFJlZ2lzdHJhdGlvblNlcnZpY2UuSW52aXRlZEluZm9ybWF0aW9uIGludml0ZWRJbmZvcm1hdGlvbiA9IGFjY291bnRSZWdpc3RyYXRpb25TZXJ2aWNlLnNlbGVjdEludml0ZWRJbmZvcm1hdGlvbihvbmVUaW1lS2V5LmdldE9uZVRpbWVLZXkoKSk7CiAgICAgICAgaWYgKGludml0ZWRJbmZvcm1hdGlvbi5pc1ZhbGlkKCkgJiYgIWF1dGhlbnRpY2F0aW9uQ29kZVNlbmRTZXJ2aWNlLmV4aXN0c0FjY291bnQoaW52aXRlZEluZm9ybWF0aW9uLmdldE1haWxBZGRyZXNzKCkpKSB7CiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2NvbW11bml0eS8iOwogICAgICAgIH0KICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhZFJlcXVlc3RFeGNlcHRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uU3RhdHVzIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIFN0cmluZyAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW52aXRlZEluZm9ybWF0aW9uLmlzVmFsaWQoKSkgewogICAgICAgICAgICBzZXNzaW9uU3RhdHVzLgogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjb3VudFJlZ2lzdHJhdGlvbkZvcm0uc2V0TG9nZ2VkSW5GYWNlYm9vayhmYWNlYm9va0FjY291bnQuaXNFbmFibGVkKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICBhY2NvdW50UmVnaXN0cmF0aW9uRm9ybS5zZXRMb2dnZWRJbkZhY2Vib29rKGZhY2Vib29rQWNjb3VudC5pc0VuYWJsZWQoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIFN0cmluZyBnZXRGYWNlYm9va0lkRGVzY3JpcHRpb24oKSB7CiAgICAgICAgICAgIGlmIChmYWNlYm9va0lkID09IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiAiIjsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoYWNjb3VudFN0YXR1cyAhPSBBY2NvdW50U3RhdHVzLlZBTElEICYmIGZhY2Vib29rSWQuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIuWFg0ZhY2Vib29r5Lya5ZOhIjsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gZmFjZWJvb2tJZDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
