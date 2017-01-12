@@ -25,11 +25,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/OneTimeKeyRepository.xml" timestamp="1484185367139">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="93" column="93" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/OneTimeKeyRepository.xml" timestamp="1484188306512">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="96" column="3" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-rest/src/main/resources/data.sql" timestamp="1475988670211">
         <mark key="[" line="3" column="61" />
@@ -112,11 +112,11 @@
         <mark key="." line="84" column="6" />
         <mark key="^" line="84" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/OneTimeKeyRepository.java" timestamp="1484185094206">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="27" column="69" />
-        <mark key="." line="27" column="69" />
-        <mark key="^" line="27" column="69" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/OneTimeKeyRepository.java" timestamp="1484188338048">
+        <mark key="[" line="51" column="63" />
+        <mark key="]" line="51" column="63" />
+        <mark key="." line="51" column="63" />
+        <mark key="^" line="51" column="63" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/AppConfig.java" timestamp="1475740600773">
         <mark key="[" line="0" column="3" />
@@ -390,11 +390,11 @@
         <mark key="." line="20" column="34" />
         <mark key="^" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityDetailService.java" timestamp="1484185386443">
-        <mark key="[" line="237" column="36" />
-        <mark key="]" line="237" column="53" />
-        <mark key="." line="237" column="53" />
-        <mark key="^" line="237" column="53" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityDetailService.java" timestamp="1484189730635">
+        <mark key="[" line="237" column="42" />
+        <mark key="]" line="237" column="66" />
+        <mark key="." line="237" column="66" />
+        <mark key="^" line="237" column="66" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/java/com/example/service/CustomerServiceImpl.java" timestamp="1476029680459">
         <mark key="[" line="42" column="25" />
@@ -459,10 +459,12 @@
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1484186068149">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1484189686766">
+        <mark key="'" line="285" column="71" />
+        <mark key="[" line="144" column="60" />
+        <mark key="]" line="144" column="83" />
+        <mark key="^" line="144" column="83" />
+        <mark key="." line="144" column="83" />
       </file>
       <file name="/dummy.sql" timestamp="1484131287977">
         <mark key="[" line="0" column="0" />
@@ -715,7 +717,6 @@
         <mark key="." line="94" column="53" />
         <mark key="^" line="94" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-admin/src/main/resources/static/assets/js/account.js" timestamp="1484124575942" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputResetPassword.html" timestamp="1482196331567">
         <mark key="[" line="15" column="95" />
         <mark key="]" line="15" column="107" />
@@ -728,15 +729,20 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484185625979">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484188025355">
         <mark key="k" line="303" column="8" />
-        <mark key="[" line="313" column="0" />
+        <mark key="[" line="303" column="0" />
         <mark key="m" line="303" column="8" />
-        <mark key="]" line="313" column="0" />
+        <mark key="]" line="311" column="40" />
         <mark key="." line="313" column="0" />
         <mark key="^" line="310" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountRegistrationService.java" timestamp="1484139070911" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountRegistrationService.java" timestamp="1484188346691">
+        <mark key="[" line="115" column="73" />
+        <mark key="]" line="116" column="7" />
+        <mark key="." line="116" column="7" />
+        <mark key="^" line="116" column="7" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="68" />
@@ -749,7 +755,7 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1484025709372">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1484188912658">
         <mark key="[" line="99" column="39" />
         <mark key="]" line="101" column="29" />
         <mark key="^" line="101" column="29" />
@@ -1049,11 +1055,6 @@
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-admin/src/main/resources/templates/account/show.html" timestamp="1484109250573">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="57" />
-        <mark key="." line="18" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/controller/ErrorController.java" timestamp="1484132741927">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -1135,8 +1136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="90" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/calendar.html" />
-      <jump line="120" column="96" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/calendar.html" />
       <jump line="119" column="84" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/calendar.html" />
       <jump line="118" column="90" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/calendar.html" />
       <jump line="114" column="112" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/calendar.html" />
@@ -1235,58 +1234,60 @@
       <jump line="66" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/layout.html" />
       <jump line="56" column="48" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/layout.html" />
       <jump line="18" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/login.html" />
+      <jump line="259" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
+      <jump line="285" column="71" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>MailAddress</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>MailAddress</text>
       </register>
       <register name="/" type="4">
-        <text>alert</text>
+        <text encoding="base64">XDxvbmVUaW1lS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGNvbW11bml0eURldGFpbFNlcnZpY2UuaXNBbHJlYWR5UmVnaXN0ZXJPbmVUaW1lS2V5TWFpbEFkZHJlc3Moc2Vzc2lvbk9uZVRpbWVLZXkuZ2V0T25lVGltZUtleSgpKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBJbnZpdGVkSW5mb3JtYXRpb24gaW52aXRlZEluZm9ybWF0aW9uID0gYWNjb3VudFJlZ2lzdHJhdGlvblNlcnZpY2Uuc2VsZWN0SW52aXRlZEluZm9ybWF0aW9uKG9uZVRpbWVLZXkuZ2V0T25lVGltZUtleSgpKTsKICAgICAgICAvLyDmnInlirnjgarmi5vlvoXnlKjjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgYzjgrvjg4Pjgrfjg6fjg7PjgavlrZjlnKjjgZnjgovloLTlkIjjga/kvJrlk6Hmg4XloLHlhaXlipvnlLvpnaLjgavjg6rjg4DjgqTjg6zjgq/jg4jjgZXjgZvjgosKICAgICAgICBpZiAoaW52aXRlZEluZm9ybWF0aW9uLmlzVmFsaWQoKQogICAgICAgICAgICAgICAgJiYgIWNvbW11bml0eURldGFpbFNlcnZpY2UuaXNBbHJlYWR5UmVnaXN0ZXJPbmVUaW1lS2V5TWFpbEFkZHJlc3Mob25lVGltZUtleS5nZXRPbmVUaW1lS2V5KCkpKSB7CiAgICAgICAgICAgIHJlZGlyZWN0QXR0cmlidXRlcy5hZGRGbGFzaEF0dHJpYnV0ZSgiaXNJbnZpdGVkIiwgdHJ1ZSk7CiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2FjY291bnQvaW5wdXQiOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW52aXRlZEluZm9ybWF0aW9uLmlzVmFsaWQoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAob25lVGltZUtleS5nZXRPbmVUaW1lS2V5KCkuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmnInlirnjgarmi5vlvoXnlKjjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgYzjgrvjg4Pjgrfjg6fjg7PjgavlrZjlnKjjgZnjgovloLTlkIjjga/kvJrlk6Hmg4XloLHlhaXlipvnlLvpnaLjgavjg6rjg4DjgqTjg6zjgq/jg4jjgZXjgZvjgosK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICYmICFjb21tdW5pdHlEZXRhaWxTZXJ2aWNlLmlzQWxyZWFkeVJlZ2lzdGVyT25lVGltZUtleU1haWxBZGRyZXNzKG9uZVRpbWVLZXkuZ2V0T25lVGltZUtleSgpKSkgewogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXJlY3RBdHRyaWJ1dGVzLmFkZEZsYXNoQXR0cmlidXRlKCJpc0ludml0ZWQiLCB0cnVlKTsgcmV0dXJuICJyZWRpcmVjdDovYWNjb3VudC9pbnB1dCI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJbnZpdGVkSW5mb3JtYXRpb24gaW52aXRlZEluZm9ybWF0aW9uID0gYWNjb3VudFJlZ2lzdHJhdGlvblNlcnZpY2Uuc2VsZWN0SW52aXRlZEluZm9ybWF0aW9uKG9uZVRpbWVLZXkuZ2V0T25lVGltZUtleSgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1vZGVsIG1vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>alert</last-search>
+      <last-search encoding="base64">XDxvbmVUaW1lS2V5XD4=</last-search>
       <last-offset />
-      <last-pattern>alert</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVUaW1lS2V5XD4=</last-pattern>
       <last-replace>8</last-replace>
       <last-substitute>9</last-substitute>
       <last-dir>1</last-dir>
@@ -1307,7 +1308,6 @@
         <entry>invite</entry>
         <entry>${invite}</entry>
         <entry encoding="base64">XDxzZXNzaW9uU3RhdHVzXD4=</entry>
-        <entry encoding="base64">XDxvbmVUaW1lS2V5XD4=</entry>
         <entry>isLoggedInFacebook</entry>
         <entry>input hidden</entry>
         <entry>join</entry>
@@ -1327,6 +1327,7 @@
         <entry encoding="base64">XDxldmVudFN0b3BCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxmcmFnbWVudFw+</entry>
         <entry>alert</entry>
+        <entry encoding="base64">XDxvbmVUaW1lS2V5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
