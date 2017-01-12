@@ -264,7 +264,8 @@
         <mark key="." line="82" column="41" />
         <mark key="^" line="82" column="41" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1484121516472">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" timestamp="1484205241452">
+        <mark key="'" line="134" column="84" />
         <mark key="[" line="354" column="0" />
         <mark key="]" line="361" column="55" />
       </file>
@@ -545,6 +546,12 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484205595220">
+        <mark key="'" line="16" column="57" />
+        <mark key="[" line="405" column="0" />
+        <mark key="]" line="405" column="0" />
+        <mark key="." line="405" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/exception/BadRequestException.java" timestamp="1484122530499">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="10" column="1" />
@@ -757,6 +764,12 @@
         <mark key="]" line="15" column="107" />
         <mark key="." line="15" column="107" />
         <mark key="^" line="15" column="107" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/CommunityDetailServiceTest.groovy" timestamp="1484205863345">
+        <mark key="[" line="279" column="8" />
+        <mark key="]" line="279" column="8" />
+        <mark key="." line="279" column="8" />
+        <mark key="^" line="279" column="8" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/top/fragment/topcommon.html" timestamp="1482214064438">
         <mark key="[" line="11" column="36" />
@@ -1181,25 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="118" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="184" column="138" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="251" column="19" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="36" column="25" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" />
-      <jump line="43" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/static/assets/js/account.js" />
-      <jump line="297" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountRepository.xml" />
-      <jump line="312" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountRepository.xml" />
-      <jump line="324" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountRepository.xml" />
-      <jump line="253" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="0" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="5" column="120" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="6" column="142" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="11" column="58" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="44" column="33" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="45" column="34" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="47" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="48" column="52" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="49" column="36" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="85" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
       <jump line="86" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
       <jump line="88" column="52" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
       <jump line="89" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
@@ -1281,58 +1275,77 @@
       <jump line="420" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="444" column="45" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="446" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
+      <jump line="177" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="117" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="176" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="237" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="299" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="356" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="405" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="418" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="431" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="444" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="467" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="490" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="513" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="574" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="34" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="16" column="57" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
+      <jump line="56" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="133" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
+      <jump line="134" column="84" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventUpdateNotificationServiceTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXnlKjjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgYzjgarjgYTjgIHjgYvjgaTjgIHjg5njg43jgrnjg4bmnKrpgKPmkLrjga7loLTlkIgKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShvbmVUaW1lS2V5LmdldE9uZVRpbWVLZXkoKSkgJiYgIWJlbmVmaXRBY2NvdW50LmlzRW5hYmxlZCgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text>た</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2ZXJpZnlNYWlsQWRkcmVzc1w+</text>
+        <text>updatedAt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuYWRkQXR0cmlidXRlKCJtYWlsQWRkcmVzcyIsIG1haWxBZGRyZXNzKTsK</text>
+        <text encoding="base64">ICAgIGRlZiAi5pei44Gr5Lya5ZOh55m76Yyy5riI44G/44Gu44Oh44O844Or44Ki44OJ44Os44K544Gr57SQ44Gl44GP44Ov44Oz44K/44Kk44Og44Kt44O844Gn44GC44KL44GT44GoIigpIHsKICAgICAgICBsb2FkRGF0YSB7CiAgICAgICAgICAgICdPbmVUaW1lS2V5JyBvbmVUaW1lS2V5OiAnb25lVGltZUtleScsIHNlbmRNYWlsQWRkcmVzczogInRlc3QiCiAgICAgICAgICAgICdBY2NvdW50JyBtYWlsQWRkcmVzczogInRlc3QiCiAgICAgICAgfQogICAgICAgIHRoZW46CiAgICAgICAgY29tbXVuaXR5RGV0YWlsU2VydmljZS5pc0FscmVhZHlSZWdpc3RlcmVkTWFpbEFkZHJlc3NGb3JPbmVUaW1lS2V5KCJvbmVUaW1lS2V5IikKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi5vlvoXnlKjjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgYzjgarjgYTjgIHjgYvjgaTjgIHjg5njg43jgrnjg4bmnKrpgKPmkLrjga7loLTlkIgKICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eShvbmVUaW1lS2V5LmdldE9uZVRpbWVLZXkoKSkgJiYgIWJlbmVmaXRBY2NvdW50LmlzRW5hYmxlZCgpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCYWRSZXF1ZXN0RXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGVuOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21tdW5pdHlEZXRhaWxTZXJ2aWNlLmlzQWxyZWFkeVJlZ2lzdGVyZWRNYWlsQWRkcmVzc0Zvck9uZVRpbWVLZXkoIm9uZVRpbWVLZXkiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0FjY291bnQnIG1haWxBZGRyZXNzOiAidGVzdCIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW52aXRlZEluZm9ybWF0aW9uLm1haWxBZGRyZXNzID09ICJ0ZXN0IiBpbnZpdGVkSW5mb3JtYXRpb24udmFsaWQgPT0gdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnlNYWlsQWRkcmVzcy5zZXR2ZXJpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm1haWxBZGRyZXNzIiwgZ2V0VW5yZWdpc3RlcmVkQWNjb3VudE1haWxBZGRyZXNzKGlzSW52aXRlZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuOgogICAgICAgIGNvbW11bml0eURldGFpbFNlcnZpY2UuaXNBbHJlYWR5UmVnaXN0ZXJlZE1haWxBZGRyZXNzRm9yT25lVGltZUtleSgib25lVGltZUtleSIpCgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2ZXJpZnlNYWlsQWRkcmVzc1w+</last-search>
+      <last-search>updatedAt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2ZXJpZnlNYWlsQWRkcmVzc1w+</last-pattern>
+      <last-pattern>updatedAt</last-pattern>
       <last-replace>8</last-replace>
       <last-substitute>9</last-substitute>
       <last-dir>1</last-dir>
@@ -1380,6 +1393,9 @@
         <entry encoding="base64">XDxpc0xvZ2dlZEluRmFjZWJvb2tcPg==</entry>
         <entry encoding="base64">XDxnZXRVbnJlZ2lzdGVyZWRBY2NvdW50TWFpbEFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDx2ZXJpZnlNYWlsQWRkcmVzc1w+</entry>
+        <entry encoding="base64">XDxXaXRoTW9ja1VzZXJcPg==</entry>
+        <entry>createdAt</entry>
+        <entry>updatedAt</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
