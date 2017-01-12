@@ -523,12 +523,12 @@
         <mark key="^" line="3" column="68" />
         <mark key="." line="3" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484221239923">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484226084293">
         <mark key="'" line="10" column="57" />
-        <mark key="[" line="430" column="0" />
-        <mark key="]" line="430" column="0" />
-        <mark key="^" line="416" column="25" />
-        <mark key="." line="430" column="0" />
+        <mark key="[" line="558" column="0" />
+        <mark key="]" line="558" column="0" />
+        <mark key="^" line="636" column="46" />
+        <mark key="." line="558" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/di-config/src/main/java/sample/di/business/service/ProductServiceImpl.java" timestamp="1475396427619">
         <mark key="[" line="5" column="33" />
@@ -1228,11 +1228,11 @@
       <jump line="37" column="93" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>の</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>の</text>
+        <text>communityDetailService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWlsQWRkcmVzc1w+</text>
@@ -1241,34 +1241,34 @@
         <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJvbmVUaW1lS2V5IiB0aDp2YWx1ZT0iKntvbmVUaW1lS2V5fSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudXRpbC5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRBdHRyaWJ1dGVGb3JSZWdpc3Rlcihtb2RlbCwgbWFpbEFkZHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5hZGRBdHRyaWJ1dGUoIm1haWxBZGRyZXNzIiwgbWFpbEFkZHJlc3MpOwo=</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBY2NvdW50UmVnaXN0cmF0aW9uU2VydmljZS5JbnZpdGVkSW5mb3JtYXRpb24gaW52aXRlZEluZm9ybWF0aW9uID0gYWNjb3VudFJlZ2lzdHJhdGlvblNlcnZpY2UubG9hZE1haWxBZGRyZXNzKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZpdGVkSW5mb3JtYXRpb24udmFsaWQgPT0gZmFsc2UK</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnZpdGVkSW5mb3JtYXRpb24udmFsaWQgPT0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBEYXRhCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIEludml0ZWRJbmZvcm1hdGlvbiB7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgbWFpbEFkZHJlc3M7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIEBXaXRoTW9ja1VzZXIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
