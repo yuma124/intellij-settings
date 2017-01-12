@@ -454,12 +454,6 @@
         <mark key="^" line="77" column="18" />
         <mark key="." line="77" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1484137820848">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="36" />
-        <mark key="." line="140" column="0" />
-        <mark key="^" line="143" column="42" />
-      </file>
       <file name="/dummy.sql" timestamp="1484131287977">
         <mark key="[" line="0" column="0" />
       </file>
@@ -737,11 +731,11 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484137809532">
-        <mark key="[" line="313" column="9" />
-        <mark key="]" line="314" column="35" />
-        <mark key="." line="314" column="35" />
-        <mark key="^" line="314" column="35" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484184625220">
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="301" column="9" />
+        <mark key="." line="298" column="0" />
+        <mark key="^" line="298" column="7" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountRegistrationService.java" timestamp="1484139070911" />
       <file name="$USER_HOME$/playgrounds/hajiboot-jdbc/src/main/resources/data.sql" timestamp="1475751467914">
@@ -1259,7 +1253,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uU3RhdHVzLnNldENvbXBsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg63jgrDjgqTjg7PjgZfjgabjgYTjgovloLTlkIjjgIHpgJrluLjjga7jgrPjg5/jg6Xjg4vjg4bjgqPoqbPntLDjgavpgbfnp7sKICAgICAgICBpZiAobG9naW5BY2NvdW50RGV0YWlscyAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2NvbW11bml0eS8iICsgY29tbXVuaXR5SWQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1268,38 +1262,38 @@
         <text>alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovY29tbXVuaXR5LyIgKyBjb21tdW5pdHlJZDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNvbW11bml0eURldGFpbFNlcnZpY2UuaXNWYWxpZE9uZVRpbWVLZXkob25lVGltZUtleSwgY29tbXVuaXR5SWQpKSB7CiAgICAgICAgICAgIHJldHVybiAiY29tbXVuaXR5L2ludmFsaWRPbmVUaW1lS2V5IjsKICAgICAgICB9CiAgICAgICAgLy8g44Ot44Kw44Kk44Oz44GX44Gm44GE44KL5aC05ZCI44CB6YCa5bi444Gu44Kz44Of44Ol44OL44OG44Kj6Kmz57Sw44Gr6YG356e7CiAgICAgICAgaWYgKGxvZ2luQWNjb3VudERldGFpbHMgIT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gInJlZGlyZWN0Oi9jb21tdW5pdHkvIiArIGNvbW11bml0eUlkOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9uU3RhdHVzLnNldENvbXBsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDjg63jgrDjgqTjg7PjgZfjgabjgYTjgovloLTlkIjjgIHpgJrluLjjga7jgrPjg5/jg6Xjg4vjg4bjgqPoqbPntLDjgavpgbfnp7sKICAgICAgICBpZiAobG9naW5BY2NvdW50RGV0YWlscyAhPSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiAicmVkaXJlY3Q6L2NvbW11bml0eS8iICsgY29tbXVuaXR5SWQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uU3RhdHVzLnNldENvbXBsZXRlKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgU2Vzc2lvblN0YXR1cwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>Model model,
                                        HttpServletRequest request</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzZXNzaW9uT25lVGltZUtleS5zZXQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWNjb3VudCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWNjb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
