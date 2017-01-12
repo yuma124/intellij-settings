@@ -746,13 +746,13 @@
         <mark key="." line="11" column="51" />
         <mark key="^" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484190600391">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1484196155896">
         <mark key="'" line="22" column="35" />
         <mark key="k" line="308" column="8" />
-        <mark key="[" line="309" column="119" />
+        <mark key="[" line="296" column="48" />
         <mark key="m" line="308" column="8" />
-        <mark key="]" line="309" column="119" />
-        <mark key="." line="309" column="119" />
+        <mark key="]" line="296" column="48" />
+        <mark key="." line="296" column="48" />
         <mark key="^" line="309" column="117" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountRegistrationService.java" timestamp="1484191757717">
@@ -961,12 +961,12 @@
         <mark key="." line="39" column="58" />
         <mark key="^" line="39" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484190684703">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484196109664">
         <mark key="'" line="187" column="110" />
-        <mark key="[" line="252" column="88" />
-        <mark key="]" line="252" column="103" />
-        <mark key="." line="252" column="103" />
-        <mark key="^" line="252" column="103" />
+        <mark key="[" line="252" column="62" />
+        <mark key="]" line="252" column="71" />
+        <mark key="." line="252" column="71" />
+        <mark key="^" line="252" column="71" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/resources/schema.sql" timestamp="1475982888477">
         <mark key="[" line="0" column="115" />
@@ -1259,11 +1259,11 @@
       <jump line="258" column="50" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>facebookAccount.isEnabled()</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0xvZ2dlZEluRmFjZWJvb2tcPg==</text>
