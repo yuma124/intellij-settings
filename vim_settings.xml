@@ -45,7 +45,7 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/a.dummy" timestamp="1484274565289">
+      <file name="/a.dummy" timestamp="1484303182537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/build.gradle" timestamp="1476032500770">
@@ -229,12 +229,12 @@
         <mark key="." line="18" column="77" />
         <mark key="^" line="18" column="77" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" timestamp="1484299620240">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" timestamp="1484300650430">
         <mark key="'" line="37" column="93" />
-        <mark key="[" line="177" column="76" />
-        <mark key="]" line="177" column="90" />
-        <mark key="." line="177" column="90" />
-        <mark key="^" line="177" column="90" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="71" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="177" column="67" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/support/mail/impl/javamail/MessageSenderImpl.java" timestamp="1476237398708">
         <mark key="[" line="23" column="8" />
@@ -289,6 +289,11 @@
         <mark key="]" line="9" column="4" />
         <mark key="^" line="9" column="40" />
         <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" timestamp="1484300683054">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1482197935040">
         <mark key="[" line="94" column="15" />
@@ -352,6 +357,7 @@
         <mark key="]" line="303" column="0" />
         <mark key="." line="303" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/footer.html" timestamp="1484301472990" />
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/ScannerArgumentResolver.java" timestamp="1475748010455">
         <mark key="[" line="9" column="3" />
         <mark key="]" line="19" column="33" />
@@ -399,6 +405,12 @@
         <mark key="]" line="24" column="38" />
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="38" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/termsAndPrivacyPolicy.html" timestamp="1484300646585">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="158" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-layering/src/main/java/com/example/repository/CustomerRepository.java" timestamp="1475749276649">
         <mark key="[" line="31" column="47" />
@@ -635,6 +647,13 @@
         <mark key="." line="14" column="119" />
         <mark key="^" line="14" column="119" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" timestamp="1484302554421">
+        <mark key="'" line="288" column="59" />
+        <mark key="[" line="296" column="151" />
+        <mark key="]" line="296" column="151" />
+        <mark key="." line="296" column="151" />
+        <mark key="^" line="296" column="150" />
+      </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-thymeleaf/src/main/resources/db/migration/V3__add_user.sql" timestamp="1476031118493">
         <mark key="[" line="4" column="95" />
         <mark key="]" line="4" column="95" />
@@ -647,10 +666,15 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/forgetPassword.html" timestamp="1482196177662">
-        <mark key="[" line="14" column="95" />
-        <mark key="]" line="14" column="107" />
-        <mark key="." line="14" column="107" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1484303488113">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/forgetPassword.html" timestamp="1484300737220">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="79" />
+        <mark key="." line="92" column="0" />
         <mark key="^" line="14" column="107" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/service/CustomerService.java" timestamp="1475987671792">
@@ -713,11 +737,12 @@
         <mark key="^" line="30" column="14" />
         <mark key="." line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" timestamp="1484027427643">
-        <mark key="[" line="17" column="203" />
-        <mark key="]" line="17" column="203" />
-        <mark key="." line="17" column="203" />
-        <mark key="^" line="17" column="128" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" timestamp="1484302711643">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="18" column="108" />
+        <mark key="]" line="18" column="112" />
+        <mark key="." line="18" column="112" />
+        <mark key="^" line="18" column="112" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Spring4/aop-annotation/src/main/java/sample/aop/MyFirstAspect.java" timestamp="1475415406084">
         <mark key="[" line="66" column="40" />
@@ -737,11 +762,15 @@
         <mark key="." line="39" column="163" />
         <mark key="^" line="39" column="163" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484273087229">
-        <mark key="[" line="124" column="87" />
-        <mark key="]" line="124" column="87" />
-        <mark key="." line="124" column="87" />
-        <mark key="^" line="124" column="87" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/profile/config.scss" timestamp="1484303194607">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484302352442">
+        <mark key="[" line="193" column="110" />
+        <mark key="]" line="193" column="132" />
+        <mark key="." line="193" column="132" />
+        <mark key="^" line="193" column="132" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_side_menu.scss" timestamp="1484011439319">
         <mark key="[" line="27" column="25" />
@@ -754,6 +783,11 @@
         <mark key="]" line="0" column="115" />
         <mark key="^" line="0" column="115" />
         <mark key="." line="0" column="115" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1484300750038">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/playgrounds/functional-java/src/com/company/Curry1.java" timestamp="1476503720360">
         <mark key="[" line="6" column="17" />
@@ -796,6 +830,13 @@
         <mark key="]" line="27" column="1" />
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" timestamp="1484302807519">
+        <mark key="'" line="204" column="23" />
+        <mark key="[" line="224" column="99" />
+        <mark key="]" line="224" column="99" />
+        <mark key="^" line="217" column="109" />
+        <mark key="." line="224" column="99" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-di/src/main/java/com/example/app/AddCalclator.java" timestamp="1475677251000">
         <mark key="[" line="5" column="21" />
@@ -1075,32 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="72" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
-      <jump line="31" column="33" filename="$USER_HOME$/repos/recruit-mp/koimusubi/koimusubi-admin/src/main/resources/messages.properties" />
-      <jump line="59" column="129" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/service/AccountDetailService.java" />
-      <jump line="62" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/service/AccountDetailService.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventRepository.xml" />
-      <jump line="95" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/net/zexy/cpf/admin/repository/AccountRepository.xml" />
-      <jump line="430" column="9" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/test/groovy/net/zexy/cpf/admin/repository/AccountRepositoryTest.groovy" />
-      <jump line="54" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventDetailServiceTest.groovy" />
-      <jump line="12" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/js/event/event.js" />
-      <jump line="26" column="34" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="66" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/layout.html" />
-      <jump line="56" column="48" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/layout.html" />
-      <jump line="18" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/templates/login.html" />
-      <jump line="259" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="285" column="71" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="77" column="9" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="85" column="83" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="87" column="86" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="88" column="54" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="91" column="74" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="92" column="48" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="145" column="143" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="291" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="425" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="435" column="33" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
-      <jump line="438" column="30" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="452" column="21" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="453" column="36" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
       <jump line="25" column="83" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
@@ -1175,62 +1190,88 @@
       <jump line="223" column="28" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="26" column="60" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" />
       <jump line="37" column="93" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/input.html" />
+      <jump line="302" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="148" column="36" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="150" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="153" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="157" column="79" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="162" column="81" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="166" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="383" column="106" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="145" column="70" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="385" column="69" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" />
+      <jump line="12" column="96" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" />
+      <jump line="17" column="25" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="6" column="23" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="224" column="99" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="223" column="44" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="217" column="102" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="215" column="40" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="195" column="76" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="229" column="51" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="296" column="86" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="279" column="57" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="288" column="59" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="220" column="66" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
+      <jump line="204" column="23" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgavjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYzml6LjgavnmbvpjLLjgZXjgozjgabjgYTjgovloLTlkIjjgIHpgJrluLjjga7jgrPjg5/jg6Xjg4vjg4bjgqPoqbPntLDjgavpgbfnp7vjgZfjgabjg6Hjg4Pjgrvjg7zjgrjjgpLooajnpLrjgZnjgosK</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBtZWRpYS1wYyB7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDhweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PathVariable</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWlsQWRkcmVzc1w+</text>
+        <text encoding="base64">XDxldmVudEFjdGlvbkJ1dHRvbkZyYWdtZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvbmVUaW1lS2V5IOaLm+W+heaZguOBq+eZuuihjOOBl+OBn+ODr+ODs+OCv+OCpOODoOOCreODvAo=</text>
+        <text encoding="base64">ICAgICAgICAmOmZpcnN0LWNoaWxkIHsKICAgICAgICAgICAgcGFkZGluZy1yaWdodDogMTBweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDjg6/jg7Pjgr/jgqTjg6Djgq3jg7zjgavjg6Hjg7zjg6vjgqLjg4njg6zjgrnjgYzml6LjgavnmbvpjLLjgZXjgozjgabjgYTjgovloLTlkIjjgIHpgJrluLjjga7jgrPjg5/jg6Xjg4vjg4bjgqPoqbPntLDjgavpgbfnp7vjgZfjgabjg6Hjg4Pjgrvjg7zjgrjjgpLooajnpLrjgZnjgosK</text>
+        <text encoding="base64">ICAgICAgICBAaW5jbHVkZSBtZWRpYS1wYyB7CiAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDhweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvbmVUaW1lS2V5Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKSBBUyBleGlzdHNWYWxpZEFjY291bnRGb3JPbmVUaW1lS2V5LAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDhweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRVhJU1RTKAogICAgICAgICAgICAgICAgICAgIFNFTEVDVCAxCiAgICAgICAgICAgICAgICAgICAgRlJPTQogICAgICAgICAgICAgICAgICAgICAgICBPbmVUaW1lS2V5IE9USzEKICAgICAgICAgICAgICAgICAgICAgICAgSU5ORVIgSk9JTgogICAgICAgICAgICAgICAgICAgICAgICAgICAgQWNjb3VudCBBIE9OIE9USzEuc2VuZE1haWxBZGRyZXNzID0gQS5tYWlsQWRkcmVzcwogICAgICAgICAgICAgICAgICAgIFdIRVJFCiAgICAgICAgICAgICAgICAgICAgICAgIE9USzEub25lVGltZUtleSA9ICN7b25lVGltZUtleX0KICAgICAgICAgICAgICAgICAgICAgICAgQU5EIEEuYWNjb3VudFN0YXR1cyA9ICR7QG5ldC56ZXh5LmNwZi5jb3JlLmVudW1zLkFjY291bnRTdGF0dXNAVkFMSUQuY29kZX0K</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDhweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ZXIuY29ubmVjdGlvbi5jb25uZWN0aW9uLmNvbW1pdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InUtbWIxMCB1LXRhYyI+PGEgdGg6aHJlZj0iQHsvY29udGVudHMvdGVybXMuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+5Yip55So6KaP57SEPC9hPuOBqDxhIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3ByaXZhY3kuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8PC9hPuOBqzwvcD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFN0cmluZyBvbmVUaW1lS2V5OwogICAgICAgIHByaXZhdGUgTG9uZyBjb21tdW5pdHlJZDsKICAgICAgICBwcml2YXRlIGJvb2xlYW4gaXNWYWxpZDsKICAgICAgICBwcml2YXRlIGJvb2xlYW4gZXhpc3RzVmFsaWRBY2NvdW50Rm9yT25lVGltZUtleTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InUtbWIxMCB1LXRhYyI+PGEgdGg6aHJlZj0iQHsvY29udGVudHMvdGVybXMuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+5Yip55So6KaP57SEPC9hPuOBqDxhIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3ByaXZhY3kuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8PC9hPuOBqzwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRIRU4gYicxJyBFTFNFIGInMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idS1tYjEwIHUtdGFjIj48YSB0aDpocmVmPSJAey9jb250ZW50cy90ZXJtcy5odG1sfSIgY2xhc3M9InUtYy1ncmF5OTAwIj7liKnnlKjopo/ntIQ8L2E+44GoPGEgdGg6aHJlZj0iQHsvY29udGVudHMvcHJpdmFjeS5odG1sfSIgY2xhc3M9InUtYy1ncmF5OTAwIj7jg5fjg6njgqTjg5Djgrfjg7zjg53jg6rjgrfjg7w8L2E+44GrPC9wPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPT0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InUtbWIxMCB1LXRhYyI+PGEgdGg6aHJlZj0iQHsvY29udGVudHMvdGVybXMuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+5Yip55So6KaP57SEPC9hPuOBqDxhIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3ByaXZhY3kuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8PC9hPuOBqzwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9kZWxNYXBwZXIubWFwKCwgT25lVGltZUtleS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">PHAgY2xhc3M9InUtbWIxMCB1LXRhYyI+PGEgdGg6aHJlZj0iQHsvY29udGVudHMvdGVybXMuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+5Yip55So6KaP57SEPC9hPuOBqDxhIHRoOmhyZWY9IkB7L2NvbnRlbnRzL3ByaXZhY3kuaHRtbH0iIGNsYXNzPSJ1LWMtZ3JheTkwMCI+44OX44Op44Kk44OQ44K344O844Od44Oq44K344O8PC9hPuOBqzwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWlsQWRkcmVzc1w+</last-search>
+      <last-search encoding="base64">XDxldmVudEFjdGlvbkJ1dHRvbkZyYWdtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWlsQWRkcmVzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudEFjdGlvbkJ1dHRvbkZyYWdtZW50XD4=</last-pattern>
       <last-replace>8</last-replace>
       <last-substitute>9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -1254,6 +1295,11 @@
         <entry>insert</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxtYWlsQWRkcmVzc1w+</entry>
+        <entry>c-button</entry>
+        <entry>js-fixe</entry>
+        <entry>join</entry>
+        <entry>action</entry>
+        <entry encoding="base64">XDxldmVudEFjdGlvbkJ1dHRvbkZyYWdtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
