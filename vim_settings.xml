@@ -435,11 +435,11 @@
         <mark key="." line="9" column="37" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1483523841751">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1484568495636">
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="73" column="72" />
+        <mark key="." line="73" column="72" />
+        <mark key="^" line="73" column="51" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/EventReminderServiceTest.groovy" timestamp="1482200169092">
         <mark key="[" line="232" column="36" />
@@ -1161,17 +1161,17 @@
       <jump line="31" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>noimage_community</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>noimage_community</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1JlbWVtYmVyTWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3lzdGVtZGF0ZToKICBjb25maWdQYXRoOiAvd2ViL2RiaG9tZS9hZG1pbl9kczIvc3lzdGVtZGF0ZS5wcm9wZXJ0aWVzCg==</text>
+      <register name="0" type="4">
+        <text>logo_activities_gray</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
