@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/footer.html" timestamp="1484617502790" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1484568495636">
         <mark key="[" line="73" column="72" />
         <mark key="]" line="73" column="72" />
@@ -49,9 +50,11 @@
         <mark key="." line="193" column="132" />
         <mark key="^" line="193" column="132" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1484548803255">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1484617578038">
         <mark key="[" line="99" column="0" />
-        <mark key="]" line="100" column="40" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484276676617">
         <mark key="[" line="3" column="22" />
@@ -178,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ト</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>ト</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>outline</text>
