@@ -3,30 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1484568495636">
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="73" column="72" />
+        <mark key="." line="73" column="72" />
+        <mark key="^" line="73" column="51" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/messageBoard.html" timestamp="1484571663904">
+        <mark key="'" line="25" column="98" />
+        <mark key="[" line="66" column="57" />
+        <mark key="]" line="66" column="58" />
+        <mark key="^" line="66" column="119" />
+        <mark key="." line="66" column="58" />
+      </file>
       <file name="/a.dummy" timestamp="1484570744570">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/thymeleaf/NewLineTextTagProcessor.java" timestamp="1484570921890" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" timestamp="1484300683054">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="75" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1484565015200">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/show.html" timestamp="1484538462668">
         <mark key="[" line="93" column="66" />
         <mark key="]" line="93" column="66" />
         <mark key="^" line="93" column="122" />
         <mark key="." line="93" column="66" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1484303488113">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" timestamp="1484569814544">
         <mark key="'" line="17" column="25" />
@@ -35,35 +32,15 @@
         <mark key="." line="18" column="112" />
         <mark key="^" line="18" column="112" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" timestamp="1484569873697">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="224" column="99" />
-        <mark key="]" line="224" column="99" />
-        <mark key="^" line="217" column="109" />
-        <mark key="." line="224" column="99" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1484565015200">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1484568495636">
-        <mark key="[" line="73" column="72" />
-        <mark key="]" line="73" column="72" />
-        <mark key="." line="73" column="72" />
-        <mark key="^" line="73" column="51" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484276676617">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/config.html" timestamp="1484535729772" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1484548803255">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="100" column="40" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/messageBoard.html" timestamp="1484571663904">
-        <mark key="'" line="25" column="98" />
-        <mark key="[" line="67" column="57" />
-        <mark key="]" line="67" column="58" />
-        <mark key="^" line="67" column="119" />
-        <mark key="." line="67" column="58" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" timestamp="1484300683054">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="75" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484570590103">
         <mark key="'" line="244" column="10" />
@@ -72,8 +49,29 @@
         <mark key="." line="193" column="132" />
         <mark key="^" line="193" column="132" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1484548803255">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="100" column="40" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" timestamp="1484276676617">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_message.scss" timestamp="1484569450491">
         <mark key="'" line="80" column="7" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1484303488113">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" timestamp="1484569873697">
+        <mark key="'" line="204" column="23" />
+        <mark key="[" line="224" column="99" />
+        <mark key="]" line="224" column="99" />
+        <mark key="^" line="217" column="109" />
+        <mark key="." line="224" column="99" />
       </file>
     </filemarks>
     <jumps>
@@ -232,15 +230,10 @@
       <last-replace>8</last-replace>
       <last-substitute>9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbmVUaW1lS2V5XD4=</entry>
-        <entry>message</entry>
-        <entry>account</entry>
-        <entry>hidden</entry>
-        <entry>isLoggedIn</entry>
         <entry encoding="base64">XDxsb2dnZWRJbkZhY2Vib29rXD4=</entry>
         <entry encoding="base64">XDxpc0xvZ2dlZEluRmFjZWJvb2tcPg==</entry>
         <entry encoding="base64">XDxnZXRVbnJlZ2lzdGVyZWRBY2NvdW50TWFpbEFkZHJlc3NcPg==</entry>
