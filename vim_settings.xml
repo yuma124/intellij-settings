@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/footer.html" timestamp="1484617502790" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1484568495636">
         <mark key="[" line="73" column="72" />
         <mark key="]" line="73" column="72" />
@@ -32,6 +31,11 @@
         <mark key="]" line="9" column="18" />
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/CommunityRepository.xml" timestamp="1484709396843">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="45" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1484565015200">
         <mark key="[" line="100" column="0" />
@@ -192,60 +196,60 @@
       <jump line="244" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>わ</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBTkQKICAgICAgICAgICAgQ0kuZGlzcGxheU9yZGVyID0gI3tkaXNwbGF5T3JkZXJ9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>わ</text>
       </register>
       <register name="/" type="4">
-        <text>outline</text>
+        <text>manage</text>
       </register>
       <register name="0" type="4">
         <text>問い合わせ</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwIGNsYXNzPSJjLW1lc3NhZ2VfX2VtcHR5IGpzLW1lc3NhZ2VfX2VtcHR5IiBjcGY6bmV3bGluZXRleHQ9Inzjg6Hjg4Pjgrvjg7zjgrjjga/mipXnqL/jgZXjgozjgabjgYTjgb7jgZvjgpPjgIImIzEw44Oh44OD44K744O844K444Oc44O844OJ44KS5rS755So44GX44GmJiMxMCR7dHlwZSA9PSAnZXZlbnQnID8gJ+OCpOODmeODs+ODiCcgOiAn6YOo5rS7J33lj4LliqDjg6Hjg7Pjg5Djg7zjgajkvJroqbHjgpLjgZfjgabjgb/jgb7jgZfjgofjgYbjgIJ8Ij48L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICBBTkQKICAgICAgICAgICAgQ0kuZGlzcGxheU9yZGVyID0gI3tkaXNwbGF5T3JkZXJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgIDxwIGNsYXNzPSJjLW1lc3NhZ2VfX2VtcHR5IGpzLW1lc3NhZ2VfX2VtcHR5IiBjcGY6bmV3bGluZXRleHQ9Inzjg6Hjg4Pjgrvjg7zjgrjjga/mipXnqL/jgZXjgozjgabjgYTjgb7jgZvjgpPjgIImIzEw44Oh44OD44K744O844K444Oc44O844OJ44KS5rS755So44GX44GmJiMxMCR7dHlwZSA9PSAnZXZlbnQnID8gJ+OCpOODmeODs+ODiCcgOiAn6YOo5rS7J33lj4LliqDjg6Hjg7Pjg5Djg7zjgajkvJroqbHjgpLjgZfjgabjgb/jgb7jgZfjgofjgYbjgIJ8Ij48L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgbWFwQXBpS2V5OiBBSXphU3lCVDhIUmk2ejNfQTFuR1E2OGMtd3pRaXc3YmhwOHE2MUEK</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQogICAgbWFwQXBpS2V5OiBBSXphU3lCVDhIUmk2ejNfQTFuR1E2OGMtd3pRaXc3YmhwOHE2MUEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3lzdGVtZGF0ZToKICBjb25maWdQYXRoOiAvd2ViLy9zeXN0ZW1kYXRlLnByb3BlcnRpZXMK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY2NvdW50VGFibGUuZ2V0VmFsdWUoKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">c3lzdGVtZGF0ZToKICBjb25maWdQYXRoOiAvd2ViLy9zeXN0ZW1kYXRlLnByb3BlcnRpZXMK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhY2NvdW50VGFibGUuZ2V0VmFsdWUoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYy1mb3JtX19jb250cm9sIj48bGFiZWwgY2xhc3M9ImMtY2hlY2tib3giPjxpbnB1dCBjbGFzcz0iYy1pbnB1dCBjLWlucHV0LS1sYXJnZSBjLWlucHV0LS1pY29uIGMtaW5wdXQtLWljb25Mb2NrIHUtdGFjIiB0eXBlPSJjaGVja2JveCIgbmFtZT0iaW5wdXQxMiIgdmFsdWU9IiI+PHNwYW4gY2xhc3M9ImMtY2hlY2tib3hfX2ljb24gYy1jaGVja2JveF9faWNvbi0tcmVkIj48L3NwYW4+5paw552A6YCa55+l44KS5Y+X44GR5Y+W44KLPC9sYWJlbD48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzkvOC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>outline</last-search>
+      <last-search>manage</last-search>
       <last-offset />
-      <last-pattern>outline</last-pattern>
+      <last-pattern>manage</last-pattern>
       <last-replace>8</last-replace>
       <last-substitute>9</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -269,6 +273,7 @@
         <entry>問い合わせ</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>outline</entry>
+        <entry>manage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
