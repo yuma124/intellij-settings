@@ -23,9 +23,9 @@
         <mark key="." line="66" column="58" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/docker/db/init.d/data/V2.0__master.sql" timestamp="1484816932695">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1484624008325">
         <mark key="[" line="0" column="0" />
@@ -260,11 +260,10 @@
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVbnJlZ2lzdGVyZWRBY2NvdW50TWFpbEFkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDx2ZXJpZnlNYWlsQWRkcmVzc1w+</entry>
         <entry encoding="base64">XDxXaXRoTW9ja1VzZXJcPg==</entry>
         <entry>createdAt</entry>
