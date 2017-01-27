@@ -8,14 +8,7 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_button.scss" timestamp="1484880003827">
-        <mark key="'" line="175" column="11" />
-        <mark key="[" line="79" column="17" />
-        <mark key="]" line="80" column="25" />
-        <mark key="." line="80" column="25" />
-        <mark key="^" line="80" column="25" />
-      </file>
-      <file name="/a.dummy" timestamp="1485481700122">
+      <file name="/a.dummy" timestamp="1485499349263">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1485415259794">
@@ -62,15 +55,25 @@
         <mark key="^" line="267" column="57" />
         <mark key="." line="267" column="57" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/error.html" timestamp="1485498042698">
+        <mark key="[" line="21" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1484303488113">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/404.html" timestamp="1485497216769">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/404.html" timestamp="1485500043009">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1485498311027" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/500.html" timestamp="1485500052422">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="23" column="63" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1484731223858">
         <mark key="[" line="0" column="0" />
@@ -81,27 +84,26 @@
         <mark key="." line="73" column="72" />
         <mark key="^" line="73" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/messageBoard.html" timestamp="1484571663904">
-        <mark key="'" line="25" column="98" />
-        <mark key="[" line="66" column="57" />
-        <mark key="]" line="66" column="58" />
-        <mark key="^" line="66" column="119" />
-        <mark key="." line="66" column="58" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/ProfileForm.java" timestamp="1485419717856">
         <mark key="[" line="79" column="61" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/controller/ErrorController.java" timestamp="1485499379135" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/edit.html" timestamp="1484879418479">
         <mark key="[" line="103" column="108" />
         <mark key="]" line="103" column="108" />
         <mark key="." line="103" column="108" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/fragment/detail.html" timestamp="1484623998516">
-        <mark key="'" line="17" column="25" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/403.html" timestamp="1485500048101">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/503.html" timestamp="1485500056501">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="23" column="62" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1485419735771">
         <mark key="[" line="97" column="41" />
@@ -109,31 +111,12 @@
         <mark key="^" line="98" column="10" />
         <mark key="." line="98" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1485224560834">
-        <mark key="'" line="56" column="35" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/controller/form/AccountForm.java" timestamp="1485498290744" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1485485510509">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="105" />
         <mark key="." line="93" column="92" />
         <mark key="^" line="93" column="91" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/community/detail.html" timestamp="1484570590103">
-        <mark key="'" line="244" column="10" />
-        <mark key="[" line="193" column="110" />
-        <mark key="]" line="193" column="132" />
-        <mark key="." line="193" column="132" />
-        <mark key="^" line="193" column="132" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1485232842479">
-        <mark key="'" line="56" column="4" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="54" />
-        <mark key="^" line="99" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1485241648020">
         <mark key="[" line="93" column="171" />
@@ -141,7 +124,7 @@
         <mark key="." line="93" column="173" />
         <mark key="^" line="93" column="173" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1484879427608">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1485499477424">
         <mark key="[" line="65" column="29" />
         <mark key="]" line="65" column="29" />
         <mark key="." line="65" column="29" />
@@ -166,13 +149,6 @@
         <mark key="[" line="61" column="29" />
         <mark key="]" line="61" column="29" />
         <mark key="." line="61" column="29" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/detail.html" timestamp="1484629806479">
-        <mark key="'" line="204" column="23" />
-        <mark key="[" line="108" column="10" />
-        <mark key="]" line="108" column="8" />
-        <mark key="^" line="108" column="8" />
-        <mark key="." line="108" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1485242605171">
         <mark key="[" line="0" column="0" />
@@ -282,10 +258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iZXJyb3IgLSBBQ1RJVklUSUVTIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIvPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2Vycm9yIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9hc3NldHMvaW1nL29ncC5wbmciLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkFDVElWSVRJRVPvvIjjgqLjgq/jg4bjgqPjg5Pjg4bjgqPjg7zjgrrvvIkiLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0i6Laj5ZGz44KC5a2m44Gz44KC5Luy6ZaT44GM44GE44KM44Gw44CB44KC44Gj44Go5qW944GX44GE44CC44COQUNUSVZJVElFU++8iOOCouOCr+ODhuOCo+ODk+ODhuOCo+ODvOOCuu+8ieOAj+OBr+ODmeODjeODleOCo+ODg+ODiOODu+OCueODhuODvOOCt+ODp+ODs+S8muWToeOBruaWueWQjOWjq+OBp+OAjOS8gealreOAjeOCkui2heOBiOOBpuOAgeOBguOBquOBn+OBruihl+OBruS7sumWk+OBqOS4gOe3kuOBq+KAnemBiuOBueOCi+KAneKAneWtpuOBueOCi+KAneOAgeWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCueOBp+OBmeOAgiIvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>coupon</text>
@@ -294,34 +270,34 @@
         <text encoding="base64">ICAgIGJlbmVmaXRMb2dpbjogaHR0cHM6Ly90ZXN0LmJlbmUtc3QuanAvYnMvcGFnZXMvYnMvY21uL291dEJvdW5kTG9naW4uZmFjZXM/cGlkPTAwODg5NzE5ODkgIyDnlo7pgJrjg4bjgrnjg4jnlKjjga5VUkwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iZXJyb3IgLSBBQ1RJVklUSUVTIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIvPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2Vycm9yIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9hc3NldHMvaW1nL29ncC5wbmciLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkFDVElWSVRJRVPvvIjjgqLjgq/jg4bjgqPjg5Pjg4bjgqPjg7zjgrrvvIkiLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0i6Laj5ZGz44KC5a2m44Gz44KC5Luy6ZaT44GM44GE44KM44Gw44CB44KC44Gj44Go5qW944GX44GE44CC44COQUNUSVZJVElFU++8iOOCouOCr+ODhuOCo+ODk+ODhuOCo+ODvOOCuu+8ieOAj+OBr+ODmeODjeODleOCo+ODg+ODiOODu+OCueODhuODvOOCt+ODp+ODs+S8muWToeOBruaWueWQjOWjq+OBp+OAjOS8gealreOAjeOCkui2heOBiOOBpuOAgeOBguOBquOBn+OBruihl+OBruS7sumWk+OBqOS4gOe3kuOBq+KAnemBiuOBueOCi+KAneKAneWtpuOBueOCi+KAneOAgeWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCueOBp+OBmeOAgiIvPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJlbmVmaXRMb2dpbjogaHR0cHM6Ly90ZXN0YnMuYmVuZWZpdC10ZXN0LmpwL2JzL3BhZ2VzL2JzL2Ntbi9vdXRCb3VuZExvZ2luLmZhY2VzP3BpZD0wMDg4OTcxOTg5ICMg55aO6YCa44OG44K544OI55So44GuVVJMCg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iZXJyb3IgLSBBQ1RJVklUSUVTIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIvPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2Vycm9yIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9hc3NldHMvaW1nL29ncC5wbmciLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkFDVElWSVRJRVPvvIjjgqLjgq/jg4bjgqPjg5Pjg4bjgqPjg7zjgrrvvIkiLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0i6Laj5ZGz44KC5a2m44Gz44KC5Luy6ZaT44GM44GE44KM44Gw44CB44KC44Gj44Go5qW944GX44GE44CC44COQUNUSVZJVElFU++8iOOCouOCr+ODhuOCo+ODk+ODhuOCo+ODvOOCuu+8ieOAj+OBr+ODmeODjeODleOCo+ODg+ODiOODu+OCueODhuODvOOCt+ODp+ODs+S8muWToeOBruaWueWQjOWjq+OBp+OAjOS8gealreOAjeOCkui2heOBiOOBpuOAgeOBguOBquOBn+OBruihl+OBruS7sumWk+OBqOS4gOe3kuOBq+KAnemBiuOBueOCi+KAneKAneWtpuOBueOCi+KAneOAgeWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCueOBp+OBmeOAgiIvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgo=</text>
+        <text encoding="base64">ICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iZXJyb3IgLSBBQ1RJVklUSUVTIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIvPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2Vycm9yIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9hc3NldHMvaW1nL29ncC5wbmciLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkFDVElWSVRJRVPvvIjjgqLjgq/jg4bjgqPjg5Pjg4bjgqPjg7zjgrrvvIkiLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0i6Laj5ZGz44KC5a2m44Gz44KC5Luy6ZaT44GM44GE44KM44Gw44CB44KC44Gj44Go5qW944GX44GE44CC44COQUNUSVZJVElFU++8iOOCouOCr+ODhuOCo+ODk+ODhuOCo+ODvOOCuu+8ieOAj+OBr+ODmeODjeODleOCo+ODg+ODiOODu+OCueODhuODvOOCt+ODp+ODs+S8muWToeOBruaWueWQjOWjq+OBp+OAjOS8gealreOAjeOCkui2heOBiOOBpuOAgeOBguOBquOBn+OBruihl+OBruS7sumWk+OBqOS4gOe3kuOBq+KAnemBiuOBueOCi+KAneKAneWtpuOBueOCi+KAneOAgeWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCueOBp+OBmeOAgiIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog44Ot44O844Kr44Or6ZaL55m655So44Gr44Gq44KL44Gf44KBIEBQcm9maWxlKCJsb2NhbCIpIOOBqOOBmeOCi+OAggo=</text>
+        <text encoding="base64">ICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iZXJyb3IgLSBBQ1RJVklUSUVTIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6dHlwZSIgY29udGVudD0id2Vic2l0ZSIvPgogICAgPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2Vycm9yIi8+CiAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9hc3NldHMvaW1nL29ncC5wbmciLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9IkFDVElWSVRJRVPvvIjjgqLjgq/jg4bjgqPjg5Pjg4bjgqPjg7zjgrrvvIkiLz4KICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD0i6Laj5ZGz44KC5a2m44Gz44KC5Luy6ZaT44GM44GE44KM44Gw44CB44KC44Gj44Go5qW944GX44GE44CC44COQUNUSVZJVElFU++8iOOCouOCr+ODhuOCo+ODk+ODhuOCo+ODvOOCuu+8ieOAj+OBr+ODmeODjeODleOCo+ODg+ODiOODu+OCueODhuODvOOCt+ODp+ODs+S8muWToeOBruaWueWQjOWjq+OBp+OAjOS8gealreOAjeOCkui2heOBiOOBpuOAgeOBguOBquOBn+OBruihl+OBruS7sumWk+OBqOS4gOe3kuOBq+KAnemBiuOBueOCi+KAneKAneWtpuOBueOCi+KAneOAgeWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCueOBp+OBmeOAgiIvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Il9jc3JmIiBjb250ZW50PSIxY2ZhMDM1Zi1kZGY1LTRhOTYtODIzZS1iMTQzMzA2ZjYxZDIiLz4KICAgIDxtZXRhIG5hbWU9Il9jc3JmX2hlYWRlciIgY29udGVudD0iWC1DU1JGLVRPS0VOIi8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogPHA+Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Il9jc3JmIiBjb250ZW50PSIxY2ZhMDM1Zi1kZGY1LTRhOTYtODIzZS1iMTQzMzA2ZjYxZDIiLz4KICAgIDxtZXRhIG5hbWU9Il9jc3JmX2hlYWRlciIgY29udGVudD0iWC1DU1JGLVRPS0VOIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJlbmVmaXRMb2dpbjogJHtjcGYudXJscy5iYXNlfS9iZW5lZml0L2xvZ2luICMgVE9ETyDjg5njg43jg5XjgqPjg4Pjg4jlgbTjg4bjgrnjg4jpgKPmkLrlhYjjgavlpInmm7QK</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Il9jc3JmIiBjb250ZW50PSIxY2ZhMDM1Zi1kZGY1LTRhOTYtODIzZS1iMTQzMzA2ZjYxZDIiLz4KICAgIDxtZXRhIG5hbWU9Il9jc3JmX2hlYWRlciIgY29udGVudD0iWC1DU1JGLVRPS0VOIi8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgoK</text>
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9Il9jc3JmIiBjb250ZW50PSIxY2ZhMDM1Zi1kZGY1LTRhOTYtODIzZS1iMTQzMzA2ZjYxZDIiLz4KICAgIDxtZXRhIG5hbWU9Il9jc3JmX2hlYWRlciIgY29udGVudD0iWC1DU1JGLVRPS0VOIi8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzMzoKICAgIGltYWdlOiBtaW5pby9taW5pbzpSRUxFQVNFLjIwMTYtMDctMTNUMjEtNDYtMDVaCiAgICBjb250YWluZXJfbmFtZTogImtvaXMzIgogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1JTklPX0FDQ0VTU19LRVk6IEFLSUFJT1NGT0ROTjdFWEFNUExFCiAgICAgIE1JTklPX1NFQ1JFVF9LRVk6IHdKYWxyWFV0bkZFTUkvSzdNREVORy9iUHhSZmlDWUVYQU1QTEVLRVkKICAgIHBvcnRzOgogICAgICAtICIyOTAwMDo5MDAwIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1x0Ly8=</text>
@@ -397,6 +373,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
