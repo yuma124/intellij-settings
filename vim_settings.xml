@@ -77,9 +77,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" timestamp="1485853956534">
-        <mark key="'" line="261" column="91" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/500.html" timestamp="1485500052422">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -173,6 +170,7 @@
       <file name="/fragment.java" timestamp="1485242605171">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/list.html" timestamp="1485855181628" />
     </filemarks>
     <jumps>
       <jump line="220" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
