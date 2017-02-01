@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/registry/StringConvertFormatterRegistrar.java" timestamp="1485917737346" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1485917877678" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/docker/db/init.d/data/V2.0__master.sql" timestamp="1484816932695">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -170,7 +172,6 @@
       <file name="/fragment.java" timestamp="1485242605171">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/fragment/list.html" timestamp="1485855181628" />
     </filemarks>
     <jumps>
       <jump line="220" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
@@ -328,12 +329,10 @@
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createdAt</entry>
-        <entry>updatedAt</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxtYWlsQWRkcmVzc1w+</entry>
