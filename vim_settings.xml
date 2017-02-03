@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/registry/StringConvertFormatterRegistrar.java" timestamp="1485917737346" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/component/format/annotation/TrimConvert.java" timestamp="1485917877678" />
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/validator/CpfMailValidator.java" timestamp="1485919774293" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/docker/db/init.d/data/V2.0__master.sql" timestamp="1484816932695">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -55,7 +52,8 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/list.html" timestamp="1485852103331">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" timestamp="1484623896743">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" timestamp="1486087369185">
+        <mark key="'" line="86" column="16" />
         <mark key="[" line="267" column="57" />
         <mark key="]" line="267" column="57" />
         <mark key="^" line="267" column="57" />
@@ -132,6 +130,7 @@
         <mark key="^" line="98" column="10" />
         <mark key="." line="98" column="10" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1486087559656" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1485485510509">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="105" />
@@ -175,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="229" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="244" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="337" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
@@ -275,6 +273,7 @@
       <jump line="256" column="63" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
       <jump line="257" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
       <jump line="261" column="91" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
+      <jump line="86" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -284,7 +283,7 @@
         <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>注意事項</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ggInRhciB6eHZmIC93ZWJ0c3QvZGJob21lL3JlbGVhc2UvJHtNT0RVTEV9LyR7TU9EVUxFfS1hc3NldHMudGd6IC1DICR7QVNTRVRTX0RJUn0iCg==</text>
@@ -324,13 +323,13 @@
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>注意事項</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>注意事項</last-pattern>
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -354,6 +353,7 @@
         <entry>coupon</entry>
         <entry>selectMy</entry>
         <entry>delete</entry>
+        <entry>注意事項</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
