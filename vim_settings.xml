@@ -34,6 +34,9 @@
         <mark key="." line="93" column="70" />
         <mark key="^" line="93" column="70" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" timestamp="1486098869280">
+        <mark key="'" line="119" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/inputMailAddress.html" timestamp="1484300683054">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="75" />
@@ -84,6 +87,7 @@
         <mark key="^" line="23" column="63" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" timestamp="1486098794810" />
       <file name="/Dummy.txt" timestamp="1484731223858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,10 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="244" column="12" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="337" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="418" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="419" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="420" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="444" column="45" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
@@ -273,6 +273,10 @@
       <jump line="257" column="29" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
       <jump line="261" column="91" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" />
       <jump line="86" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" />
+      <jump line="146" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
+      <jump line="234" column="11" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
+      <jump line="21" column="14" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
+      <jump line="119" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -282,7 +286,7 @@
         <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text>注意事項</text>
+        <text encoding="base64">XDxwcm9qZWN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ggInRhciB6eHZmIC93ZWJ0c3QvZGJob21lL3JlbGVhc2UvJHtNT0RVTEV9LyR7TU9EVUxFfS1hc3NldHMudGd6IC1DICR7QVNTRVRTX0RJUn0iCg==</text>
@@ -322,13 +326,13 @@
       </register>
     </registers>
     <search>
-      <last-search>注意事項</last-search>
+      <last-search encoding="base64">XDxwcm9qZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>注意事項</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9qZWN0XD4=</last-pattern>
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -352,6 +356,7 @@
         <entry>selectMy</entry>
         <entry>delete</entry>
         <entry>注意事項</entry>
+        <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
