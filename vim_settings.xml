@@ -87,7 +87,6 @@
         <mark key="^" line="23" column="63" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" timestamp="1486098794810" />
       <file name="/Dummy.txt" timestamp="1484731223858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,10 +140,10 @@
         <mark key="^" line="93" column="91" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1485241648020">
-        <mark key="[" line="93" column="171" />
-        <mark key="]" line="93" column="173" />
-        <mark key="." line="93" column="173" />
-        <mark key="^" line="93" column="173" />
+        <mark key="[" line="86" column="171" />
+        <mark key="]" line="86" column="173" />
+        <mark key="." line="86" column="173" />
+        <mark key="^" line="86" column="173" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1485499477424">
         <mark key="[" line="65" column="29" />
@@ -286,7 +285,7 @@
         <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0XD4=</text>
+        <text>blank</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ggInRhciB6eHZmIC93ZWJ0c3QvZGJob21lL3JlbGVhc2UvJHtNT0RVTEV9LyR7TU9EVUxFfS1hc3NldHMudGd6IC1DICR7QVNTRVRTX0RJUn0iCg==</text>
@@ -326,9 +325,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0XD4=</last-search>
+      <last-search>blank</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0XD4=</last-pattern>
+      <last-pattern>blank</last-pattern>
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxtYWlsQWRkcmVzc1w+</entry>
         <entry>c-button</entry>
         <entry>js-fixe</entry>
@@ -357,6 +355,7 @@
         <entry>delete</entry>
         <entry>注意事項</entry>
         <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
+        <entry>blank</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
