@@ -8,7 +8,7 @@
         <mark key="]" line="148" column="0" />
         <mark key="." line="148" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1486088253776">
+      <file name="/a.dummy" timestamp="1486090552994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1485415259794">
@@ -130,7 +130,6 @@
         <mark key="^" line="98" column="10" />
         <mark key="." line="98" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/eventManage/input.html" timestamp="1486087559656" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1485485510509">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="105" />
@@ -329,11 +328,10 @@
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry encoding="base64">XDxtYWlsQWRkcmVzc1w+</entry>
         <entry>c-button</entry>
