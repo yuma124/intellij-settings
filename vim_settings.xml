@@ -139,6 +139,12 @@
         <mark key="." line="93" column="92" />
         <mark key="^" line="93" column="91" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1486476053793">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="35" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1485241648020">
         <mark key="[" line="86" column="171" />
         <mark key="]" line="86" column="173" />
@@ -279,11 +285,11 @@
       <jump line="119" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyIHpjdmYgJHtNT0RVTEV9LWVycm9yLnRneiBlcnJvci8K</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>assets</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>blank</text>
