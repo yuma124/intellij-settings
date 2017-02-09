@@ -87,6 +87,9 @@
         <mark key="^" line="23" column="63" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1486622109584">
+        <mark key="'" line="45" column="13" />
+      </file>
       <file name="/Dummy.txt" timestamp="1484731223858">
         <mark key="[" line="0" column="0" />
       </file>
@@ -182,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="419" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="420" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="444" column="45" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="446" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
@@ -282,6 +284,7 @@
       <jump line="234" column="11" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
       <jump line="21" column="14" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
       <jump line="119" column="1" filename="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" />
+      <jump line="45" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,7 +294,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>blank</text>
+        <text>onetime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ggInRhciB6eHZmIC93ZWJ0c3QvZGJob21lL3JlbGVhc2UvJHtNT0RVTEV9LyR7TU9EVUxFfS1hc3NldHMudGd6IC1DICR7QVNTRVRTX0RJUn0iCg==</text>
@@ -331,13 +334,13 @@
       </register>
     </registers>
     <search>
-      <last-search>blank</last-search>
+      <last-search>onetime</last-search>
       <last-offset />
-      <last-pattern>blank</last-pattern>
+      <last-pattern>onetime</last-pattern>
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -361,6 +364,7 @@
         <entry>注意事項</entry>
         <entry encoding="base64">XDxwcm9qZWN0XD4=</entry>
         <entry>blank</entry>
+        <entry>onetime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
