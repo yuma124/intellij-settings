@@ -71,6 +71,9 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/error.html" timestamp="1485498042698">
         <mark key="[" line="21" column="14" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" timestamp="1486713073509">
+        <mark key="'" line="23" column="58" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_footer.scss" timestamp="1484303488113">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -199,12 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
-      <jump line="356" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
-      <jump line="405" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
-      <jump line="418" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
-      <jump line="431" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
-      <jump line="444" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
       <jump line="467" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
       <jump line="490" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
       <jump line="513" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/AccountRegistrationServiceTest.groovy" />
@@ -299,6 +296,12 @@
       <jump line="155" column="104" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
       <jump line="245" column="32" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
       <jump line="246" column="18" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" />
+      <jump line="172" column="71" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
+      <jump line="37" column="52" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
+      <jump line="187" column="57" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
+      <jump line="4" column="26" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
+      <jump line="6" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
+      <jump line="23" column="58" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -308,7 +311,7 @@
         <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>coupon</text>
+        <text>pageTitle</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I+ODoeODvOODq+ODmOODg+ODgOODvOWumue+qQpNQUlMX0JPRFk9Li9tYWlsX2JvZHkudHh0Ck1BSUxfRlJPTT0ke1NJVEVfUFJFRklYfUFDVElWSVRJRVPpgYvnlKjnrqHnkIbjgrfjgrnjg4bjg6BcPGFkbWluQCRET01BSU5cPgpNQUlMX1RPPeOCvOOCr+OCt+OCo++8o++8sO+8puODl+ODreOCuOOCp+OCr+ODiO+8re+8rFw8emV4eV9jcGZAbWwuY29jb3JvdS5qcFw+Ck1BSUxfU1VCSkVDVD0ke1NJVEVfUFJFRklYfUFDVElWSVRJRVPjg6Ljg4vjgr/jg6rjg7PjgrDntZDmnpwke1RBUkdFVF9EQVRFfQpNQUlMX0JPVU5EQVJZPWBkYXRlICslWSVtJWQlSCVNJU5gCg==</text>
@@ -348,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>coupon</last-search>
+      <last-search>pageTitle</last-search>
       <last-offset />
-      <last-pattern>coupon</last-pattern>
+      <last-pattern>pageTitle</last-pattern>
       <last-replace />
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
@@ -379,6 +382,7 @@
         <entry>onetime</entry>
         <entry encoding="base64">XDxkZWxldGVCeWNvbW11bml0eUlkXD4=</entry>
         <entry>coupon</entry>
+        <entry>pageTitle</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
