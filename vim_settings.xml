@@ -8,11 +8,11 @@
         <mark key="]" line="1175" column="0" />
         <mark key="." line="1175" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/account/withdrawSuccess.scss" timestamp="1488283689240">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/account/withdrawSuccess.scss" timestamp="1488334704308">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1485415259794">
         <mark key="[" line="31" column="5" />
@@ -47,10 +47,19 @@
         <mark key="]" line="26" column="126" />
         <mark key="." line="67" column="9" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/profile/show.scss" timestamp="1488185559503">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/community/detail.scss" timestamp="1488334673799">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/net/zexy/cpf/admin/repository/AccountJoinCommunityRepository.xml" timestamp="1488276826148">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="20" column="82" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/profile/show.scss" timestamp="1488334911285">
+        <mark key="[" line="72" column="20" />
+        <mark key="]" line="72" column="24" />
+        <mark key="." line="72" column="24" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/application-unit.yml" timestamp="1485152577513">
         <mark key="[" line="36" column="0" />
@@ -97,6 +106,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityManageController.java" timestamp="1488278927771">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="229" column="44" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/static/assets/css/default.css" timestamp="1485827337602">
         <mark key="[" line="290" column="37" />
         <mark key="]" line="291" column="23" />
@@ -138,6 +151,10 @@
         <mark key="^" line="35" column="58" />
         <mark key="." line="35" column="58" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/repository/UndeliveredMailRepository.java" timestamp="1488278012506">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="62" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1485241648020">
         <mark key="[" line="86" column="171" />
         <mark key="]" line="86" column="173" />
@@ -165,6 +182,10 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityDetailService.java" timestamp="1488280890579">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="62" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/docker/db/init.d/data/V2.0__master.sql" timestamp="1484816932695">
         <mark key="[" line="148" column="0" />
@@ -250,6 +271,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/net/zexy/cpf/admin/repository/AccountRepository.xml" timestamp="1488276296087">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="109" column="12" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/MailSendService.java" timestamp="1488284015829">
         <mark key="'" line="58" column="71" />
         <mark key="[" line="222" column="34" />
@@ -298,11 +323,11 @@
         <mark key="]" line="30" column="34" />
         <mark key="." line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1488283964805">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="70" column="73" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1488335157069">
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="49" />
+        <mark key="." line="60" column="49" />
+        <mark key="^" line="60" column="49" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/staging/jenkins/deploy-cpf-web-staging" timestamp="1485512722779">
         <mark key="[" line="14" column="0" />
@@ -325,6 +350,10 @@
         <mark key="]" line="98" column="10" />
         <mark key="^" line="98" column="10" />
         <mark key="." line="98" column="10" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/messages.properties" timestamp="1488278400920">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="73" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1488281693573">
         <mark key="[" line="73" column="19" />
@@ -354,6 +383,10 @@
         <mark key="]" line="60" column="24" />
         <mark key="." line="60" column="24" />
         <mark key="^" line="60" column="24" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/java/net/zexy/cpf/admin/service/AccountDetailService.java" timestamp="1488277680184">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="128" column="4" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/mail/inviteCommunity.txt" timestamp="1488281219838">
         <mark key="[" line="26" column="0" />
@@ -489,49 +522,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>INVITE_COMMUNITY_BODY</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>INVITE_COMMUNITY_BODY</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>withdraw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJyZWRpcmVjdDovd2l0aGRyYXciOwo=</text>
+        <text encoding="base64">ICAgICZfX2JvZHkgewogICAgICAgIGZvbnQtc2l6ZTogMS4xcmVtOwogICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8dGg6YmxvY2sgdGg6aW5jbHVkZT0iZnJhZ21lbnQvbWV0YTo6Y3NyZiIvPgo=</text>
+        <text encoding="base64">ICAgICAgICBmb250LXNpemU6IDEuMXJlbTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
+        <text encoding="base64">ICAgIHRleHQtYWxpZ246IGNlbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LnAtZm9ybSB7CiAgcGFkZGluZzogMzBweCAwIDIwcHg7Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMzBweCAzMHB4IDA7CiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMS42ZW07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIEBtZWRpYSAgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImwtZ3V0dGVyIj4K</text>
+        <text encoding="base64">ICAgIGxpbmUtaGVpZ2h0OiAxLjRlbTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8dGg6YmxvY2sgdGg6aW5jbHVkZT0iZnJhZ21lbnQvbWV0YTo6Y3NyZiIvPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImwtZ3V0dGVyIj4K</text>
+        <text encoding="base64">LnAtZm9ybSB7CiAgcGFkZGluZzogMzBweCAwIDIwcHg7Cn0KCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0lOUFVUX0NPVVBPTi9XSVRIRFJBVy9n</text>
