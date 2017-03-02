@@ -30,13 +30,6 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="26" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/show.html" timestamp="1488281916583">
-        <mark key="'" line="55" column="45" />
-        <mark key="[" line="56" column="52" />
-        <mark key="]" line="56" column="52" />
-        <mark key="^" line="56" column="37" />
-        <mark key="." line="56" column="52" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/community/detail.scss" timestamp="1488334673799">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="49" column="4" />
@@ -186,23 +179,9 @@
         <mark key="." line="111" column="30" />
         <mark key="^" line="111" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/communityManage/inputCoupon.html" timestamp="1488183531823">
-        <mark key="'" line="23" column="58" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="82" />
-        <mark key="." line="23" column="61" />
-        <mark key="^" line="23" column="61" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/net/zexy/cpf/admin/repository/AccountRepository.xml" timestamp="1488276296087">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="109" column="12" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/MailSendService.java" timestamp="1488284015829">
-        <mark key="'" line="58" column="71" />
-        <mark key="[" line="222" column="34" />
-        <mark key="]" line="222" column="54" />
-        <mark key="." line="222" column="54" />
-        <mark key="^" line="222" column="54" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/filter/BenefitCoordinationFilter.java" timestamp="1488173094955">
         <mark key="[" line="69" column="5" />
@@ -216,13 +195,6 @@
         <mark key="." line="496" column="20" />
         <mark key="^" line="496" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1488282824863">
-        <mark key="'" line="30" column="26" />
-        <mark key="[" line="69" column="34" />
-        <mark key="]" line="69" column="34" />
-        <mark key="." line="69" column="34" />
-        <mark key="^" line="69" column="33" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" timestamp="1488417811690">
         <mark key="'" line="233" column="34" />
         <mark key="[" line="245" column="0" />
@@ -234,6 +206,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="23" column="63" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1488445777828">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1485339418347">
         <mark key="[" line="73" column="72" />
