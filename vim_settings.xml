@@ -179,10 +179,10 @@
         <mark key="^" line="44" column="47" />
         <mark key="." line="44" column="17" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1488281707868">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="52" />
-        <mark key="." line="65" column="43" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-development.yml" timestamp="1488527862614">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="80" />
+        <mark key="." line="87" column="0" />
         <mark key="^" line="65" column="43" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" timestamp="1487675997622">
@@ -266,11 +266,16 @@
         <mark key="^" line="98" column="10" />
         <mark key="." line="98" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1488281715999">
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="23" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-production.yml" timestamp="1488527888673">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="80" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-staging.yml" timestamp="1488527874995">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="80" />
         <mark key="^" line="65" column="23" />
-        <mark key="." line="65" column="23" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/PersistentLoginsRepository.xml" timestamp="1488277910879">
         <mark key="[" line="2" column="32" />
@@ -278,18 +283,11 @@
         <mark key="." line="2" column="34" />
         <mark key="^" line="2" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1488527755606">
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="89" column="74" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1488527855430">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="80" />
         <mark key="." line="89" column="74" />
         <mark key="^" line="89" column="74" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/messages.properties" timestamp="1488503441626">
-        <mark key="'" line="46" column="19" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="24" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="64" column="25" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/resources/application-test-common.yml" timestamp="1488281685532">
         <mark key="[" line="37" column="19" />
@@ -416,8 +414,8 @@
       <jump line="5" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd2l0aGRyYXdOb3RlcyA6ICR7Y3BmLnN0YXRpYy1jb250ZW50cy5iYXNlLWRpcn0vaW5jbHVkZS93aXRoZHJhd05vdGVzLmh0bWwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -426,7 +424,7 @@
         <text>static</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWFpbnRlbmFuY2VJbmZvU3BNeVRvcCA6ICR7Y3BmLnN0YXRpYy1jb250ZW50cy5iYXNlLWRpcn0vaW5jbHVkZS9tYWludGVuYW5jZUluZm9TcE15VG9wLmh0bWwK</text>
+        <text encoding="base64">ICAgICAgd2l0aGRyYXdOb3RlcyA6ICR7Y3BmLnN0YXRpYy1jb250ZW50cy5iYXNlLWRpcn0vaW5jbHVkZS93aXRoZHJhd05vdGVzLmh0bWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0icC13aXRoZHJhd19fY2F1dGlvbiI+CiAgICAgICAgICAgICAgICDpgIDkvJrlvozjgavkvJrlk6Hmg4XloLHjgpLlvqnlhYPjgZnjgovjgZPjgajjga/jgafjgY3jgb7jgZvjgpPjga7jgafjgZTms6jmhI/jgY/jgaDjgZXjgYTjgIIKICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgPHAgY2xhc3M9InUtbXQxMCI+CiAgICAgICAgICAgICAgICDjgb7jgZ/jgIHplovlgqzkuojlrprjga7jgqTjg5njg7Pjg4jjgavlj4LliqDkuK3jga7loLTlkIjjga/pgIDkvJrjgafjgY3jgb7jgZvjgpPjgII8YnI+CiAgICAgICAgICAgICAgICDjgqTjg5njg7Pjg4jjgYzntYLkuobjgZfjgabjgYvjgonjgIHjgoLjgZfjgY/jga/lj4LliqDjga7jgq3jg6Pjg7Pjgrvjg6vjgpLooYzjgarjgaPjgabjgYvjgonpgIDkvJrmiYvntprjgY3jgpLooYzjgaPjgabjgY/jgaDjgZXjgYTjgIIKICAgICAgICAgICAgICA8L3A+Cg==</text>
