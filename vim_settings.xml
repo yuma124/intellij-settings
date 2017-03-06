@@ -9,7 +9,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="19" />
       </file>
-      <file name="/a.dummy" timestamp="1488772736642">
+      <file name="/a.dummy" timestamp="1488773045343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1488537533781">
@@ -121,10 +121,10 @@
         <mark key="." line="722" column="80" />
         <mark key="^" line="722" column="80" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/gulpfile.js" timestamp="1488771999765">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/gulpfile.js" timestamp="1488773492998">
+        <mark key="[" line="19" column="48" />
+        <mark key="]" line="19" column="48" />
+        <mark key="." line="19" column="48" />
         <mark key="^" line="76" column="42" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/WithdrawRepository.xml" timestamp="1488456147779">
@@ -423,11 +423,11 @@
       <jump line="84" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFpbEFmdGVyRXJyb3I6IGZhbHNlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>, '!./src/web/scss/vendor/*'</text>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>, '!./src/web/scss/vendor/*'</text>
       </register>
       <register name="/" type="4">
         <text>status</text>
