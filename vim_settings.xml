@@ -25,9 +25,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.java" timestamp="1488965705376">
-        <mark key="'" line="150" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/community/list.scss" timestamp="1488795891857">
         <mark key="[" line="33" column="6" />
         <mark key="]" line="33" column="6" />
@@ -177,6 +174,12 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.xml" timestamp="1489055547728">
+        <mark key="[" line="350" column="16" />
+        <mark key="]" line="350" column="46" />
+        <mark key="." line="350" column="46" />
+        <mark key="^" line="350" column="46" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/community.html" timestamp="1488956334910">
         <mark key="[" line="86" column="157" />
         <mark key="]" line="86" column="158" />
@@ -272,12 +275,6 @@
         <mark key="]" line="69" column="6" />
         <mark key="." line="69" column="5" />
         <mark key="^" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountRepository.xml" timestamp="1488965740129">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="^" line="170" column="98" />
-        <mark key="." line="243" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventDetailService.java" timestamp="1489046245790" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/500.html" timestamp="1488795190675">
@@ -462,10 +459,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym94IA==</text>
+        <text>selectInsert</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym94IA==</text>
+        <text>selectInsert</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
