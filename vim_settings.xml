@@ -204,6 +204,12 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/gulpfile.js" timestamp="1489111844375">
+        <mark key="[" line="86" column="40" />
+        <mark key="]" line="86" column="49" />
+        <mark key="." line="86" column="49" />
+        <mark key="^" line="86" column="49" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_button.scss" timestamp="1488795474292">
         <mark key="[" line="190" column="5" />
         <mark key="]" line="190" column="5" />
@@ -264,7 +270,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/.stylelintrc" timestamp="1489109558365">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/.stylelintrc" timestamp="1489110486724">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="40" />
         <mark key="." line="1" column="40" />
@@ -457,16 +463,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>**/*.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>**/*.</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InNlYXJjaENvbmRpdGlvbi5hY2NvdW50SWQgIT0gbnVsbCI+CiAgICAgICAgICAgICAgICAsIEFKRS5hY2NlcHRTdGF0dXMKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InNlYXJjaENvbmRpdGlvbi5hY2NvdW50SWQgPT0gbnVsbCI+CiAgICAgICAgICAgICAgICAsIE5VTEwgQVMgYWNjZXB0U3RhdHVzCiAgICAgICAgICAgIDwvaWY+Cg==</text>
+      <register name="0" type="4">
+        <text>'./src/web/scss/**/*.scss'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAicnVsZXMiOiB7CiAgICAiYXQtcnVsZS1lbXB0eS1saW5lLWJlZm9yZSI6IG51bGwsCiAgICAiYmxvY2stY2xvc2luZy1icmFjZS1uZXdsaW5lLWFmdGVyIjogWyJhbHdheXMiLCB7CiAgICAgICJpZ25vcmVBdFJ1bGVzIjogWwogICAgICAgICJpZiIsCiAgICAgICAgImVsc2UiCiAgICAgIF0KICAgIH1dLAogICAgImRlY2xhcmF0aW9uLWVtcHR5LWxpbmUtYmVmb3JlIjogbnVsbCwKICAgICJjb21tZW50LWVtcHR5LWxpbmUtYmVmb3JlIjogbnVsbCwKICAgICJsZW5ndGgtemVyby1uby11bml0IjogbnVsbCwKICAgICJwcm9wZXJ0eS1uby11bmtub3duIjogbnVsbAogIH0K</text>
