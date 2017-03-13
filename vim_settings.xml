@@ -374,6 +374,9 @@
         <mark key="^" line="336" column="1" />
         <mark key="." line="336" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/accounts.html" timestamp="1489387645572">
+        <mark key="'" line="49" column="97" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdrawComplete.html" timestamp="1488877697413">
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="37" />
@@ -382,9 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="34" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="173" column="37" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
-      <jump line="177" column="21" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="178" column="21" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="179" column="39" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
       <jump line="183" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/AccountController.java" />
@@ -482,6 +482,9 @@
       <jump line="34" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.6/758721dd7e0d44edbc1048c47a8b7c56e6ba1c9d/tomcat-embed-core-8.5.6-sources.jar!/javax/servlet/http/HttpServletRequest.java" />
       <jump line="474" column="26" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.6/758721dd7e0d44edbc1048c47a8b7c56e6ba1c9d/tomcat-embed-core-8.5.6-sources.jar!/javax/servlet/http/HttpServletRequest.java" />
       <jump line="477" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.6/758721dd7e0d44edbc1048c47a8b7c56e6ba1c9d/tomcat-embed-core-8.5.6-sources.jar!/javax/servlet/http/HttpServletRequest.java" />
+      <jump line="21" column="43" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/accounts.html" />
+      <jump line="23" column="97" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/accounts.html" />
+      <jump line="49" column="97" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/fragment/accounts.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,7 +494,7 @@
         <text>loginAccountDetails.getAccount().getAccountId()</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>nickname</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICZfX3dpdGhkcmF3IHsKICAgICAgICBtYXJnaW46IDIwcHggMTBweDsKICAgICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgIH0K</text>
@@ -534,13 +537,13 @@
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>nickname</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
+      <last-pattern>nickname</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">LSAgICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -564,6 +567,7 @@
         <entry>proc</entry>
         <entry>update</entry>
         <entry>logout</entry>
+        <entry>nickname</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
