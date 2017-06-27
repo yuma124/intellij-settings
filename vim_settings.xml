@@ -41,7 +41,7 @@
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1497592844734">
+      <file name="/a.dummy" timestamp="1498543227235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/WithdrawForm.java" timestamp="1488503457341">
@@ -364,7 +364,6 @@
       <file name="/Dummy.txt" timestamp="1498198233400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/lombok.config" timestamp="1498442001809" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/index.scss" timestamp="1488794362955">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="33" column="1" />
@@ -633,11 +632,10 @@
       <last-replace />
       <last-substitute encoding="base64">LSAgICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>static</entry>
         <entry>status</entry>
         <entry encoding="base64">LSAgICA=</entry>
         <entry>date</entry>
