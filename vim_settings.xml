@@ -59,6 +59,9 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/.gitignore" timestamp="1498117828056">
         <mark key="'" line="186" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityManageService.java" timestamp="1502266940628">
+        <mark key="'" line="135" column="6" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_icon.scss" timestamp="1488795605017">
         <mark key="[" line="38" column="4" />
         <mark key="]" line="38" column="4" />
@@ -166,6 +169,7 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/CompanyCommunityHandlerInterceptor.java" timestamp="1502266744958" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinEventRepository.xml" timestamp="1488880834268">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="134" column="12" />
@@ -205,6 +209,7 @@
         <mark key="." line="14" column="22" />
         <mark key="^" line="14" column="22" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/TopController.java" timestamp="1502266400388" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/thymeleaf/MailTo.java" timestamp="1484623977648">
         <mark key="[" line="35" column="16" />
         <mark key="]" line="35" column="16" />
@@ -319,6 +324,9 @@
         <mark key="." line="61" column="44" />
         <mark key="^" line="61" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" timestamp="1502266924694">
+        <mark key="'" line="85" column="39" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/build.gradle" timestamp="1498203520517">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="141" column="26" />
@@ -335,6 +343,7 @@
       <file name="/a.sql" timestamp="1498545792732">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/OrganizerAuthHandlerInterceptor.java" timestamp="1502266463307" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/.stylelintrc" timestamp="1489110486724">
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="40" />
@@ -378,13 +387,14 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/CommunityController.java" timestamp="1502267108520" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.5__AccountJoinCommunityAppliedAt.sql" timestamp="1488964435007">
         <mark key="[" line="5" column="79" />
         <mark key="]" line="5" column="79" />
         <mark key="." line="5" column="79" />
         <mark key="^" line="5" column="79" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502257488772">
+      <file name="/Dummy.txt" timestamp="1502266108485">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/index.scss" timestamp="1488794362955">
@@ -488,15 +498,11 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/css/style.css" timestamp="1489476056631">
         <mark key="'" line="0" column="29510" />
       </file>
-      <file name="/fragment.java" timestamp="1489394785263">
+      <file name="/fragment.java" timestamp="1502266261821">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" />
-      <jump line="9" column="5" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" />
-      <jump line="5" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" />
       <jump line="164" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
       <jump line="179" column="49" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
       <jump line="84" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
@@ -593,6 +599,10 @@
       <jump line="56" column="11" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" />
       <jump line="31" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" />
       <jump line="32" column="7" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" />
+      <jump line="281" column="8" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" />
+      <jump line="85" column="39" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" />
+      <jump line="26" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityManageService.java" />
+      <jump line="135" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityManageService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -602,7 +612,7 @@
         <text>subprojects</text>
       </register>
       <register name="/" type="4">
-        <text>eventLocation</text>
+        <text>insert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRNZXNzYWdlUGFydHMuc2V0Tmlja25hbWUobWVzc2FnZURldGFpbC5nZXRBY2NvdW50U3RhdHVzKCkgPT0gQWNjb3VudFN0YXR1cy5WQUxJRCA/IEh0bWxFc2NhcGUuZXNjYXBlSHRtbDRYbWwoZXZlbnRNZXNzYWdlUGFydHMuZ2V0Tmlja25hbWUoKSkgOiAiIik7Cg==</text>
@@ -645,13 +655,13 @@
       </register>
     </registers>
     <search>
-      <last-search>eventLocation</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>eventLocation</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">LSAgICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -661,7 +671,6 @@
         <entry>my</entry>
         <entry>selectExistsCompany</entry>
         <entry>selectExistsCompanyCommunity</entry>
-        <entry>insert</entry>
         <entry>proc</entry>
         <entry>update</entry>
         <entry>logout</entry>
@@ -675,6 +684,8 @@
         <entry>build</entry>
         <entry>resi</entry>
         <entry>eventLocation</entry>
+        <entry>create</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
