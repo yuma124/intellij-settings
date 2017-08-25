@@ -381,9 +381,17 @@
         <mark key="[" line="578" column="0" />
         <mark key="]" line="578" column="150" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1503652454934">
+        <mark key="'" line="77" column="39" />
+        <mark key="[" line="77" column="32" />
+        <mark key="]" line="77" column="53" />
+        <mark key="." line="77" column="53" />
+        <mark key="^" line="77" column="53" />
+      </file>
       <file name="/dummy.sql" timestamp="1502257943157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebMvcConfiguration.java" timestamp="1503651097797" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/500.html" timestamp="1488795190675">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -505,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="22" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
       <jump line="179" column="49" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
       <jump line="84" column="47" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/AccountService.java" />
       <jump line="91" column="2" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/extend/extend-datepicker.scss" />
@@ -605,13 +612,14 @@
       <jump line="85" column="39" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityService.java" />
       <jump line="26" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityManageService.java" />
       <jump line="135" column="6" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/CommunityManageService.java" />
+      <jump line="77" column="39" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>500</text>
+        <text>();</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>();</text>
       </register>
       <register name="/" type="4">
         <text>insert</text>
@@ -620,37 +628,37 @@
         <text encoding="base64">ICAgICAgICAgICAgZXZlbnRNZXNzYWdlUGFydHMuc2V0Tmlja25hbWUobWVzc2FnZURldGFpbC5nZXRBY2NvdW50U3RhdHVzKCkgPT0gQWNjb3VudFN0YXR1cy5WQUxJRCA/IEh0bWxFc2NhcGUuZXNjYXBlSHRtbDRYbWwoZXZlbnRNZXNzYWdlUGFydHMuZ2V0Tmlja25hbWUoKSkgOiAiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNvY28gewogICAgICAgICAgICBhcHBlbmQgPSBmYWxzZQogICAgICAgICAgICBkZXN0aW5hdGlvbkZpbGUgPSBmaWxlKCIkcm9vdERpci9qYWNvY28vamFjb2NvVGVzdC5leGVjIikKICAgICAgICAgICAgY2xhc3NEdW1wRmlsZSA9IGZpbGUoIiRyb290RGlyL2phY29jby9jbGFzc3BhdGhkdW1wcyIpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBqYWNvY28gewogICAgICAgICAgICBhcHBlbmQgPSBmYWxzZQogICAgICAgICAgICBkZXN0aW5hdGlvbkZpbGUgPSBmaWxlKCIkcm9vdERpci9qYWNvY28vamFjb2NvVGVzdC5leGVjIikKICAgICAgICAgICAgY2xhc3NEdW1wRmlsZSA9IGZpbGUoIiRyb290RGlyL2phY29jby9jbGFzc3BhdGhkdW1wcyIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYWNvY29UZXN0UmVwb3J0IHsKICAgICAgICAgICAgcmVwb3J0cyB7CiAgICAgICAgICAgICAgICB4bWwuZW5hYmxlZCB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYWNvY28gewogICAgICAgICAgICBhcHBlbmQgPSBmYWxzZQogICAgICAgICAgICBkZXN0aW5hdGlvbkZpbGUgPSBmaWxlKCIkcm9vdERpci9qYWNvY28vamFjb2NvVGVzdC5leGVjIikKICAgICAgICAgICAgY2xhc3NEdW1wRmlsZSA9IGZpbGUoIiRyb290RGlyL2phY29jby9jbGFzc3BhdGhkdW1wcyIpCiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGphY29jb1Rlc3RSZXBvcnQgewogICAgICAgIHJlcG9ydHMgewogICAgICAgICAgICB4bWwuZW5hYmxlZCB0cnVlCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBqYWNvY29UZXN0UmVwb3J0IHsKICAgICAgICAgICAgcmVwb3J0cyB7CiAgICAgICAgICAgICAgICB4bWwuZW5hYmxlZCB0cnVlCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHRtbC5kZXN0aW5hdGlvbiAiJHtidWlsZERpcn0vamFjb2NvSHRtbCIK</text>
+        <text encoding="base64">ICAgIGphY29jb1Rlc3RSZXBvcnQgewogICAgICAgIHJlcG9ydHMgewogICAgICAgICAgICB4bWwuZW5hYmxlZCB0cnVlCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/-    //g</text>
