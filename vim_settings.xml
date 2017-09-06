@@ -449,7 +449,7 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/SendMailService.java" timestamp="1504694832151" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/SendMailService.java" timestamp="1504695782809" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/repository/EventRepositoryTest.groovy" timestamp="1488161142076">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="37" column="34" />
@@ -676,7 +676,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>insert</text>
+        <text>selectCount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpdGhkcmF3QnNBY2NvdW50RmlsZU5hbWU6ICJ3aXRoZHJhd19ic19hY2NvdW50LnRzdiIKICAgIHdpdGhkcmF3QnNDb21wYW55RmlsZU5hbWU6ICJ3aXRoZHJhd19ic19jb21wYW55LnRzdiIKICAgIGJzQWNjb3VudEZpbGVOYW1lOiAiYnNfYWNjb3VudC50c3YiCiAgICBic0NvbXBhbnlGaWxlTmFtZTogImJzX2NvbXBhbnkudHN2Igo=</text>
@@ -719,13 +719,13 @@
       </register>
     </registers>
     <search>
-      <last-search>insert</last-search>
+      <last-search>selectCount</last-search>
       <last-offset />
-      <last-pattern>insert</last-pattern>
+      <last-pattern>selectCount</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">LSAgICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -749,6 +749,7 @@
         <entry>eventLocation</entry>
         <entry>create</entry>
         <entry>insert</entry>
+        <entry>selectCount</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
