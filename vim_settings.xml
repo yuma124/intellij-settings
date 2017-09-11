@@ -155,7 +155,8 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-all-production/build.sh" timestamp="1505115891334">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-all-production/build.sh" timestamp="1505123673017">
+        <mark key="'" line="14" column="35" />
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
@@ -580,7 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="275" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/CommunityRepository.xml" />
       <jump line="1135" column="13" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/EventRepository.xml" />
       <jump line="185" column="30" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/AccountRepository.java" />
       <jump line="367" column="49" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/AccountJoinCommunityRepository.xml" />
@@ -680,6 +680,7 @@
       <jump line="2" column="23" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-all/build.sh" />
       <jump line="4" column="23" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-all/build.sh" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-mail-magazine-production/build.sh" />
+      <jump line="14" column="35" filename="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-all-production/build.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
