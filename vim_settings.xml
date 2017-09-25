@@ -152,7 +152,6 @@
         <mark key="." line="350" column="46" />
         <mark key="^" line="350" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/MonitoringRepository.java" timestamp="1506062089261" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/uploadCoupon.scss" timestamp="1488794372145">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="1" />
@@ -313,7 +312,7 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/MonitoringRepository.xml" timestamp="1506062118912">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/MonitoringRepository.xml" timestamp="1506317399768">
         <mark key="'" line="101" column="75" />
         <mark key="[" line="101" column="74" />
         <mark key="]" line="101" column="75" />
@@ -512,7 +511,6 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.12__Monitoring.sql" timestamp="1505992875645" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/build.gradle" timestamp="1505969323492">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="13" column="78" />
@@ -803,14 +801,10 @@
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</entry>
-        <entry>my</entry>
-        <entry>selectExistsCompany</entry>
-        <entry>selectExistsCompanyCommunity</entry>
         <entry>proc</entry>
         <entry>update</entry>
         <entry>logout</entry>
