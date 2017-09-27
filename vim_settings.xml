@@ -62,6 +62,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1506504220160" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_reset.scss" timestamp="1489476022032">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="114" column="2" />
@@ -189,12 +190,12 @@
         <mark key="." line="44" column="36" />
         <mark key="^" line="44" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1506502639055">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1506504888108">
         <mark key="'" line="46" column="7" />
-        <mark key="[" line="40" column="97" />
-        <mark key="]" line="40" column="124" />
-        <mark key="." line="40" column="124" />
-        <mark key="^" line="40" column="124" />
+        <mark key="[" line="39" column="88" />
+        <mark key="]" line="39" column="91" />
+        <mark key="." line="39" column="91" />
+        <mark key="^" line="39" column="91" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/WithdrawRepository.java" timestamp="1488456111235">
         <mark key="[" line="12" column="46" />
@@ -312,6 +313,12 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/LatestEventRepositoryTest.groovy" timestamp="1506504535248">
+        <mark key="[" line="1001" column="38" />
+        <mark key="]" line="1001" column="66" />
+        <mark key="." line="1001" column="66" />
+        <mark key="^" line="1001" column="66" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/MonitoringRepository.xml" timestamp="1506317399768">
         <mark key="'" line="101" column="75" />
@@ -456,6 +463,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/communityUpdateNotification.txt" timestamp="1506503235859" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/community.html" timestamp="1488956334910">
         <mark key="[" line="86" column="157" />
         <mark key="]" line="86" column="158" />
@@ -755,62 +763,62 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>A.companyInformationId = C.companyId</text>
+        <text>OR (C.communityType = ${@net.zexy.cpf.core.enums.CommunityType@COMPANY.code} AND CCVR.communityId IS NULL)</text>
       </register>
       <register name="-" type="4">
-        <text>A.companyInformationId = C.companyId</text>
+        <text>OR (C.communityType = ${@net.zexy.cpf.core.enums.CommunityType@COMPANY.code} AND CCVR.communityId IS NULL)</text>
       </register>
       <register name="/" type="4">
-        <text>MonitoringCount</text>
+        <text encoding="base64">XDxjb21wYW55SW5mb3JtYXRpb25JZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$TARGETの追加ポイントを</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiAn5LyB5qWt6YOo5rS744KS6Zay6Kan44Gn44GN44KL44GL44KJ5qSc57Si57WQ5p6cMeS7ticoKSB7CiAgICAgICAgZ2l2ZW46CiAgICAgICAgbG9hZERhdGEgewogICAgICAgICAgICAnQ29tbXVuaXR5JyBjb21tdW5pdHlJZDogMQogICAgICAgICAgICAnQWNjb3VudCcgYWNjb3VudElkOiAxLCByZXNpZGVuY2VQcmVmZWN0dXJlSWQ6IDEKICAgICAgICAgICAgJ0V2ZW50JyBldmVudElkOiAxLCBjb21tdW5pdHlJZDogMSwgcHJlZmVjdHVyZUlkOiAxLAogICAgICAgICAgICAgICAgICAgIGpvaW5EZWFkbGluZURhdGU6IG5vdygpLnBsdXNEYXlzKDEpLnRvTG9jYWxEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgam9pbkNvbmRpdGlvbkdlbmRlclR5cGU6IEpvaW5Db25kaXRpb25HZW5kZXJUeXBlLlNBTUUuY29kZSwKICAgICAgICAgICAgICAgICAgICBjcmVhdGVkQXQ6IFRpbWVzdGFtcC52YWx1ZU9mKG5vdygpLm1pbnVzRGF5cyg0KS50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpKSwKICAgICAgICAgICAgICAgICAgICBjb21tdW5pdHlUeXBlOiBDb21tdW5pdHlUeXBlLkNPTVBBTlkKICAgICAgICAgICAgJ0NvbXBhbnlDb21tdW5pdHlWaWV3Um9sZScgY29tbXVuaXR5SWQ6IDEsIGFjY291bnRJZDogMQogICAgICAgICAgICAnRXZlbnRTdW1tYXJ5SW5mb3JtYXRpb24nIGV2ZW50SWQ6IDEKICAgICAgICAgICAgJ0FjY291bnRKb2luQ29tbXVuaXR5JyBhY2NvdW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLCBhY2NlcHRTdGF0dXM6IEFjY2VwdFN0YXR1cy5BQ0NFUFRFRC5jb2RlCiAgICAgICAgfQogICAgICAgIHdoZW46CiAgICAgICAgZGVmIGV2ZW50cyA9IGxhdGVzdEV2ZW50UmVwb3NpdG9yeS5zZWxlY3RMYXRlc3RFdmVudHMoZ2V0QWNjb3VudChHZW5kZXIuTUFMRSksIHRhcmdldERhdGUoKSwgNSkKICAgICAgICB0aGVuOgogICAgICAgIGV2ZW50cy5zaXplKCkgPT0gMQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRZUEVfTkFNRT0ke1R5cGUjKjp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlDb21tdW5pdHlWaWV3Um9sZScgY29tbXVuaXR5SWQ6IDEsIGFjY291bnRJZDogMQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBlY2hvICJbU1FMXTogJFNRTCIKICAgIG15c3FsIC11JERCX1VTRVIgLXAkREJfUEFTU1dPUkQgLVAgJERCX1BPUlQgLWggJERCX0hPU1QgJERCX1VTRVIgLWUgIiRTUUwiIHwgc2VkIC1lICdzL1x0LywvZycgPiByZXN1bHRfYGRhdGUgIislWSVtJWQlSCVNJVMiYC50eHQKICAgIGV4aXQgMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tdW5pdHlUeXBlOiBDb21tdW5pdHlUeXBlLkNPTVBBTlkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIFsgIiRUWVBFX05VTSIgPSAiMyIgXTsgdGhlbgogICAgICAgIFNRTD0iREVMRVRFIEZST00gQ29tbXVuaXR5U29ydERhdGFBZGRpdGlvbmFsUG9pbnQgV0hFUkUgY29tbXVuaXR5SWQgPSAkQ29tbXVuaXR5SWQiCiAgICBmaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tdW5pdHlUeXBlOiBDb21tdW5pdHlUeXBlLkNPTVBBTlkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTUUw9IlNFTEVDVCBDLmNvbW11bml0eU5hbWUgYXMg44Kz44Of44Ol44OL44OG44Kj5ZCNLCBDU0kuc29ydERhdGEgYXMg44K944O844OI44Od44Kk44Oz44OILCBDU0RBUC5hZGRpdGlvbmFsUG9pbnQgYXMg6L+95Yqg44Od44Kk44Oz44OIIEZST00gQ29tbXVuaXR5IEMgSU5ORVIgSk9JTiBDb21tdW5pdHlTdW1tYXJ5SW5mb3JtYXRpb24gQ1NJIE9OIEMuY29tbXVuaXR5SWQgPSBDU0kuY29tbXVuaXR5SWQgTEVGVCBPVVRFUiBKT0lOIENvbW11bml0eVNvcnREYXRhQWRkaXRpb25hbFBvaW50IENTREFQIE9OIEMuY29tbXVuaXR5SWQgPSBDU0RBUC5jb21tdW5pdHlJZCBXSEVSRSBDLmNvbW11bml0eUlkID0gJENvbW11bml0eUlkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlDb21tdW5pdHlWaWV3Um9sZScgY29tbXVuaXR5SWQ6IDEsIGFjY291bnRJZDogMQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTUUw9IlNFTEVDVCBDLmNvbW11bml0eUlkIGFzIOOCs+ODn+ODpeODi+ODhuOCo0lELCBDLmNvbW11bml0eU5hbWUgYXMg44Kz44Of44Ol44OL44OG44Kj5ZCNLCBDU0kuc29ydERhdGEgYXMg44K944O844OI44Od44Kk44Oz44OILCBDU0RBUC5hZGRpdGlvbmFsUG9pbnQgYXMg6L+95Yqg44Od44Kk44Oz44OIIEZST00gQ29tbXVuaXR5IEMgSU5ORVIgSk9JTiBDb21tdW5pdHlTdW1tYXJ5SW5mb3JtYXRpb24gQ1NJIE9OIEMuY29tbXVuaXR5SWQgPSBDU0kuY29tbXVuaXR5SWQgTEVGVCBPVVRFUiBKT0lOIENvbW11bml0eVNvcnREYXRhQWRkaXRpb25hbFBvaW50IENTREFQIE9OIEMuY29tbXVuaXR5SWQgPSBDU0RBUC5jb21tdW5pdHlJZCIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">LCBjb21wYW55SW5mb3JtYXRpb25JZDogMQogICAgICAgICAgICAnRXZlbnQnIGV2ZW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLCBwcmVmZWN0dXJlSWQ6IDEsCiAgICAgICAgICAgICAgICAgICAgam9pbkRlYWRsaW5lRGF0ZTogbm93KCkucGx1c0RheXMoMSkudG9Mb2NhbERhdGUoKSwKICAgICAgICAgICAgICAgICAgICBqb2luQ29uZGl0aW9uR2VuZGVyVHlwZTogSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuU0FNRS5jb2RlLAogICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogVGltZXN0YW1wLnZhbHVlT2Yobm93KCkubWludXNEYXlzKDQpLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykpLAogICAgICAgICAgICAgICAgICAgIGNvbW11bml0eVR5cGU6IENvbW11bml0eVR5cGUuQ09NUEFOWQogICAgICAgICAgICAnQ29tcGFueUNvbW11bml0eVZpZXdSb2xlJyBjb21tdW5pdHlJZDogMSwg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTUUw9IkRFTEVURSBGUk9NIENvbW11bml0eVNvcnREYXRhQWRkaXRpb25hbFBvaW50IFdIRVJFIGNvbW11bml0eUlkID0gJENvbW11bml0eUlkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlKb2luQ29tbXVuaXR5JyBjb21tdW5pdHlJZDogMSwgY29tcGFueUluZm9ybWF0aW9uSWQ6IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aWYgWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlJbmZvcm1hdGlvbicgY29tcGFueUlkOiAxCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgYE1vbml0b3JpbmdgIApBREQgQ09MVU1OIGBldmVudEpvaW5PbmVNb250aE51bU1hbGVgIEJJR0lOVCgyMCkgTlVMTCBERUZBVUxUIE5VTEwgQUZURVIgYGV2ZW50TnVtYCwKQUREIENPTFVNTiBgZXZlbnRKb2luT25lTW9udGhOdW1GZW1hbGVgIEJJR0lOVCgyMCkgTlVMTCBERUZBVUxUIE5VTEwgQUZURVIgYGV2ZW50Sm9pbk9uZU1vbnRoTnVtTWFsZWAsCkFERCBDT0xVTU4gYGNvbW11bml0eUpvaW5PbmVNb250aE51bU1hbGVgIEJJR0lOVCgyMCkgTlVMTCBERUZBVUxUIE5VTEwgQUZURVIgYGV2ZW50Sm9pbk9uZU1vbnRoTnVtRmVtYWxlYCwKQUREIENPTFVNTiBgY29tbXVuaXR5Sm9pbk9uZU1vbnRoTnVtRmVtYWxlYCBCSUdJTlQoMjApIE5VTEwgREVGQVVMVCBOVUxMIEFGVEVSIGBjb21tdW5pdHlKb2luT25lTW9udGhOdW1NYWxlYDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgQWRtaW5BY2NvdW50CiAgQUREIENPTFVNTiBvbmVUaW1lVG9rZW4gVkFSQ0hBUigyNTUpIE5VTEwgQUZURVIgdW5sb2NrZWRBdCwKICBBREQgQ09MVU1OIG9uZVRpbWVUb2tlbkV4cGlyYXRpb25BdCBEQVRFVElNRSBOVUxMIEFGVEVSIG9uZVRpbWVUb2tlbiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>MonitoringCount</last-search>
+      <last-search encoding="base64">XDxjb21wYW55SW5mb3JtYXRpb25JZFw+</last-search>
       <last-offset />
-      <last-pattern>MonitoringCount</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wYW55SW5mb3JtYXRpb25JZFw+</last-pattern>
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -834,6 +842,7 @@
         <entry encoding="base64">ICA=</entry>
         <entry>aaaa</entry>
         <entry>MonitoringCount</entry>
+        <entry encoding="base64">XDxjb21wYW55SW5mb3JtYXRpb25JZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
