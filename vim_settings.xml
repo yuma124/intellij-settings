@@ -189,12 +189,12 @@
         <mark key="." line="44" column="36" />
         <mark key="^" line="44" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1505115583486">
-        <mark key="'" line="42" column="7" />
-        <mark key="[" line="42" column="44" />
-        <mark key="]" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-        <mark key="^" line="42" column="7" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1506497855103">
+        <mark key="'" line="46" column="7" />
+        <mark key="[" line="40" column="97" />
+        <mark key="]" line="40" column="124" />
+        <mark key="." line="40" column="124" />
+        <mark key="^" line="40" column="124" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/WithdrawRepository.java" timestamp="1488456111235">
         <mark key="[" line="12" column="46" />
@@ -755,10 +755,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>A.companyInformationId = C.companyId</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>A.companyInformationId = C.companyId</text>
       </register>
       <register name="/" type="4">
         <text>MonitoringCount</text>
