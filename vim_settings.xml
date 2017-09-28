@@ -62,7 +62,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1506504220160" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1506565199705" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_reset.scss" timestamp="1489476022032">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="114" column="2" />
@@ -128,21 +128,11 @@
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventSearchListServiceTest.groovy" timestamp="1506563502408">
         <mark key="'" line="996" column="67" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-local.yml" timestamp="1504524035829">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="76" column="38" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/account/forgetPassword.scss" timestamp="1488794384755">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="14" column="1" />
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-mail-magazine-production/build.sh" timestamp="1505115711057">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/staging/devweb201zcp/spring/cpf-web-staging/cpf-web.conf" timestamp="1506335534620">
         <mark key="[" line="9" column="4" />
@@ -155,6 +145,13 @@
         <mark key="]" line="350" column="46" />
         <mark key="." line="350" column="46" />
         <mark key="^" line="350" column="46" />
+      </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" timestamp="1506564823739">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="1850" column="0" />
+        <mark key="]" line="1850" column="3" />
+        <mark key="." line="1850" column="3" />
+        <mark key="^" line="1850" column="3" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/uploadCoupon.scss" timestamp="1488794372145">
         <mark key="[" line="12" column="1" />
@@ -193,12 +190,12 @@
         <mark key="." line="44" column="36" />
         <mark key="^" line="44" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1506562464764">
-        <mark key="'" line="45" column="7" />
-        <mark key="[" line="40" column="116" />
-        <mark key="]" line="40" column="119" />
-        <mark key="." line="40" column="119" />
-        <mark key="^" line="40" column="119" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/LatestEventRepository.xml" timestamp="1506564655341">
+        <mark key="'" line="46" column="7" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/repository/WithdrawRepository.java" timestamp="1488456111235">
         <mark key="[" line="12" column="46" />
@@ -300,17 +297,13 @@
         <mark key="." line="27" column="36" />
         <mark key="^" line="27" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/AccountRepositoryTest.groovy" timestamp="1504161492035">
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-local.yml" timestamp="1488527855430">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="80" />
         <mark key="." line="86" column="74" />
         <mark key="^" line="86" column="74" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/enums/CommunityType.java" timestamp="1506564975618" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/staging/devweb201zcp/spring/cpf-web-development/cpf-web.conf" timestamp="1506491053669">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="6" />
@@ -321,16 +314,10 @@
         <mark key="[" line="829" column="0" />
         <mark key="]" line="832" column="16" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/LatestEventRepositoryTest.groovy" timestamp="1506563684160">
-        <mark key="[" line="1045" column="0" />
-        <mark key="]" line="1045" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/LatestEventRepositoryTest.groovy" timestamp="1506564520530">
+        <mark key="[" line="1004" column="0" />
+        <mark key="]" line="1004" column="67" />
         <mark key="." line="1045" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/MonitoringRepository.xml" timestamp="1506317399768">
-        <mark key="'" line="101" column="75" />
-        <mark key="[" line="101" column="74" />
-        <mark key="]" line="101" column="75" />
-        <mark key="." line="101" column="75" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/percolate/src/Percolate.java" timestamp="1506054744181">
         <mark key="[" line="12" column="9" />
@@ -350,21 +337,11 @@
         <mark key="^" line="33" column="6" />
         <mark key="." line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/BenefitWithdrawCompanyService.java" timestamp="1504154503289">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="108" />
-        <mark key="." line="40" column="36" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/component/interceptor/ValidAccountAuthHandlerInterceptor.java" timestamp="1489380599269">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="31" column="4" />
         <mark key="^" line="31" column="4" />
         <mark key="." line="31" column="4" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-staging.yml" timestamp="1504524030218">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="84" column="38" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/profile/show.html" timestamp="1488785221275">
         <mark key="[" line="137" column="0" />
@@ -378,11 +355,6 @@
         <mark key="]" line="31" column="137" />
         <mark key="." line="31" column="137" />
         <mark key="^" line="31" column="137" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/percolate/src/Main.java" timestamp="1506054575775">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/profile/show.scss" timestamp="1489370134054">
         <mark key="[" line="84" column="0" />
@@ -409,11 +381,6 @@
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/resources/application-test-common.yml" timestamp="1504524045324">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="39" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="src:table:/b0eb1f7f/4a2e5e08-f8f6-4cd4-9c4d-a11bdca152ab/cpfdb.Account" timestamp="1506563252300" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_preview.scss" timestamp="1488795755578">
@@ -470,7 +437,12 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/communityUpdateNotification.txt" timestamp="1506503235859" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/templates/mail/communityUpdateNotification.txt" timestamp="1506565242221">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/myTop/community.html" timestamp="1488956334910">
         <mark key="[" line="86" column="157" />
         <mark key="]" line="86" column="158" />
@@ -488,11 +460,6 @@
         <mark key="]" line="23" column="3" />
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="3" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/application-development.yml" timestamp="1504524040665">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="84" column="38" />
-        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/net/zexy/cpf/web/repository/WithdrawRepository.xml" timestamp="1488456147779">
         <mark key="[" line="7" column="70" />
@@ -625,10 +592,11 @@
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/db/V1.16__monitoringOneMonth.sql" timestamp="1506061162401">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/model/LatestEvent.java" timestamp="1506564669537">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/test/groovy/net/zexy/cpf/admin/service/AccountDetailServiceTest.groovy" timestamp="1489476940599">
         <mark key="[" line="167" column="88" />
@@ -648,11 +616,6 @@
         <mark key="^" line="336" column="1" />
         <mark key="." line="336" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/src/main/resources/net/zexy/cpf/admin/repository/PaymentDetailRepository.xml" timestamp="1505463713755">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdrawComplete.html" timestamp="1488877697413">
         <mark key="[" line="43" column="37" />
         <mark key="]" line="43" column="37" />
@@ -664,9 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="41" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportBenefitAccountIdService.java" />
-      <jump line="49" column="69" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportBenefitAccountIdService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
       <jump line="22" column="69" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
       <jump line="38" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
       <jump line="24" column="69" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
@@ -764,61 +724,64 @@
       <jump line="992" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventSearchListServiceTest.groovy" />
       <jump line="994" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventSearchListServiceTest.groovy" />
       <jump line="996" column="67" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/service/EventSearchListServiceTest.groovy" />
+      <jump line="217" column="55" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
+      <jump line="1843" column="88" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
+      <jump line="16" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55QXV0aGVudGljYXRlZEZsYWcgfCBjb21wYW55SW5mb3JtYXRpb25JZAogICAgICAgIHRydWUgICAgICAgICAgICAgICAgICAgICB8IDEKICAgICAgICB0cnVlICAgICAgICAgICAgICAgICAgICAgfCAyCiAgICAgICAgdHJ1ZSAgICAgICAgICAgICAgICAgICAgIHwgbnVsbAogICAgICAgIGZhbHNlICAgICAgICAgICAgICAgICAgICB8IDEKICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCAyCiAgICAgICAgZmFsc2UgICAgICAgICAgICAgICAgICAgIHwgbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlDb21tdW5pdHlWaWV3Um9sZScgY29tbXVuaXR5SWQ6IDEsIGFjY291bnRJZDogMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0NWUi5jb21tdW5pdHlJZCBJUyBOT1QgTlVMTCBBUyBjb21wYW55Q29tbXVuaXR5RmxhZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
+        <text encoding="base64">ICAgIGRlZiAn5LyB5qWt6YOo5rS744Gu5pu05paw5oOF5aCx6YCa55+l44KS6YCB5L+h44GZ44KL44GT44GoJygpIHsKICAgICAgICBnaXZlbjoKICAgICAgICBkZWYgbm93ID0gc3lzdGVtRGF0ZVN1cHBsaWVyLmdldExvY2FsRGF0ZVRpbWUoKQogICAgICAgIGxvYWREYXRhIHsKICAgICAgICAgICAgJ0FjY291bnQnIGFjY291bnRJZDogMSwgbWFpbEFkZHJlc3M6ICcxQGV4YW1wbGUuY29tJywgbmlja25hbWU6ICduaWNrbmFtZTEnLAogICAgICAgICAgICAgICAgICAgIGdlbmRlcjogR2VuZGVyLk1BTEUuY29kZSwKICAgICAgICAgICAgICAgICAgICBiaXJ0aGRheTogbm93Lm1pbnVzWWVhcnMoMjApLnRvTG9jYWxEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgYWxsb3dNYWlsTWFnYXppbmVGbGFnOiB0cnVlCiAgICAgICAgICAgICdDb21tdW5pdHknIGNvbW11bml0eUlkOiAxLCBjb21tdW5pdHlUeXBlOiBDb21tdW5pdHlUeXBlLkNPTVBBTlkuY29kZQogICAgICAgICAgICAnRXZlbnQnIGV2ZW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLAogICAgICAgICAgICAgICAgICAgIGpvaW5EZWFkbGluZURhdGU6IG5vdy5wbHVzRGF5cygxKS50b0xvY2FsRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIGpvaW5Db25kaXRpb25HZW5kZXJUeXBlOiBKb2luQ29uZGl0aW9uR2VuZGVyVHlwZS5TQU1FLmNvZGUsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZEF0OiBUaW1lc3RhbXAudmFsdWVPZihub3cubWludXNEYXlzKDQpLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykpCiAgICAgICAgICAgICdFdmVudFN1bW1hcnlJbmZvcm1hdGlvbicgZXZlbnRJZDogMQogICAgICAgIH0KICAgICAgICB0ZXN0ZXIuY29ubmVjdGlvbi5jb25uZWN0aW9uLmNvbW1pdCgpCiAgICAgICAgV2hpdGVib3guc2V0SW50ZXJuYWxTdGF0ZShjb21tdW5pdHlVcGRhdGVOb3RpZmljYXRpb25TZXJ2aWNlLCAibWFpbFNlbmRlclRlbXBsYXRlIiwgbW9ja01haWxTZW5kZXJUZW1wbGF0ZSkKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKGNvbW11bml0eVVwZGF0ZU5vdGlmaWNhdGlvblNlcnZpY2UsICJtYWlsUHJvcGVydGllcyIsIG1vY2tNYWlsUHJvcGVydGllcykKICAgICAgICB3aGVuOgogICAgICAgIGNvbW11bml0eVVwZGF0ZU5vdGlmaWNhdGlvblNlcnZpY2UuZXhlY3V0ZSgpCiAgICAgICAgdGhlbjoKICAgICAgICBkZWYgbWFpbFRlbXBvcmFyeVRhYmxlID0gdGVzdGVyLmNvbm5lY3Rpb24uY3JlYXRlRGF0YVNldCgpLmdldFRhYmxlKCJNYWlsVGVtcG9yYXJ5IikKICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0Um93Q291bnQoKSA9PSAwCiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnVlICAgICAgICAgICAgICAgICAgICAgfCAzCg==</text>
+        <text encoding="base64">ICAgIGRlZiAn5bGF5L2P5Zyw5Z+fKOWMl+a1t+mBkynjgqjjg6rjgqLjga7jgqTjg5njg7Pjg4jjga7pgJrnn6XjgYzpgIHjgonjgozjgabjgqjjg6rjgqLlpJYo6Z2S5qOu44CB5bKp5omLKeOBrumAmuefpeOBjOmAgeOCieOCjOOBquOBhOOBk+OBqCcoKSB7CiAgICAgICAgZ2l2ZW46CiAgICAgICAgZGVmIG5vdyA9IHN5c3RlbURhdGVTdXBwbGllci5nZXRMb2NhbERhdGVUaW1lKCkKICAgICAgICBsb2FkRGF0YSB7CiAgICAgICAgICAgICdBY2NvdW50JyBhY2NvdW50SWQ6IDEsIG1haWxBZGRyZXNzOiAnMUBleGFtcGxlLmNvbScsIG5pY2tuYW1lOiAnbmlja25hbWUxJywKICAgICAgICAgICAgICAgICAgICBnZW5kZXI6IEdlbmRlci5NQUxFLmNvZGUsIHJlc2lkZW5jZVByZWZlY3R1cmVJZDogMSwgLy8g5YyX5rW36YGT5Zyo5L2PCiAgICAgICAgICAgICAgICAgICAgYmlydGhkYXk6IG5vdy5taW51c1llYXJzKDIwKS50b0xvY2FsRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIGFsbG93TWFpbE1hZ2F6aW5lRmxhZzogdHJ1ZQogICAgICAgICAgICAnQ29tbXVuaXR5JyBjb21tdW5pdHlJZDogMSwgY29tbXVuaXR5TmFtZTogImNvbW11bml0eU5hbWUxIgogICAgICAgICAgICAnQ29tbXVuaXR5JyBjb21tdW5pdHlJZDogMiwgY29tbXVuaXR5TmFtZTogImNvbW11bml0eU5hbWUyIgogICAgICAgICAgICAnRXZlbnQnIGV2ZW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLCBwcmVmZWN0dXJlSWQ6IDEsIC8vIOWMl+a1t+mBkwogICAgICAgICAgICAgICAgICAgIGpvaW5EZWFkbGluZURhdGU6IG5vdy5wbHVzRGF5cygxKS50b0xvY2FsRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIGpvaW5Db25kaXRpb25HZW5kZXJUeXBlOiBKb2luQ29uZGl0aW9uR2VuZGVyVHlwZS5TQU1FLmNvZGUsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZEF0OiBUaW1lc3RhbXAudmFsdWVPZihub3cubWludXNEYXlzKDApLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykpLAogICAgICAgICAgICAgICAgICAgIGV2ZW50TmFtZTogJ2V2ZW50TmFtZTEnLAogICAgICAgICAgICAgICAgICAgIGhvbGRQbGFjZU5hbWU6ICdob2xkUGxhY2VOYW1lMScsCiAgICAgICAgICAgICAgICAgICAgc3RhcnREYXRlOiBub3cucGx1c0RheXMoMSkudG9Mb2NhbERhdGUoKSwKICAgICAgICAgICAgICAgICAgICBzdGFydFRpbWU6ICcxMjowMDowMCcKICAgICAgICAgICAgJ0V2ZW50JyBldmVudElkOiAyLCBjb21tdW5pdHlJZDogMSwgcHJlZmVjdHVyZUlkOiAyLCAvLyDpnZLmo64KICAgICAgICAgICAgICAgICAgICBqb2luRGVhZGxpbmVEYXRlOiBub3cucGx1c0RheXMoMSkudG9Mb2NhbERhdGUoKSwKICAgICAgICAgICAgICAgICAgICBqb2luQ29uZGl0aW9uR2VuZGVyVHlwZTogSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuU0FNRS5jb2RlLAogICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogVGltZXN0YW1wLnZhbHVlT2Yobm93Lm1pbnVzRGF5cygxKS50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpKSwKICAgICAgICAgICAgICAgICAgICBldmVudE5hbWU6ICdldmVudE5hbWUyJywKICAgICAgICAgICAgICAgICAgICBob2xkUGxhY2VOYW1lOiAnaG9sZFBsYWNlTmFtZTInLAogICAgICAgICAgICAgICAgICAgIHN0YXJ0RGF0ZTogbm93LnBsdXNEYXlzKDIpLnRvTG9jYWxEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lOiAnMTM6MDA6MDAnCiAgICAgICAgICAgICdFdmVudCcgZXZlbnRJZDogMywgY29tbXVuaXR5SWQ6IDIsIHByZWZlY3R1cmVJZDogMywgLy8g5bKp5omLCiAgICAgICAgICAgICAgICAgICAgam9pbkRlYWRsaW5lRGF0ZTogbm93LnBsdXNEYXlzKDEpLnRvTG9jYWxEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgam9pbkNvbmRpdGlvbkdlbmRlclR5cGU6IEpvaW5Db25kaXRpb25HZW5kZXJUeXBlLlNBTUUuY29kZSwKICAgICAgICAgICAgICAgICAgICBjcmVhdGVkQXQ6IFRpbWVzdGFtcC52YWx1ZU9mKG5vdy5taW51c0RheXMoMikudHJ1bmNhdGVkVG8oQ2hyb25vVW5pdC5EQVlTKSksCiAgICAgICAgICAgICAgICAgICAgZXZlbnROYW1lOiAnZXZlbnROYW1lMycsCiAgICAgICAgICAgICAgICAgICAgaG9sZFBsYWNlTmFtZTogJ2hvbGRQbGFjZU5hbWUzJywKICAgICAgICAgICAgICAgICAgICBzdGFydERhdGU6IG5vdy5wbHVzRGF5cygzKS50b0xvY2FsRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIHN0YXJ0VGltZTogJzE0OjAwOjAwJwogICAgICAgICAgICAnRXZlbnQnIGV2ZW50SWQ6IDQsIGNvbW11bml0eUlkOiAyLCBwcmVmZWN0dXJlSWQ6IDEsIC8vIOWMl+a1t+mBkwogICAgICAgICAgICAgICAgICAgIGpvaW5EZWFkbGluZURhdGU6IG5vdy5wbHVzRGF5cygxKS50b0xvY2FsRGF0ZSgpLAogICAgICAgICAgICAgICAgICAgIGpvaW5Db25kaXRpb25HZW5kZXJUeXBlOiBKb2luQ29uZGl0aW9uR2VuZGVyVHlwZS5TQU1FLmNvZGUsCiAgICAgICAgICAgICAgICAgICAgY3JlYXRlZEF0OiBUaW1lc3RhbXAudmFsdWVPZihub3cubWludXNEYXlzKDMpLnRydW5jYXRlZFRvKENocm9ub1VuaXQuREFZUykpLAogICAgICAgICAgICAgICAgICAgIGV2ZW50TmFtZTogJ2V2ZW50TmFtZTQnLAogICAgICAgICAgICAgICAgICAgIGhvbGRQbGFjZU5hbWU6ICdob2xkUGxhY2VOYW1lNCcsCiAgICAgICAgICAgICAgICAgICAgc3RhcnREYXRlOiBub3cucGx1c0RheXMoMykudG9Mb2NhbERhdGUoKSwKICAgICAgICAgICAgICAgICAgICBzdGFydFRpbWU6ICcxNTowMDowMCcKICAgICAgICAgICAgJ0V2ZW50JyBldmVudElkOiA1LCBjb21tdW5pdHlJZDogMiwgcHJlZmVjdHVyZUlkOiAxLCAvLyDljJfmtbfpgZMKICAgICAgICAgICAgICAgICAgICBqb2luRGVhZGxpbmVEYXRlOiBub3cucGx1c0RheXMoMSkudG9Mb2NhbERhdGUoKSwKICAgICAgICAgICAgICAgICAgICBqb2luQ29uZGl0aW9uR2VuZGVyVHlwZTogSm9pbkNvbmRpdGlvbkdlbmRlclR5cGUuU0FNRS5jb2RlLAogICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRBdDogVGltZXN0YW1wLnZhbHVlT2Yobm93Lm1pbnVzRGF5cyg0KS50cnVuY2F0ZWRUbyhDaHJvbm9Vbml0LkRBWVMpKSwKICAgICAgICAgICAgICAgICAgICBldmVudE5hbWU6ICdldmVudE5hbWU1JywKICAgICAgICAgICAgICAgICAgICBob2xkUGxhY2VOYW1lOiAnaG9sZFBsYWNlTmFtZTUnLAogICAgICAgICAgICAgICAgICAgIHN0YXJ0RGF0ZTogbm93LnBsdXNEYXlzKDMpLnRvTG9jYWxEYXRlKCksCiAgICAgICAgICAgICAgICAgICAgc3RhcnRUaW1lOiAnMTY6MDA6MDAnCiAgICAgICAgICAgICdFdmVudFN1bW1hcnlJbmZvcm1hdGlvbicgZXZlbnRJZDogMQogICAgICAgICAgICAnRXZlbnRTdW1tYXJ5SW5mb3JtYXRpb24nIGV2ZW50SWQ6IDIKICAgICAgICAgICAgJ0V2ZW50U3VtbWFyeUluZm9ybWF0aW9uJyBldmVudElkOiAzCiAgICAgICAgICAgICdFdmVudFN1bW1hcnlJbmZvcm1hdGlvbicgZXZlbnRJZDogNAogICAgICAgICAgICAnRXZlbnRTdW1tYXJ5SW5mb3JtYXRpb24nIGV2ZW50SWQ6IDUKICAgICAgICAgICAgJ0FjY291bnRKb2luQ29tbXVuaXR5JyBhY2NvdW50SWQ6IDEsIGNvbW11bml0eUlkOiAxLCBhY2NlcHRTdGF0dXM6IEFjY2VwdFN0YXR1cy5BQ0NFUFRFRC5jb2RlCiAgICAgICAgICAgICdBY2NvdW50Sm9pbkNvbW11bml0eScgYWNjb3VudElkOiAxLCBjb21tdW5pdHlJZDogMiwgYWNjZXB0U3RhdHVzOiBBY2NlcHRTdGF0dXMuQUNDRVBURUQuY29kZQogICAgICAgIH0KICAgICAgICB0ZXN0ZXIuY29ubmVjdGlvbi5jb25uZWN0aW9uLmNvbW1pdCgpCiAgICAgICAgd2hlbjoKICAgICAgICBjb21tdW5pdHlVcGRhdGVOb3RpZmljYXRpb25TZXJ2aWNlLmV4ZWN1dGUoKQogICAgICAgIHRoZW46CiAgICAgICAgZGVmIG1haWxUZW1wb3JhcnlUYWJsZSA9IHRlc3Rlci5jb25uZWN0aW9uLmNyZWF0ZURhdGFTZXQoKS5nZXRUYWJsZSgiTWFpbFRlbXBvcmFyeSIpCiAgICAgICAgbWFpbFRlbXBvcmFyeVRhYmxlLmdldFJvd0NvdW50KCkgPT0gMQogICAgICAgIG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAiYWNjb3VudElkIikgPT0gMQogICAgICAgIG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAiZnJvbU5hbWUiKSA9PSAiW0xPQ0FMXUFDVElWSVRJRVMiCiAgICAgICAgbWFpbFRlbXBvcmFyeVRhYmxlLmdldFZhbHVlKDAsICJmcm9tTWFpbEFkZHJlc3MiKSA9PSAibWFpbF90ZXN0QGV4YW1wbGUuY29tIgogICAgICAgIG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAidG9NYWlsQWRkcmVzcyIpID09ICIxQGV4YW1wbGUuY29tIgogICAgICAgIG1haWxUZW1wb3JhcnlUYWJsZS5nZXRWYWx1ZSgwLCAidGl0bGUiKSA9PSAi44CQQUNUSVZJVElFU+OAkSDmlrDnnYDjgqTjg5njg7Pjg4jjga7jgZTmoYjlhoUoY29tbXVuaXR5TmFtZTEsIGNvbW11bml0eU5hbWUyKSIKICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgInByaW9yaXR5IikgPT0gMzAKICAgICAgICBtYWlsVGVtcG9yYXJ5VGFibGUuZ2V0VmFsdWUoMCwgImJvZHkiKSA9PSAiIiJuaWNrbmFtZTHjgZXjgpMKCuOBhOOBpOOCguOAjkFDVElWSVRJRVPjgI/jgpLjgZTliKnnlKjjgYTjgZ/jgaDjgY3jgIHjgYLjgorjgYzjgajjgYbjgZTjgZbjgYTjgb7jgZnjgIIKCuaWsOOBl+OBhOOCpOODmeODs+ODiOOBjOWFrOmWi+OBleOCjOOBvuOBl+OBn+OAggrmmK/pnZ7jgIHmsJfjgavjgarjgovjgqTjg5njg7Pjg4jjgpLjg4Hjgqfjg4Pjgq/jgZfjgabjgb/jgabjgY/jgaDjgZXjgYTjgIIKCuOAkOaWsOedgOOCpOODmeODs+ODiOOAkT09PT09PT09PT09PT09CumDqOa0u+WQje+8mmNvbW11bml0eU5hbWUxCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9jb21tdW5pdHkvMT92b3M9ZGFjdGFybWF0MDAwMDAwMDAwMDEK44Kk44OZ44Oz44OI5ZCN77yaZXZlbnROYW1lMQpodHRwczovL2JzLWFjdGl2aXRpZXMuanAvZXZlbnQvMT92b3M9ZGFjdGFybWF0MDAwMDAwMDAwMDIK5Lya5aC077yaaG9sZFBsYWNlTmFtZTEK6ZaL5YKs5pel77yaJHtub3cucGx1c0RheXMoMSkuZm9ybWF0KERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigieXl5eeW5tE3mnIhk5pelIikpfQrplovlgqzmmYLplpPvvJoxMuaZgjAw5YiGCgrpg6jmtLvlkI3vvJpjb21tdW5pdHlOYW1lMgpodHRwczovL2JzLWFjdGl2aXRpZXMuanAvY29tbXVuaXR5LzI/dm9zPWRhY3Rhcm1hdDAwMDAwMDAwMDAxCuOCpOODmeODs+ODiOWQje+8mmV2ZW50TmFtZTQKaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2V2ZW50LzQ/dm9zPWRhY3Rhcm1hdDAwMDAwMDAwMDAyCuS8muWgtO+8mmhvbGRQbGFjZU5hbWU0CumWi+WCrOaXpe+8miR7bm93LnBsdXNEYXlzKDMpLmZvcm1hdChEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oInl5eXnlubRN5pyIZOaXpSIpKX0K6ZaL5YKs5pmC6ZaT77yaMTXmmYIwMOWIhgoK6YOo5rS75ZCN77yaY29tbXVuaXR5TmFtZTIKaHR0cHM6Ly9icy1hY3Rpdml0aWVzLmpwL2NvbW11bml0eS8yP3Zvcz1kYWN0YXJtYXQwMDAwMDAwMDAwMQrjgqTjg5njg7Pjg4jlkI3vvJpldmVudE5hbWU1Cmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC9ldmVudC81P3Zvcz1kYWN0YXJtYXQwMDAwMDAwMDAwMgrkvJrloLTvvJpob2xkUGxhY2VOYW1lNQrplovlgqzml6XvvJoke25vdy5wbHVzRGF5cygzKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJ5eXl55bm0TeaciGTml6UiKSl9CumWi+WCrOaZgumWk++8mjE25pmCMDDliIYKPT09PT09PT09PT09PT09PT09PT09PT09PT09PQoK4oC744Kk44OZ44Oz44OI44Gv5rqA5bit44Gr44Gq44KK5qyh56ys44CB5Y+X5LuY57WC5LqG44Go44Gq44KK44G+44GZ44Gu44Gn44GU5LqG5om/44GP44Gg44GV44GE44CCCgoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuKWoCDjgZTmhI/opovjg7vjgYrllY/jgYTlkIjjgo/jgZsK44COQUNUSVZJVElFU+OAj+OBq+mWouOBmeOCi+OBlOaEj+imi+OAgeOBiuWVj+OBhOWQiOOCj+OBm+OBr+OAgeS4i+iomOODmuODvOOCuOOCiOOCiuOBlOmAo+e1oeOBj+OBoOOBleOBhOOAggpodHRwczovL2JzLWFjdGl2aXRpZXMuanAvY29udGVudHMvZmFxX2luZGV4Lmh0bWwKCuKWoCDmnKzjg6Hjg7zjg6vjgavjgYrlv4PlvZPjgZ/jgorjga7jgarjgYTloLTlkIgK5pys44Oh44O844Or44Gv44COQUNUSVZJVElFU+OAj+OCkuWIqeeUqOS4reOBruaWueOBuOiHquWLlemAgeS/oeOBl+OBpuOBhOOBvuOBmeOAggrjgYrlv4PlvZPjgZ/jgorjga7jgarjgYTloLTlkIjjga/jgIHnoLTmo4TjgZfjgabjgYTjgZ/jgaDjgY3jgb7jgZnjgojjgYbjgYrpoZjjgYTnlLPjgZfkuIrjgZLjgb7jgZnjgIIKCuKWoCDphY3kv6HlgZzmraIK44Oh44O844Or44Gu6YWN5L+h5YGc5q2i44KS44GU5biM5pyb44Gu5pa544GvIOS7peS4i+OBruaJi+mghuOBp+ioreWumuOCkuWkieabtOOBl+OBpuOBj+OBoOOBleOBhOOAggrjgI7jg63jgrDjgqTjg7PihpLjg5fjg63jg5XjgqPjg7zjg6vihpLnt6jpm4bihpLjg6Hjg7zjg6vjg57jgqzjgrjjg7PjgpLlj5fjgZHlj5bjgovjgI8KLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgorOi06KzotOis6LTorOi06KzotOis6LTorOi06KzotOis6LTorCuWcsOWfn+ODu+S8gealreOBruKAnemDqOa0u+KAneaUr+aPtOOCteODvOODk+OCuQrjgI5BQ1RJVklUSUVT44CPCmh0dHBzOi8vYnMtYWN0aXZpdGllcy5qcC8KCue3qOmbhuODu+iRl+S9nOODu+eZuuihjArmoKrlvI/kvJrnpL7jg6rjgq/jg6vjg7zjg4jjg57jg7zjgrHjg4bjgqPjg7PjgrDjg5Hjg7zjg4jjg4rjg7zjgroKaHR0cDovL3d3dy5yZWNydWl0LW1wLmNvLmpwLworOi06KzotOis6LTorOi06KzotOis6LTorOi06KyBSRUNSVUlUCiIiIgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wYW55QXV0aGVudGljYXRlZEZsYWcgfCBfCiAgICAgICAgdHJ1ZSAgICAgICAgICAgICAgICAgICAgIHwgXwogICAgICAgIGZhbHNlICAgICAgICAgICAgICAgICAgICB8IF8K</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZW1lbnQuZXhlY3V0ZSgiVFJVTkNBVEUgVEFCTEUgQ29tcCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBmYWxzZSAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NvbW11bml0eUpvaW5Db21wYW55Jwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnVlICAgICAgICAgICAgICAgICAgICAgfCBudWxsCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0cnVlICAgICAgICAgICAgICAgICAgICAgfCAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55QXV0aGVudGljYXRlZEZsYWcgfCBfCiAgICAgICAgdHJ1ZSAgICAgICAgICAgICAgICAgICAgIHwgXwogICAgICAgIGZhbHNlICAgICAgICAgICAgICAgICAgICB8IF8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</last-pattern>
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
@@ -849,6 +812,7 @@
         <entry encoding="base64">XDxjb21wYW55SW5mb3JtYXRpb25JZFw+</entry>
         <entry>where</entry>
         <entry>null</entry>
+        <entry encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
