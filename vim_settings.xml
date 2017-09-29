@@ -62,7 +62,6 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/CommunityUpdateNotificationService.java" timestamp="1506565199705" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_reset.scss" timestamp="1489476022032">
         <mark key="'" line="168" column="0" />
         <mark key="[" line="114" column="2" />
@@ -303,7 +302,6 @@
         <mark key="." line="86" column="74" />
         <mark key="^" line="86" column="74" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-core/src/main/java/net/zexy/cpf/core/enums/CommunityType.java" timestamp="1506564975618" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/staging/devweb201zcp/spring/cpf-web-development/cpf-web.conf" timestamp="1506491053669">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="6" />
@@ -368,7 +366,6 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/event/detail.html" timestamp="1506489101963" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/CompanyInformationRepository.java" timestamp="1504522060409">
         <mark key="'" line="17" column="16" />
         <mark key="[" line="17" column="14" />
@@ -382,7 +379,6 @@
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
       </file>
-      <file name="src:table:/b0eb1f7f/4a2e5e08-f8f6-4cd4-9c4d-a11bdca152ab/cpfdb.Account" timestamp="1506563252300" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_preview.scss" timestamp="1488795755578">
         <mark key="[" line="23" column="1" />
         <mark key="]" line="23" column="1" />
@@ -395,6 +391,7 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1506656623890" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-pre-registered-production/build.sh" timestamp="1505193714089">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="7" />
@@ -485,7 +482,6 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/assets/js/vendor/s_code.js" timestamp="1506490759002" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/test/groovy/net/zexy/cpf/web/repository/EventRepositoryTest.groovy" timestamp="1506563437519">
         <mark key="'" line="787" column="43" />
         <mark key="[" line="37" column="36" />
@@ -524,10 +520,10 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1506056163072">
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1506656776427">
         <mark key="'" line="77" column="39" />
-        <mark key="[" line="77" column="39" />
-        <mark key="]" line="77" column="53" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="76" column="34" />
         <mark key="." line="77" column="53" />
         <mark key="^" line="77" column="53" />
       </file>
@@ -729,8 +725,8 @@
       <jump line="16" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9wcm9maWxlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21tdW5pdHlNYW5hZ2UvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50TWFuYWdlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9ldmVudC8qL3N0b3AvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50LyovZGVsZXRlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21wYW55LyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi93aXRoZHJhdyIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -739,7 +735,7 @@
         <text encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ0NvbXBhbnlDb21tdW5pdHlWaWV3Um9sZScgY29tbXVuaXR5SWQ6IDEsIGFjY291bnRJZDogMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9wcm9maWxlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21tdW5pdHlNYW5hZ2UvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50TWFuYWdlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9ldmVudC8qL3N0b3AvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50LyovZGVsZXRlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21wYW55LyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi93aXRoZHJhdyIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ0NWUi5jb21tdW5pdHlJZCBJUyBOT1QgTlVMTCBBUyBjb21wYW55Q29tbXVuaXR5RmxhZwo=</text>
@@ -785,14 +781,10 @@
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>proc</entry>
-        <entry>update</entry>
-        <entry>logout</entry>
-        <entry>nickname</entry>
         <entry>matcher</entry>
         <entry>find</entry>
         <entry>vendor</entry>
