@@ -391,7 +391,6 @@
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/ProfileController.java" timestamp="1506656623890" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-notice-pre-registered-production/build.sh" timestamp="1505193714089">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="7" />
@@ -519,13 +518,6 @@
         <mark key="]" line="69" column="6" />
         <mark key="." line="69" column="5" />
         <mark key="^" line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1506656776427">
-        <mark key="'" line="77" column="39" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="77" column="53" />
-        <mark key="^" line="77" column="53" />
       </file>
       <file name="/dummy.sql" timestamp="1506563395244">
         <mark key="[" line="0" column="0" />
@@ -732,7 +724,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</text>
+        <text>communityRole</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9wcm9maWxlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21tdW5pdHlNYW5hZ2UvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50TWFuYWdlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9ldmVudC8qL3N0b3AvKioiLAogICAgICAgICAgICAgICAgICAgICAgICAiL2V2ZW50LyovZGVsZXRlLyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi9jb21wYW55LyoqIiwKICAgICAgICAgICAgICAgICAgICAgICAgIi93aXRoZHJhdyIK</text>
@@ -775,13 +767,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</last-search>
+      <last-search>communityRole</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</last-pattern>
+      <last-pattern>communityRole</last-pattern>
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -805,6 +797,8 @@
         <entry>where</entry>
         <entry>null</entry>
         <entry encoding="base64">XDxjb21tdW5pdHlUeXBlXD4=</entry>
+        <entry>communityRoleSupport</entry>
+        <entry>communityRole</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
