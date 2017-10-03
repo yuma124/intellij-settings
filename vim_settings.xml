@@ -99,7 +99,6 @@
         <mark key="." line="320" column="39" />
         <mark key="^" line="320" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/.csscomb.json" timestamp="1506673272240" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/403.html" timestamp="1488795181917">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -254,6 +253,7 @@
         <mark key="^" line="33" column="1" />
         <mark key="." line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/RedisHttpSessionConfiguration.java" timestamp="1507025030903" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/form/AccountRegistrationForm.java" timestamp="1488452456986">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="46" />
@@ -526,6 +526,9 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1507025294106">
+        <mark key="[" line="89" column="73" />
+      </file>
       <file name="/dummy.sql" timestamp="1506563395244">
         <mark key="[" line="0" column="0" />
       </file>
@@ -789,7 +792,7 @@
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
