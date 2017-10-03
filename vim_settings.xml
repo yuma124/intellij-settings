@@ -531,11 +531,11 @@
         <mark key="." line="69" column="5" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1507033848258">
-        <mark key="[" line="89" column="63" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/configuration/WebSecurityConfiguration.java" timestamp="1507035007391">
+        <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
-        <mark key="^" line="90" column="104" />
+        <mark key="^" line="89" column="60" />
       </file>
       <file name="/dummy.sql" timestamp="1506563395244">
         <mark key="[" line="0" column="0" />
@@ -549,7 +549,7 @@
       <file name="/Dummy.txt" timestamp="1507033678239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1507031920378" />
+      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/application-common.yml" timestamp="1507035056589" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1489044332007">
         <mark key="[" line="56" column="49" />
         <mark key="]" line="56" column="52" />
@@ -575,7 +575,7 @@
         <mark key="." line="94" column="35" />
         <mark key="^" line="94" column="35" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.0.RELEASE/31c202644cf33c74471a0937a253673e5021c078/spring-security-config-4.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer.java" timestamp="1507032667565" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/4.2.0.RELEASE/31c202644cf33c74471a0937a253673e5021c078/spring-security-config-4.2.0.RELEASE-sources.jar!/org/springframework/security/config/annotation/web/configurers/ExpressionUrlAuthorizationConfigurer.java" timestamp="1507035203424" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/static/error/503.html" timestamp="1488795194754">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -748,7 +748,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMobmV3IFBlcnNpc3RlbnRUb2tlbkJhc2VkUmVtZW1iZXJNZVNlcnZpY2VzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>loginAccountDetailsService, jdbcTokenRepository()</text>
@@ -760,37 +760,38 @@
         <text encoding="base64">IyBJbnRlbGxpSgovb3V0LwovY3BmLSovb3V0Lwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMobmV3IFBlcnNpc3RlbnRUb2tlbkJhc2VkUmVtZW1iZXJNZVNlcnZpY2VzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyKCkK</text>
+      <register name="2" type="4">
+        <text>)
+                .rememberMeServices()</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHdheXNSZW1lbWJlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMobmV3IFBlcnNpc3RlbnRUb2tlbkJhc2VkUmVtZW1iZXJNZVNlcnZpY2VzKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VTZWN1cmVDb29raWUodHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHdheXNSZW1lbWJlcih0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHdheXNSZW1lbWJlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">L2NwZi0qL291dC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC51c2VTZWN1cmVDb29raWUodHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">L2NwZi0qL291dC8KL291dC8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbHdheXNSZW1lbWJlcih0cnVlKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMK</text>
+        <text encoding="base64">L2NwZi0qL291dC8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ0NWUi5jb21tdW5pdHlJZCBJUyBOT1QgTlVMTCBBUyBjb21wYW55Q29tbXVuaXR5RmxhZwo=</text>
+        <text encoding="base64">L2NwZi0qL291dC8KL291dC8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
