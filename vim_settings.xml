@@ -1179,8 +1179,11 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/career-web/src/main/java/Main.java" timestamp="1510757997298">
-        <mark key="[" line="14" column="5" />
+      <file name="$USER_HOME$/repos/career-web/src/main/java/Main.java" timestamp="1510760288364">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/playgrounds/hajiboot-jpa/src/main/java/com/example/service/CustomerRepository.java" timestamp="1475987750812">
         <mark key="[" line="15" column="4" />
@@ -1658,10 +1661,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>loginAccountDetailsService, jdbcTokenRepository()</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>popup</text>
@@ -1670,38 +1673,37 @@
         <text encoding="base64">IyBJbnRlbGxpSgovb3V0LwovY3BmLSovb3V0Lwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIERpcmVjdGlvbiB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLnNlY3VyaXR5Q29udGV4dCgpLnNlY3VyaXR5Q29udGV4dFJlcG9zaXRvcnkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgUGxheWVyIHsKICAgICAgICBpbnQgeDsKICAgICAgICBpbnQgeTsKICAgICAgICAKICAgICAgICAKICAgICAgICBwdWJsaWMgUGxheWVyKCkgewogICAgICAgICAgICAKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLmNvbmZpZ3VyZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDjgrnjg5rjg7zjgrnljLrliIfjgorjga7mlbTmlbDjga7lhaXlipsK</text>
       </register>
-      <register name="7" type="4">
-        <text>)
-                .rememberMeServices()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMobmV3IFBlcnNpc3RlbnRUb2tlbkJhc2VkUmVtZW1iZXJNZVNlcnZpY2VzKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hdXRoZW50aWNhdGlvblN1Y2Nlc3NIYW5kbGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
