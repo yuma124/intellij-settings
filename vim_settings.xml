@@ -54,7 +54,6 @@
         <mark key="^" line="58" column="1" />
         <mark key="." line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/config/initializers/exception_notification.rb" timestamp="1515559312229" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/staging/jenkins/build-cpf-web" timestamp="1506326280421">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -258,11 +257,11 @@
         <mark key="]" line="1004" column="67" />
         <mark key="." line="1045" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1515570484441">
-        <mark key="[" line="13" column="106" />
-        <mark key="]" line="13" column="106" />
-        <mark key="^" line="13" column="106" />
-        <mark key="." line="13" column="106" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516598502656">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="64" />
+        <mark key="^" line="23" column="64" />
+        <mark key="." line="23" column="64" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/percolate/src/Percolate.java" timestamp="1506054744181">
         <mark key="[" line="12" column="9" />
@@ -311,6 +310,12 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="8" column="26" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/show.html.slim" timestamp="1516598809629">
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="29" column="60" />
+        <mark key="^" line="29" column="76" />
+        <mark key="." line="29" column="60" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdrawSuccess.html" timestamp="1488517720678">
         <mark key="[" line="43" column="18" />
         <mark key="]" line="43" column="28" />
@@ -345,6 +350,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_assigns.html.slim" timestamp="1516598628976">
+        <mark key="[" line="11" column="73" />
+        <mark key="]" line="11" column="72" />
+        <mark key="^" line="11" column="72" />
+        <mark key="." line="11" column="72" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/login/index.html" timestamp="1485241648020">
         <mark key="[" line="86" column="171" />
@@ -468,7 +479,7 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513931159706">
+      <file name="/Dummy.txt" timestamp="1516597134591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1489044332007">
@@ -660,49 +671,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>issue</text>
+        <text>, issues: @issues</text>
       </register>
       <register name="-" type="4">
-        <text>issue</text>
+        <text>, issues: @issues</text>
       </register>
       <register name="/" type="4">
         <text>popup</text>
       </register>
       <register name="0" type="4">
-        <text>a.accuracy.present ? issue.accuracy : 0</text>
+        <text>, issues: @issues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZCA9IGlzc3VlLmhpc3Rvcmllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">ICAgICAgdGggaGlzdG9yeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLgo=</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLnNlY3VyaXR5Q29udGV4dCgpLnNlY3VyaXR5Q29udGV4dFJlcG9zaXRvcnkoKQo=</text>
+        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBodHRwLnJlcXVlc3RDYWNoZSgpLmNvbmZpZ3VyZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZW1lbWJlck1lU2VydmljZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBodHRwLnNlY3VyaXR5Q29udGV4dCgpLnNlY3VyaXR5Q29udGV4dFJlcG9zaXRvcnkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
@@ -715,7 +726,7 @@
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
