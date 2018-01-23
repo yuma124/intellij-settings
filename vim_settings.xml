@@ -37,6 +37,10 @@
         <mark key="^" line="38" column="4" />
         <mark key="." line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/timely_sprint.rb" timestamp="1516689470730">
+        <mark key="[" line="29" column="33" />
+        <mark key="]" line="29" column="80" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/AccountRepository.xml" timestamp="1504513607310">
         <mark key="[" line="202" column="41" />
         <mark key="]" line="202" column="41" />
@@ -265,11 +269,11 @@
         <mark key="]" line="1004" column="67" />
         <mark key="." line="1045" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516598502656">
-        <mark key="[" line="24" column="64" />
-        <mark key="]" line="24" column="64" />
-        <mark key="^" line="24" column="64" />
-        <mark key="." line="24" column="64" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516689109099">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="64" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/percolate/src/Percolate.java" timestamp="1506054744181">
         <mark key="[" line="12" column="9" />
@@ -493,7 +497,7 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516687512798">
+      <file name="/Dummy.txt" timestamp="1516688574564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1489044332007">
@@ -532,11 +536,11 @@
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="69" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_spent.html.slim" timestamp="1516688446530">
-        <mark key="[" line="5" column="142" />
-        <mark key="]" line="5" column="142" />
-        <mark key="^" line="5" column="142" />
-        <mark key="." line="5" column="142" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_spent.html.slim" timestamp="1516689796693">
+        <mark key="[" line="9" column="125" />
+        <mark key="]" line="9" column="130" />
+        <mark key="^" line="9" column="130" />
+        <mark key="." line="9" column="130" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/_component/_summary.scss" timestamp="1488795836162">
         <mark key="[" line="20" column="1" />
@@ -691,49 +695,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>history</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>history</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>popup</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2VsZi5hdXRob3IgPSBhdHRyLmRpZygiYXV0aG9yIiwgImRpc3BsYXlOYW1lIikK</text>
+      <register name="0" type="4">
+        <text>.blank? ? nil : (estimation / 3600 / 6).round(1)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZCA9ID8gIuacquWJsuOCiuW9k+OBpiIgOiBhc3NpZ24uYXNzaWduZWUK</text>
+        <text encoding="base64">ICAgICAgICB0ZCA9IGdyb3VwLmxhc3QubWFwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZCA9IGFzc2lnbi5lc3RpbWF0aW9uLm5pbD8gPyAiLSIgOiAiI3thc3NpZ24uZXN0aW1hdGlvbn0gZGF5cyIKICAgICAgICB0ZCA9IGFzc2lnbi5jb25zdW1wdGlvbi5uaWw/ID8gIi0iIDogIiN7YXNzaWduLmNvbnN1bXB0aW9ufSBkYXlzIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGgg6KaL56mN5pmC6ZaTCiAgICAgIHRoIOa2iOiyu+aZgumWkwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0ZCA9IGlzc3VlLmhpc3Rvcmllcwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgdGggaGlzdG9yeQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRhc2tzLmdyb3VwX2J5KCY6YXNzaWduZWUpLmVhY2hfd2l0aF9vYmplY3QoW10pIGRvIHxncm91cCwgYXR0cnwgYXNzaWduZWUgPSBncm91cC5maXJzdAogICAgICBlc3RpbWF0aW9uID0gZ3JvdXAubGFzdC5tYXAgeyB8aXwgaS5lc3RpbWF0ZS50b19mIH0uY29tcGFjdC5pbmplY3QgeyB8YWNjLCBlbGVtfCBhY2MgKyBlbGVtIH0KICAgICAgZXN0aW1hdGlvbl9kYXkgPSBlc3RpbWF0aW9uLmJsYW5rPyA/IG5pbCA6IChlc3RpbWF0aW9uIC8gMzYwMCAvIDYpLnJvdW5kKDEpCiAgICAgIGNvbnN1bXB0aW9uID0gZ3JvdXAubGFzdC5tYXAgeyB8aXwgaS50aW1ldHJhY2tpbmdbInRpbWVTcGVudFNlY29uZHMiXS50b19mIH0uY29tcGFjdC5pbmplY3QgeyB8YWNjLCBlbGVtfCBhY2MgKyBlbGVtIH0KICAgICAgY29uc3VtcHRpb25fZGF5ID0gY29uc3VtcHRpb24uYmxhbms/ID8gbmlsIDogKGNvbnN1bXB0aW9uIC8gMzYwMCAvIDYpLnJvdW5kKDEpCiAgICAgIGF0dHIgPDwgYXNzaWduLm5ldyhhc3NpZ25lZSwgZXN0aW1hdGlvbl9kYXksIGNvbnN1bXB0aW9uX2RheSkKICAgIGVuZAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0ZCA9ID8gIuacquWJsuOCiuW9k+OBpiIgOiBhc3NpZ24uYXNzaWduZWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZCA9IGFzc2lnbi5lc3RpbWF0aW9uLm5pbD8gPyAiLSIgOiAiI3thc3NpZ24uZXN0aW1hdGlvbn0gZGF5cyIKICAgICAgICB0ZCA9IGFzc2lnbi5jb25zdW1wdGlvbi5uaWw/ID8gIi0iIDogIiN7YXNzaWduLmNvbnN1bXB0aW9ufSBkYXlzIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">ICAgICAgdGgg6KaL56mN5pmC6ZaTCiAgICAgIHRoIOa2iOiyu+aZgumWkwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICo9IHJlcXVpcmUgbWF0ZXJpYWxpemUtY3NzL2Rpc3QvY3NzL21hdGVyaWFsaXplLmNzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
