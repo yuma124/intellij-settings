@@ -24,7 +24,12 @@
         <mark key="." line="15" column="8" />
         <mark key="^" line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/sprint.rb" timestamp="1516770238529" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/sprint.rb" timestamp="1516776537936">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/controller/EventController.java" timestamp="1504003109513">
         <mark key="[" line="300" column="45" />
         <mark key="]" line="300" column="43" />
@@ -91,7 +96,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" timestamp="1516686947160" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" timestamp="1516776470338">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/kubernetes/deployment.yaml" timestamp="1516774485509">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="49" />
@@ -260,22 +270,22 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time_based_chart.html.erb" timestamp="1516692773086">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="82" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time_based_chart.html.erb" timestamp="1516775764753">
+        <mark key="[" line="8" column="85" />
+        <mark key="]" line="8" column="103" />
+        <mark key="." line="8" column="103" />
+        <mark key="^" line="8" column="103" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/LatestEventRepositoryTest.groovy" timestamp="1506564520530">
         <mark key="[" line="1004" column="0" />
         <mark key="]" line="1004" column="67" />
         <mark key="." line="1045" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516693250804">
-        <mark key="[" line="23" column="64" />
-        <mark key="]" line="23" column="64" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516775683345">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
         <mark key="^" line="23" column="64" />
-        <mark key="." line="23" column="64" />
+        <mark key="." line="13" column="13" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/percolate/src/Percolate.java" timestamp="1506054744181">
         <mark key="[" line="12" column="9" />
@@ -324,11 +334,11 @@
         <mark key="." line="9" column="11" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/show.html.slim" timestamp="1516692751341">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="32" column="8" />
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/show.html.slim" timestamp="1516775601643">
+        <mark key="[" line="33" column="66" />
+        <mark key="]" line="33" column="77" />
+        <mark key="." line="33" column="77" />
+        <mark key="^" line="33" column="77" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdrawSuccess.html" timestamp="1488517720678">
         <mark key="[" line="43" column="18" />
@@ -455,6 +465,12 @@
         <mark key="." line="10" column="12" />
         <mark key="^" line="10" column="12" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/controllers/sprints_controller.rb" timestamp="1516776354297">
+        <mark key="[" line="56" column="47" />
+        <mark key="]" line="56" column="47" />
+        <mark key="." line="56" column="47" />
+        <mark key="^" line="56" column="47" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-admin/build.gradle" timestamp="1505969323492">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="13" column="78" />
@@ -499,7 +515,7 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516688574564">
+      <file name="/Dummy.txt" timestamp="1516775966092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/resources/templates/account/withdraw.html" timestamp="1489044332007">
@@ -595,11 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
-      <jump line="24" column="69" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
-      <jump line="17" column="16" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/repository/CompanyInformationRepository.java" />
-      <jump line="18" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/CompanyInformationRepository.xml" />
-      <jump line="20" column="10" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/resources/net/zexy/cpf/batch/repository/CompanyInformationRepository.xml" />
       <jump line="66" column="0" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportCompanyCodeService.java" />
       <jump line="39" column="14" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportTextService.java" />
       <jump line="26" column="98" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/main/java/net/zexy/cpf/batch/service/ExportTextService.java" />
@@ -695,61 +706,66 @@
       <jump line="1843" column="88" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
       <jump line="16" column="31" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/service/CommunityUpdateNotificationServiceTest.groovy" />
       <jump line="131" column="88" filename="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventSearchListService.java" />
+      <jump line="47" column="19" filename="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" />
+      <jump line="48" column="39" filename="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" />
+      <jump line="49" column="20" filename="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" />
+      <jump line="5" column="60" filename="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" />
+      <jump line="34" column="16" filename="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/models/issue.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>popup</text>
+        <text>accuracy</text>
       </register>
-      <register name="0" type="4">
-        <text>histories[assignee].blank? ? 0 : (histories[assignee].map { |i| i.to.to_i - (i.from.present? ? i.from.to_i : 0)}.compact.inject { |acc, elem| acc + elem }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC0gaXNzdWVzLnNvcnR7fGEsIGJ8IChhLmFjY3VyYWN5LnByZXNlbnQ/ID8gYS5hY2N1cmFjeSA6IDApIDw9PiAoYi5hY2N1cmFjeS5wcmVzZW50PyA/IGIuYWNjdXJhY3kgOiAwKSB9LmVhY2ggZG8gfGlzc3VlfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JCgnc2VjdGlvbi5zcGVudCA+IHRhYmxlJykuaHRtbCgnPCU9aiByZW5kZXIgIi9zcHJpbnRzL3RpbWUvc3BlbnQiLCBpc3N1ZXM6IEBpc3N1ZXMgJT4nKTsK</text>
+        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICBkZWYgaXNzdWVzKCpvcHRpb25zKQogICAgc2VsZi50YXNrYXMgPSBJc3N1ZS5zZWFyY2hfYnlfc3ByaW50IG9yaQogIGVuZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZWN0aW9uLnNwZW50CiAgICBoMiDnqLzlg43mmYLplpMKICAgID0gcmVuZGVyICIvc3ByaW50cy90aW1lL3NwZW50IiwgaXNzdWVzOiBAaXNzdWVzCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGQgPSAoZ3JvdXAubGFzdC5tYXAgeyB8aXwgaS50by50b19pIC0gKGkuZnJvbS5wcmVzZW50PyA/IGkuZnJvbS50b19pIDogMCl9LmNvbXBhY3QuaW5qZWN0IHsgfGFjYywgZWxlbXwgYWNjICsgZWxlbSB9ICogMS4wIC8gMzYwMCAvIDYpLnJvdW5kKDEpCg==</text>
+        <text encoding="base64">JCgnc2VjdGlvbi5zcGVudCA+IHRhYmxlJykuaHRtbCgnPCU9aiByZW5kZXIgIi9zcHJpbnRzL3RpbWUvc3BlbnQiLCBpc3N1ZXM6IEBpc3N1ZXMgJT4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQgaGlzdG9yaWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQgaGlzdG9yaWVzCg==</text>
+        <text encoding="base64">ICBzZWN0aW9uLnNwZW50CiAgICBoMiDnqLzlg43mmYLplpMKICAgID0gcmVuZGVyICIvc3ByaW50cy90aW1lL3NwZW50IiwgaXNzdWVzOiBAaXNzdWVzCgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdHIKICAgICAgdGQgPSBncm91cC5maXJzdAogICAgICB0ZCA9IChncm91cC5sYXN0Lm1hcCB7IHxpfCBpLnRvLnRvX2kgLSAoaS5mcm9tLnByZXNlbnQ/ID8gaS5mcm9tLnRvX2kgOiAwKX0uY29tcGFjdC5pbmplY3QgeyB8YWNjLCBlbGVtfCBhY2MgKyBlbGVtIH0gKiAxLjAgLyAzNjAwIC8gNikucm91bmQoMSkK</text>
+        <text encoding="base64">ICAgICAgdGQgPSAoZ3JvdXAubGFzdC5tYXAgeyB8aXwgaS50by50b19pIC0gKGkuZnJvbS5wcmVzZW50PyA/IGkuZnJvbS50b19pIDogMCl9LmNvbXBhY3QuaW5qZWN0IHsgfGFjYywgZWxlbXwgYWNjICsgZWxlbSB9ICogMS4wIC8gMzYwMCAvIDYpLnJvdW5kKDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZCA9IGdyb3VwLmxhc3QubWFwCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnQgaGlzdG9yaWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
       </register>
     </registers>
     <search>
-      <last-search>popup</last-search>
+      <last-search>accuracy</last-search>
       <last-offset />
-      <last-pattern>popup</last-pattern>
+      <last-pattern>accuracy</last-pattern>
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
@@ -777,6 +793,7 @@
         <entry>communityRoleSupport</entry>
         <entry>communityRole</entry>
         <entry>popup</entry>
+        <entry>accuracy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhc3ROYW1lL2ZpcnN0TmFtZS9n</entry>
