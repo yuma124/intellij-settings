@@ -126,6 +126,12 @@
         <mark key="." line="350" column="46" />
         <mark key="^" line="350" column="46" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yaml" timestamp="1518082338856">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/uploadCoupon.scss" timestamp="1488794372145">
         <mark key="[" line="12" column="1" />
         <mark key="]" line="12" column="1" />
@@ -207,6 +213,11 @@
         <mark key="." line="5" column="79" />
         <mark key="^" line="5" column="79" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/.gitignore" timestamp="1518082990945">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/index.scss" timestamp="1488794362955">
         <mark key="[" line="33" column="1" />
         <mark key="]" line="33" column="1" />
@@ -267,11 +278,11 @@
         <mark key="." line="4" column="103" />
         <mark key="^" line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1517928909662">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1518082868392">
+        <mark key="[" line="10" column="104" />
+        <mark key="]" line="10" column="104" />
+        <mark key="^" line="10" column="104" />
+        <mark key="." line="10" column="104" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-batch/src/test/groovy/net/zexy/cpf/batch/repository/LatestEventRepositoryTest.groovy" timestamp="1506564520530">
         <mark key="[" line="1004" column="0" />
@@ -348,11 +359,6 @@
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
         <mark key="." line="43" column="28" />
-      </file>
-      <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/main/java/net/zexy/cpf/web/service/EventService.java" timestamp="1506672887786">
-        <mark key="]" line="458" column="33" />
-        <mark key="." line="458" column="33" />
-        <mark key="^" line="458" column="33" />
       </file>
       <file name="$USER_HOME$/repos/suumo/suumo_githook/docker-compose.yml" timestamp="1517929907230">
         <mark key="[" line="6" column="0" />
@@ -499,6 +505,7 @@
         <mark key="." line="15" column="39" />
         <mark key="^" line="15" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/suumo/suumo_build_tracker/.gitignore" timestamp="1518082983715" />
       <file name="$USER_HOME$/repos/recruit-mp/cpf/infrastructure/production/jenkins/mp-ops-community-additional-point-production/build.sh" timestamp="1506402529674">
         <mark key="[" line="39" column="6" />
         <mark key="]" line="40" column="9" />
@@ -731,11 +738,11 @@
       <jump line="3" column="8" filename="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>develop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>develop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZFw+</text>
@@ -744,37 +751,37 @@
         <text encoding="base64">ICAgICAgYSA9IGEuYWNjdXJhY3kucHJlc2VudD8gPyBhLmFjY3VyYWN5IDogMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBQUk9KRUNUX0lEOiByc2Mtc3VhcAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoKIyAgICAgIERFQlVHOiAidGhpcyBpcyBkZWJ1ZyIgIyBpbnNlcnQgc29tZXRoaW5nIHN0cmluZyBpZiB5b3Ugd2FudCBpdCB0byBiZSBkZWJ1ZyBtb2RlCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBQUk9KRUNUX0lEOiByc2Mtc3VhcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICBlbnZpcm9ubWVudDoKIyAgICAgIERFQlVHOiAidGhpcyBpcyBkZWJ1ZyIgIyBpbnNlcnQgc29tZXRoaW5nIHN0cmluZyBpZiB5b3Ugd2FudCBpdCB0byBiZSBkZWJ1ZyBtb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTk9ERV9FTlY6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKCkgPD0+IChiLmFjY3VyYWN5LnByZXNlbnQ/ID8gYi5hY2N1cmFjeSA6IDApCg==</text>
+        <text encoding="base64">ICAgICAgTk9ERV9FTlY6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgKCkgPD0+IChiLmFjY3VyYWN5LnByZXNlbnQ/ID8gYi5hY2N1cmFjeSA6IDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgaXNzdWVzX3NvcnRlZF9ieV9hY2N1cmFjeSgqb3B0aW9ucykKICBlbmQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhc2tzLnNvcnQge3xhLCBifCAoYS5hY2N1cmFjeS5wcmVzZW50PyA/IGEuYWNjdXJhY3kgOiAwKSA8PT4gKGIuYWNjdXJhY3kucHJlc2VudD8gPyBiLmFjY3VyYWN5IDogMCl9Cg==</text>
+        <text encoding="base64">ICBkZWYgaXNzdWVzX3NvcnRlZF9ieV9hY2N1cmFjeSgqb3B0aW9ucykKICBlbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYudGFza3MgPSBJc3N1ZS5zZWFyY2hfYnlfc3ByaW50IG9yaWdpbkJvYXJkSWQsIGlkLCBvcHRpb25zCiAgICByZXR1cm4gW10gaWYgdGFza3MubmlsPwo=</text>
+        <text encoding="base64">ICAgIHRhc2tzLnNvcnQge3xhLCBifCAoYS5hY2N1cmFjeS5wcmVzZW50PyA/IGEuYWNjdXJhY3kgOiAwKSA8PT4gKGIuYWNjdXJhY3kucHJlc2VudD8gPyBiLmFjY3VyYWN5IDogMCl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyAgL0FERCBDT0xVTU4gYC9n</text>
@@ -787,11 +794,10 @@
       <last-replace>ADD COLUMN `</last-replace>
       <last-substitute encoding="base64">ICA=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>select</entry>
         <entry>withdraw</entry>
         <entry>build</entry>
         <entry>resi</entry>
