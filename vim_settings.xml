@@ -78,11 +78,11 @@
         <mark key="." line="320" column="39" />
         <mark key="^" line="320" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/githook.js" timestamp="1518142915977">
-        <mark key="[" line="90" column="42" />
-        <mark key="]" line="90" column="40" />
-        <mark key="." line="90" column="40" />
-        <mark key="^" line="90" column="40" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/githook.js" timestamp="1518145254861">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="90" />
+        <mark key="." line="26" column="90" />
+        <mark key="^" line="26" column="90" />
       </file>
       <file name="$USER_HOME$/repos/suumo/suumo_githook/config.json" timestamp="1518141012256">
         <mark key="'" line="6" column="4" />
@@ -138,11 +138,11 @@
         <mark key="." line="350" column="46" />
         <mark key="^" line="350" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yaml" timestamp="1518091896071">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="46" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yaml" timestamp="1518145292627">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="46" />
+        <mark key="." line="15" column="45" />
       </file>
       <file name="$USER_HOME$/repos/recruit-mp/cpf/cpf-web/src/web/scss/communityManage/uploadCoupon.scss" timestamp="1488794372145">
         <mark key="[" line="12" column="1" />
@@ -291,10 +291,10 @@
         <mark key="." line="4" column="103" />
         <mark key="^" line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1518142873808">
-        <mark key="[" line="7" column="70" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1518145277369">
+        <mark key="[" line="7" column="58" />
         <mark key="]" line="7" column="70" />
-        <mark key="." line="7" column="70" />
+        <mark key="." line="7" column="58" />
         <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516775683345">
@@ -736,17 +736,17 @@
       <jump line="7" column="4" filename="$USER_HOME$/repos/suumo/suumo_githook/config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsb2FkQmFsYW5jZXJJUDogIjM1LjIwMC4zMC4yNDEiICMgVE9ETyDjg63jg7zjg4njg5Djg6njg7PjgrXjg7zjga7oqK3lrpoK</text>
+      <register name="&quot;" type="4">
+        <text>, updated_at</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>, updated_at</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIm5vdGlmaWNhdGlvbl9jaGFubmVsIjogImFwcF9tZXJnZV9yZXF1ZXN0cyIK</text>
+        <text encoding="base64">ICAgICAgICB1cmk6ICdodHRwczovL2hvb2tzLnNsYWNrLmNvbS9zZXJ2aWNlcy9UMlhDUDAwSksvQjdDSlNKQ0M4LzNPY2xQeXZxaDRBNFFBRzNyNkZ1UTIxQycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBsb2FkQmFsYW5jZXJJUDogIjM1LjIwMC4zMC4yNDEiICMgVE9ETyDjg63jg7zjg4njg5Djg6njg7PjgrXjg7zjga7oqK3lrpoK</text>
