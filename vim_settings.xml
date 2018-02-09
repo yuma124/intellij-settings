@@ -78,11 +78,11 @@
         <mark key="." line="320" column="39" />
         <mark key="^" line="320" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/githook.js" timestamp="1518145254861">
-        <mark key="[" line="26" column="14" />
-        <mark key="]" line="26" column="90" />
-        <mark key="." line="26" column="90" />
-        <mark key="^" line="26" column="90" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/githook.js" timestamp="1518145972553">
+        <mark key="[" line="91" column="50" />
+        <mark key="]" line="91" column="50" />
+        <mark key="." line="91" column="50" />
+        <mark key="^" line="91" column="50" />
       </file>
       <file name="$USER_HOME$/repos/suumo/suumo_githook/config.json" timestamp="1518141012256">
         <mark key="'" line="6" column="4" />
@@ -138,7 +138,7 @@
         <mark key="." line="350" column="46" />
         <mark key="^" line="350" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yaml" timestamp="1518145292627">
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/kubernetes/deployment.yaml" timestamp="1518146433718">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
@@ -291,11 +291,11 @@
         <mark key="." line="4" column="103" />
         <mark key="^" line="4" column="103" />
       </file>
-      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1518145277369">
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="7" column="70" />
-        <mark key="." line="7" column="58" />
-        <mark key="^" line="7" column="63" />
+      <file name="$USER_HOME$/repos/suumo/suumo_githook/storage.js" timestamp="1518146418659">
+        <mark key="[" line="10" column="194" />
+        <mark key="]" line="10" column="201" />
+        <mark key="." line="10" column="201" />
+        <mark key="^" line="10" column="201" />
       </file>
       <file name="$USER_HOME$/repos/suumo/suumo_velocity_tracker/app/views/sprints/time/_issues.html.slim" timestamp="1516775683345">
         <mark key="[" line="13" column="13" />
@@ -737,10 +737,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, updated_at</text>
+        <text>updated_at</text>
       </register>
       <register name="-" type="4">
-        <text>, updated_at</text>
+        <text>updated_at</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
